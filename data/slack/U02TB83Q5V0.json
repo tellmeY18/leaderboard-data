@@ -68,7 +68,7 @@
         {
             "client_msg_id": "0dd237da-d091-4ad3-9ae2-277e10ca2510",
             "type": "message",
-            "text": "Working on <https://github.com/coronasafe/care_fe/issues/2405|#2405>",
+            "text": "Working on <https://github.com/ohcnetwork/care_fe/issues/2405|#2405>",
             "user": "U02TB83Q5V0",
             "ts": "1652883082.718649",
             "team": "TC99SV7B6",
@@ -79,13 +79,13 @@
                     "ts": 1652817225,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/issues/2405",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/2405",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care_fe/issues/2405|#2405 Update UI for patient info card buttons>",
+                    "fallback": "<https://github.com/ohcnetwork/care_fe/issues/2405|#2405 Update UI for patient info card buttons>",
                     "text": "Current UI is not so user friendly",
-                    "title": "<https://github.com/coronasafe/care_fe/issues/2405|#2405 Update UI for patient info card buttons>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/issues/2405|#2405 Update UI for patient info card buttons>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "<https://github.com/skks1212|@skks1212>",
@@ -112,7 +112,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2405",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2405",
                                     "text": "#2405",
                                     "unsafe": true
                                 }
@@ -351,7 +351,7 @@
         {
             "client_msg_id": "e920425a-9954-48ae-953c-82b9bcb92f25",
             "type": "message",
-            "text": "Updates :\nmade issues - <https://github.com/coronasafe/care_fe/issues/2562> and <https://github.com/coronasafe/care_fe/issues/2561>\nmade pr - <https://github.com/coronasafe/care_fe/pull/2563>",
+            "text": "Updates :\nmade issues - <https://github.com/ohcnetwork/care_fe/issues/2562> and <https://github.com/ohcnetwork/care_fe/issues/2561>\nmade pr - <https://github.com/ohcnetwork/care_fe/pull/2563>",
             "user": "U02TB83Q5V0",
             "ts": "1653752994.940699",
             "team": "TC99SV7B6",
@@ -369,7 +369,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2562"
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2562"
                                 },
                                 {
                                     "type": "text",
@@ -377,7 +377,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2561"
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2561"
                                 },
                                 {
                                     "type": "text",
@@ -385,7 +385,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2563"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2563"
                                 }
                             ]
                         }
@@ -432,7 +432,7 @@
         {
             "client_msg_id": "1ebc48f8-402f-46fe-a498-858977b15d97",
             "type": "message",
-            "text": "Updates : made PR <https://github.com/coronasafe/care_fe/pull/2599|#2599> and recommitted <https://github.com/coronasafe/care_fe/pull/2563|#2563>. Working on issue <https://github.com/coronasafe/care_fe/issues/2562|#2562>",
+            "text": "Updates : made PR <https://github.com/ohcnetwork/care_fe/pull/2599|#2599> and recommitted <https://github.com/ohcnetwork/care_fe/pull/2563|#2563>. Working on issue <https://github.com/ohcnetwork/care_fe/issues/2562|#2562>",
             "user": "U02TB83Q5V0",
             "ts": "1654013811.444079",
             "team": "TC99SV7B6",
@@ -450,7 +450,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2599",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2599",
                                     "text": "#2599",
                                     "unsafe": true
                                 },
@@ -460,7 +460,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2563",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2563",
                                     "text": "#2563",
                                     "unsafe": true
                                 },
@@ -470,7 +470,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2562",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2562",
                                     "text": "#2562",
                                     "unsafe": true
                                 }
@@ -532,7 +532,7 @@
         {
             "client_msg_id": "43304770-6451-4878-b431-bd2bf21171c2",
             "type": "message",
-            "text": "EOD update :\nworking on <https://github.com/coronasafe/care_fe/issues/2603|#2603> and <https://github.com/coronasafe/care_fe/issues/2602|#2602>",
+            "text": "EOD update :\nworking on <https://github.com/ohcnetwork/care_fe/issues/2603|#2603> and <https://github.com/ohcnetwork/care_fe/issues/2602|#2602>",
             "user": "U02TB83Q5V0",
             "ts": "1654180703.728889",
             "team": "TC99SV7B6",
@@ -543,12 +543,12 @@
                     "ts": 1654052009,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/issues/2603",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/2603",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care_fe/issues/2603|#2603 Explore using @import statements for all css imports>",
-                    "title": "<https://github.com/coronasafe/care_fe/issues/2603|#2603 Explore using @import statements for all css imports>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fallback": "<https://github.com/ohcnetwork/care_fe/issues/2603|#2603 Explore using @import statements for all css imports>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/issues/2603|#2603 Explore using @import statements for all css imports>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -559,12 +559,12 @@
                     "ts": 1654051796,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/issues/2602",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/2602",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care_fe/issues/2602|#2602 Tailwind: Get rid of the App.css File>",
-                    "title": "<https://github.com/coronasafe/care_fe/issues/2602|#2602 Tailwind: Get rid of the App.css File>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fallback": "<https://github.com/ohcnetwork/care_fe/issues/2602|#2602 Tailwind: Get rid of the App.css File>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/issues/2602|#2602 Tailwind: Get rid of the App.css File>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -584,7 +584,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2603",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2603",
                                     "text": "#2603",
                                     "unsafe": true
                                 },
@@ -594,7 +594,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2602",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2602",
                                     "text": "#2602",
                                     "unsafe": true
                                 }
@@ -627,7 +627,7 @@
         {
             "client_msg_id": "ca41f6c8-eeee-4ab9-a45c-d1cc14ba5477",
             "type": "message",
-            "text": "EOD UPDATE -\n\nMade PRs - <https://github.com/coronasafe/care_fe/pull/2639|2639> and <https://github.com/coronasafe/care_fe/pull/2638|2638>\nMostly explored Care Backend and working out how we can divide testing (edited)",
+            "text": "EOD UPDATE -\n\nMade PRs - <https://github.com/ohcnetwork/care_fe/pull/2639|2639> and <https://github.com/ohcnetwork/care_fe/pull/2638|2638>\nMostly explored Care Backend and working out how we can divide testing (edited)",
             "user": "U02TB83Q5V0",
             "ts": "1654265833.406609",
             "team": "TC99SV7B6",
@@ -645,7 +645,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2639",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2639",
                                     "text": "2639"
                                 },
                                 {
@@ -654,7 +654,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2638",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2638",
                                     "text": "2638"
                                 },
                                 {
@@ -718,7 +718,7 @@
         {
             "client_msg_id": "28e8dbb2-08f8-4194-acb4-1bffb9ba181f",
             "type": "message",
-            "text": "EOD Update :\n\nWorked with creating testing workflow and setting up testing branch for backend\n\nIssues :\n<https://github.com/coronasafe/care/issues/832>\n<https://github.com/coronasafe/care/issues/833>\n\nPR :\n<https://github.com/coronasafe/care/pull/835>\n<https://github.com/coronasafe/care/pull/831> (Epic PR)",
+            "text": "EOD Update :\n\nWorked with creating testing workflow and setting up testing branch for backend\n\nIssues :\n<https://github.com/ohcnetwork/care/issues/832>\n<https://github.com/ohcnetwork/care/issues/833>\n\nPR :\n<https://github.com/ohcnetwork/care/pull/835>\n<https://github.com/ohcnetwork/care/pull/831> (Epic PR)",
             "user": "U02TB83Q5V0",
             "ts": "1654611126.800269",
             "team": "TC99SV7B6",
@@ -740,7 +740,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/issues/832"
+                                    "url": "https://github.com/ohcnetwork/care/issues/832"
                                 },
                                 {
                                     "type": "text",
@@ -748,7 +748,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/issues/833"
+                                    "url": "https://github.com/ohcnetwork/care/issues/833"
                                 },
                                 {
                                     "type": "text",
@@ -756,7 +756,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/835"
+                                    "url": "https://github.com/ohcnetwork/care/pull/835"
                                 },
                                 {
                                     "type": "text",
@@ -764,7 +764,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/831"
+                                    "url": "https://github.com/ohcnetwork/care/pull/831"
                                 },
                                 {
                                     "type": "text",
@@ -878,7 +878,7 @@
         {
             "client_msg_id": "9375f48e-a74c-4f7d-9dd4-68a896d602a7",
             "type": "message",
-            "text": "BE Issue : <https://github.com/coronasafe/care/issues/843|#843>\nFE Issue : <https://github.com/coronasafe/care_fe/issues/2664|#2664>\n\nPulls : <https://github.com/coronasafe/care_fe/pull/2665>",
+            "text": "BE Issue : <https://github.com/ohcnetwork/care/issues/843|#843>\nFE Issue : <https://github.com/ohcnetwork/care_fe/issues/2664|#2664>\n\nPulls : <https://github.com/ohcnetwork/care_fe/pull/2665>",
             "user": "U02TB83Q5V0",
             "ts": "1654790230.215279",
             "team": "TC99SV7B6",
@@ -896,7 +896,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/issues/843",
+                                    "url": "https://github.com/ohcnetwork/care/issues/843",
                                     "text": "#843",
                                     "unsafe": true
                                 },
@@ -906,7 +906,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2664",
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2664",
                                     "text": "#2664",
                                     "unsafe": true
                                 },
@@ -916,7 +916,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2665"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2665"
                                 }
                             ]
                         }
@@ -939,7 +939,7 @@
         {
             "client_msg_id": "02a28a7a-ea04-40f7-8723-6be836373906",
             "type": "message",
-            "text": "made PR <https://github.com/coronasafe/care_fe/pull/2672>",
+            "text": "made PR <https://github.com/ohcnetwork/care_fe/pull/2672>",
             "user": "U02TB83Q5V0",
             "ts": "1654872354.772579",
             "team": "TC99SV7B6",
@@ -954,13 +954,13 @@
                     "ts": 1654870389,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/2672",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/2672",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "822x745px image",
-                    "text": "closes <https://github.com/coronasafe/care_fe/issues/2671|#2671>\n\n<https://user-images.githubusercontent.com/23238460/173084720-dce93f44-5876-40c5-b5ee-3f4d4dc489b0.png|image>",
-                    "title": "<https://github.com/coronasafe/care_fe/pull/2672|#2672 Solve hidden overflow in duplicate patient record modal>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "text": "closes <https://github.com/ohcnetwork/care_fe/issues/2671|#2671>\n\n<https://user-images.githubusercontent.com/23238460/173084720-dce93f44-5876-40c5-b5ee-3f4d4dc489b0.png|image>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/pull/2672|#2672 Solve hidden overflow in duplicate patient record modal>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "2",
@@ -987,7 +987,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2672"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2672"
                                 }
                             ]
                         }
@@ -1009,7 +1009,7 @@
         {
             "client_msg_id": "6b25598f-9776-4c03-8748-e7b98dc42d8c",
             "type": "message",
-            "text": "Made PRs : <https://github.com/coronasafe/care_fe/pull/2687> and <https://github.com/coronasafe/care/pull/852>",
+            "text": "Made PRs : <https://github.com/ohcnetwork/care_fe/pull/2687> and <https://github.com/ohcnetwork/care/pull/852>",
             "user": "U02TB83Q5V0",
             "ts": "1654961763.821669",
             "team": "TC99SV7B6",
@@ -1020,12 +1020,12 @@
                     "ts": 1654959749,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/2687",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/2687",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care_fe/pull/2687|#2687 Fix camera buttons>",
-                    "title": "<https://github.com/coronasafe/care_fe/pull/2687|#2687 Fix camera buttons>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fallback": "<https://github.com/ohcnetwork/care_fe/pull/2687|#2687 Fix camera buttons>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/pull/2687|#2687 Fix camera buttons>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -1036,12 +1036,12 @@
                     "ts": 1654956552,
                     "color": "6f42c1",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/852",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/852",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care/pull/852|#852 Changed allowed hosts to wildcard in staging>",
-                    "title": "<https://github.com/coronasafe/care/pull/852|#852 Changed allowed hosts to wildcard in staging>",
-                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "fallback": "<https://github.com/ohcnetwork/care/pull/852|#852 Changed allowed hosts to wildcard in staging>",
+                    "title": "<https://github.com/ohcnetwork/care/pull/852|#852 Changed allowed hosts to wildcard in staging>",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -1061,7 +1061,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2687"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2687"
                                 },
                                 {
                                     "type": "text",
@@ -1069,7 +1069,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/852"
+                                    "url": "https://github.com/ohcnetwork/care/pull/852"
                                 }
                             ]
                         }
@@ -1093,7 +1093,7 @@
         {
             "client_msg_id": "b562a769-a6d8-4a2b-8a72-81f885987d90",
             "type": "message",
-            "text": "worked on pr <https://github.com/coronasafe/care_fe/pull/2687>",
+            "text": "worked on pr <https://github.com/ohcnetwork/care_fe/pull/2687>",
             "user": "U02TB83Q5V0",
             "ts": "1655055953.585089",
             "team": "TC99SV7B6",
@@ -1104,13 +1104,13 @@
                     "ts": 1654959749,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/2687",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/2687",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care_fe/pull/2687|#2687 Fix camera buttons>",
-                    "text": "closes <https://github.com/coronasafe/care_fe/issues/2683|#2683>",
-                    "title": "<https://github.com/coronasafe/care_fe/pull/2687|#2687 Fix camera buttons>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fallback": "<https://github.com/ohcnetwork/care_fe/pull/2687|#2687 Fix camera buttons>",
+                    "text": "closes <https://github.com/ohcnetwork/care_fe/issues/2683|#2683>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/pull/2687|#2687 Fix camera buttons>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "need testing",
@@ -1142,7 +1142,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2687"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2687"
                                 }
                             ]
                         }
@@ -1165,7 +1165,7 @@
         {
             "client_msg_id": "cc89a872-e460-48f4-95f0-7c7120d2d0c1",
             "type": "message",
-            "text": "PRs\n\u2022 <https://github.com/coronasafe/care/pull/855>\n\u2022 <https://github.com/coronasafe/care_fe/pull/2702>\n\u2022 <https://github.com/coronasafe/care_fe/pull/2699>",
+            "text": "PRs\n\u2022 <https://github.com/ohcnetwork/care/pull/855>\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/2702>\n\u2022 <https://github.com/ohcnetwork/care_fe/pull/2699>",
             "user": "U02TB83Q5V0",
             "ts": "1655139746.146539",
             "team": "TC99SV7B6",
@@ -1180,13 +1180,13 @@
                     "ts": 1655125598,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/855",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/855",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care/pull/855|#855 fixed listing of deleted users>",
-                    "text": "Users fetched with the get_users API returned users which had been set to not active.\n\ncloses <https://github.com/coronasafe/care_fe/issues/2701|coronasafe/care_fe#2701>",
-                    "title": "<https://github.com/coronasafe/care/pull/855|#855 fixed listing of deleted users>",
-                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "fallback": "<https://github.com/ohcnetwork/care/pull/855|#855 fixed listing of deleted users>",
+                    "text": "Users fetched with the get_users API returned users which had been set to not active.\n\ncloses <https://github.com/ohcnetwork/care_fe/issues/2701|ohcnetwork/care_fe#2701>",
+                    "title": "<https://github.com/ohcnetwork/care/pull/855|#855 fixed listing of deleted users>",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -1214,7 +1214,7 @@
                                     "elements": [
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care/pull/855"
+                                            "url": "https://github.com/ohcnetwork/care/pull/855"
                                         }
                                     ]
                                 },
@@ -1223,7 +1223,7 @@
                                     "elements": [
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care_fe/pull/2702"
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/2702"
                                         }
                                     ]
                                 },
@@ -1232,7 +1232,7 @@
                                     "elements": [
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care_fe/pull/2699"
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/2699"
                                         }
                                     ]
                                 }
@@ -1319,7 +1319,7 @@
         {
             "client_msg_id": "81b37d30-b3f2-4fd2-9a26-0889809e002a",
             "type": "message",
-            "text": "working on issue <https://github.com/coronasafe/care_fe/issues/2784>",
+            "text": "working on issue <https://github.com/ohcnetwork/care_fe/issues/2784>",
             "user": "U02TB83Q5V0",
             "ts": "1655735396.015769",
             "team": "TC99SV7B6",
@@ -1334,13 +1334,13 @@
                     "ts": 1655730414,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/issues/2784",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/2784",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "898x802px image",
                     "text": "The values given in \"History of Present Illness\" field on Consultation page shows in \"Existing Medication\" field under Medicines In Patient Dashboard.\n\n<https://user-images.githubusercontent.com/75214902/174608260-9fa98661-7539-4ab3-a4fb-fd6e6de63318.png|issue github new 3>\n\n<https://user-images.githubusercontent.com/75214902/174608287-80a28928-acd3-4071-a147-0d6ec284247a.png|issue github new 2>",
-                    "title": "<https://github.com/coronasafe/care_fe/issues/2784|#2784 History of Present illness comes on Existing Medication field>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/issues/2784|#2784 History of Present illness comes on Existing Medication field>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "<https://github.com/skks1212|@skks1212>",
@@ -1367,7 +1367,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2784"
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2784"
                                 }
                             ]
                         }
@@ -1416,7 +1416,7 @@
         {
             "client_msg_id": "49de6c76-2ec3-43e4-ba38-a04fa6551550",
             "type": "message",
-            "text": "Made PR <https://github.com/coronasafe/care_fe/pull/3023>",
+            "text": "Made PR <https://github.com/ohcnetwork/care_fe/pull/3023>",
             "user": "U02TB83Q5V0",
             "ts": "1657118794.948749",
             "team": "TC99SV7B6",
@@ -1427,13 +1427,13 @@
                     "ts": 1657114686,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/3023",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/3023",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care_fe/pull/3023|#3023 Added username validator>",
-                    "text": "closes <https://github.com/coronasafe/care_fe/issues/2891|#2891>",
-                    "title": "<https://github.com/coronasafe/care_fe/pull/3023|#3023 Added username validator>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fallback": "<https://github.com/ohcnetwork/care_fe/pull/3023|#3023 Added username validator>",
+                    "text": "closes <https://github.com/ohcnetwork/care_fe/issues/2891|#2891>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/pull/3023|#3023 Added username validator>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "need testing",
@@ -1460,7 +1460,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/3023"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/3023"
                                 }
                             ]
                         }
@@ -1473,7 +1473,7 @@
         {
             "client_msg_id": "7c992e75-5c7b-41e1-93c6-b9e39dc57b22",
             "type": "message",
-            "text": "worked on <https://github.com/coronasafe/care_fe/pull/3100>",
+            "text": "worked on <https://github.com/ohcnetwork/care_fe/pull/3100>",
             "user": "U02TB83Q5V0",
             "ts": "1657561300.407839",
             "team": "TC99SV7B6",
@@ -1488,13 +1488,13 @@
                     "ts": 1657526357,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/3100",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/3100",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "1080x464px image",
-                    "text": "<https://user-images.githubusercontent.com/23238460/178216545-552c5a08-d624-4290-a810-69f8cd7a96be.png|image>  \ncloses <https://github.com/coronasafe/care_fe/issues/3047|#3047>",
-                    "title": "<https://github.com/coronasafe/care_fe/pull/3100|#3100 Fixed facility page ui>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "text": "<https://user-images.githubusercontent.com/23238460/178216545-552c5a08-d624-4290-a810-69f8cd7a96be.png|image>  \ncloses <https://github.com/ohcnetwork/care_fe/issues/3047|#3047>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/pull/3100|#3100 Fixed facility page ui>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "need testing, peer-reviewed",
@@ -1521,9 +1521,1369 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/3100"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/3100"
                                 }
                             ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-28 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "U02TB83Q5V0",
+            "text": "<@U02TB83Q5V0> has joined the channel",
+            "type": "message",
+            "ts": "1730102618.782789"
+        }
+    ],
+    "2024-11-13 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1731524255.442099",
+            "edited": {
+                "user": "U02TB83Q5V0",
+                "ts": "1731524307.000000"
+            },
+            "client_msg_id": "0e53d252-7814-4baa-96bb-b322560d8bea",
+            "text": "13th November\nDone\n\u2022 Fixed a bug with max dep recursion in the patient dashboard\n\u2022 Got Scribe reviewed and merged\n\u2022 Was working out how the care plan UX might look like,\n\u2022 Got side tracked to move stuff around on the patient dashboard, clean up messy code, add translations, and make the UI pleasing\nNext\n\u2022 Finish up with the patient dashboard cleanup\n\u2022 Publish a care plan proposal to docs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e98F3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13th November\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed a bug with max dep recursion in the patient dashboard"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got Scribe reviewed and merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Was working out how the care plan UX might look like,"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got side tracked to move stuff around on the patient dashboard, clean up messy code, add translations, and make the UI pleasing"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish up with the patient dashboard cleanup"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Publish a care plan proposal to docs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1731489868.442329",
+            "edited": {
+                "user": "U02TB83Q5V0",
+                "ts": "1731489916.000000"
+            },
+            "client_msg_id": "87402796-e478-40e8-97d1-d35cbed66c3f",
+            "text": "*12th November*\n\n*Done* \n\u2022 Started working on drafting out an implementation of care plan\n\u2022 Went through FHIR docs for care plan, goals and other activities\n\u2022 reviewed PRs by contributors\n*Up Next*\n\u2022 Finish care plan implementation proposal\n\u2022 Get Scribe Tested out",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vaWnk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on drafting out an implementation of care plan"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through FHIR docs for care plan, goals and other activities"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "reviewed PRs by contributors"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish care plan implementation proposal"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get Scribe Tested out"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1732221580.296359",
+            "client_msg_id": "f43b8984-e09b-458a-8e8b-4db37a460c3e",
+            "text": "21st November\n\u2022 Got the new patient details UI PR complete, lots of refactors\n\u2022 Reviewed some PRs\nNext\n\u2022 Get the new search UI PR fixed and merged",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Cy1HX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21st November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got the new patient details UI PR complete, lots of refactors"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get the new search UI PR fixed and merged"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1732170173.680979",
+            "client_msg_id": "4a170365-7141-4285-a9fa-af2266228721",
+            "text": "18th November\n\u2022 Finished Care Plan user stories\n\u2022 Made a POC PR for dark mode PR\n\u2022 Synced with Nihal on issues with Scribe deployment\n\u2022 Reviewed Contributor PRs\n19th November\n\u2022 Synced with Bodhi on Dark Mode\n\u2022 Started Working on Wireframes for care plan\n20th November\n\u2022 Worked on Care Plan Wireframes\n\u2022 Reviewed Contributor PRs\n\u2022 Had a short call with Vysakh on Scribe Deployment\nNext\n\u2022 Get Wireframes ready\n\u2022 Get a few pending contributor PRs finished and merged\n\u2022 Hopefuly start execution on care plan",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732170173.680979",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1732199966.681399",
+            "reply_users": [
+                "UC99MFPU1",
+                "U02TB83Q5V0"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "K2dFZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finished Care Plan user stories"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a POC PR for dark mode PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Nihal on issues with Scribe deployment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed Contributor PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n19th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Bodhi on Dark Mode"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started Working on Wireframes for care plan"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n20th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Care Plan Wireframes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed Contributor PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a short call with Vysakh on Scribe Deployment"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get Wireframes ready"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get a few pending contributor PRs finished and merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Hopefuly start execution on care plan"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-25 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1732564848.569719",
+            "client_msg_id": "5e349820-e448-47ac-8db8-6af8d2ea2e70",
+            "text": "25 Nov 2024\n\u2022 Made changes to the New patient UI\n\u2022 Had a headache for most of the day, so unproductive \nNext\n\u2022 Get another pending PR done with",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "giQl0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made changes to the New patient UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a headache for most of the day, so unproductive "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get another pending PR done with"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-28 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1732775312.951509",
+            "client_msg_id": "79919182-45ed-4d9d-a6e9-be81409d348b",
+            "text": "27 Nov\nDone\n\u2022 Made a short PR to fix duplicated data on the patient consultation page\n\u2022 Worked on fixing tests for the search ui PR\n\u2022 Reviewed PRs from open source contributors\nNext\n\u2022 Work on some Scribe related issues\n\u2022 Finish up pending stuff on Care Plan",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "VQlw6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27 Nov\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a short PR to fix duplicated data on the patient consultation page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on fixing tests for the search ui PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed PRs from open source contributors"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on some Scribe related issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish up pending stuff on Care Plan"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-04 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1733295417.307089",
+            "client_msg_id": "e3cfb66c-3979-4283-a8c8-638a2017cb93",
+            "text": "December 3\n\u2022 Made a PR to add the new duotone icons for sidebar and generally added support for duotone icons\n\u2022 Made enhancements to Scribe as requested\n\u2022 Added the new search UI to facility page\n\u2022 Reviewed PRs\nNext\n\u2022 Work on getting pending PRs merged",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vCdXT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 3\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a PR to add the new duotone icons for sidebar and generally added support for duotone icons"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made enhancements to Scribe as requested"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added the new search UI to facility page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on getting pending PRs merged"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-10 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1733811645.224129",
+            "client_msg_id": "714b7d61-b8c9-4408-a8b7-dfd69bbeb022",
+            "text": "9th December \n\n\u2022 Went around Bodhi's branch and saw what all has changed\n\u2022 Started working on the new patient registration UI\nNext\n\u2022 Sync with Javid on an issue \n\u2022 Work on the patient registration UI",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LZ0tW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "9th December \n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went around Bodhi's branch and saw what all has changed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on the new patient registration UI"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Javid on an issue "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on the patient registration UI"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-11 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1733895232.691519",
+            "client_msg_id": "9038f53a-3b52-44a9-a1b4-902e553b493a",
+            "text": "10th December\n\u2022 Worked on the patient search page UI\n\u2022 Reviewed some PRs\nNext\n\u2022 Get the search UI done, get that part reviewed\n\u2022 Dabble around with shadcn because I don't have much experience",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0Svdq",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10th December\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the patient search page UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get the search UI done, get that part reviewed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Dabble around with shadcn because I don't have much experience"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-12 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1733985540.881089",
+            "client_msg_id": "49b8b47f-4c4d-4c2a-ba59-e201d8afba11",
+            "text": "11th December\n\u2022 Was stuck in some bank work\n\u2022 Worked on the new patients page\n\u2022 Reviewed PRs\n\u2022 Played around with V0 trying to generate anther tab variant component, failed\nUp next\n\u2022 Get the patients page done and ready for review",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GJgSE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11th December\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Was stuck in some bank work"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the new patients page"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Played around with V0 trying to generate anther tab variant component, failed"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get the patients page done and ready for review"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-13 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1734111247.926189",
+            "client_msg_id": "62fbebda-dada-41e1-8067-f3445e7fa25b",
+            "text": "12 Dec 2024\n\u2022 Worked on Patient Registration\n\u2022 Followed up on unmerged PRs\n\u2022 Reviewed some PRs on landing\nNext\n\u2022 Get Patient Registration PR complete\n13 Dec 2024\n\u2022 Worked on Patient Registration UI\nNext\n\u2022 Get this PR done by today\n\u2022 Take up on another issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Wy1R6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 Dec 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Patient Registration"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followed up on unmerged PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some PRs on landing"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get Patient Registration PR complete"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n13 Dec 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Patient Registration UI"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get this PR done by today"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Take up on another issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-17 00:00:00": [
+        {
+            "user": "U02TB83Q5V0",
+            "type": "message",
+            "ts": "1734423793.455439",
+            "client_msg_id": "7c2e248e-6f66-4dc0-998d-dd2860bd1e1a",
+            "text": "December 16\n\u2022 Fixed bugs in the patient registration PR\n\u2022 Got the PR tested and reviewed\n\u2022 Reviewed some PRs in landing repo\nNext\n\u2022 Fix remaining issues from my sprint",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PsH9u",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 16\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed bugs in the patient registration PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got the PR tested and reviewed"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed some PRs in landing repo"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix remaining issues from my sprint"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
                         }
                     ]
                 }

@@ -1,0 +1,1897 @@
+{
+    "2024-10-30 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730257039.939759",
+            "client_msg_id": "949d382d-f467-4126-a6e2-c760501473be",
+            "text": "29 Oct 2024\nDone\n Updated PR #8954\nNext\n looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XrTh5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Oct 2024\nDone\n Updated PR #8954\nNext\n looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-29 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730164904.442649",
+            "client_msg_id": "023292cf-30f3-4d3f-afce-bad6e35b53fb",
+            "text": "28 Oct 2024\nDone\n\n\u2022 Raised <https://github.com/ohcnetwork/care_fe/pull/8954|PR> #8954\nNext\n\u2022 looking for new issues\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1730128788,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/8954",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8954 Referral letter preview desktop",
+                    "text": "*Proposed Changes*\n\nReferral letter preview desktop and responsive\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/8884|#8884>\n\nBefore  \n<https://private-user-images.githubusercontent.com/121436543/378989733-79a4d8a5-b615-491b-99a3-a36770f3d90f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAxNjUyMDYsIm5iZiI6MTczMDE2NDkwNiwicGF0aCI6Ii8xMjE0MzY1NDMvMzc4OTg5NzMzLTc5YTRkOGE1LWI2MTUtNDkxYi05OWEzLWEzNjc3MGYzZDkwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyOVQwMTIxNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZGM1ZmNjM2NhNzkzOGNkMDBmYzM4NTVhMDcyODlmMzhkYjI1YjQzMTBmNjIwYWZhZTgzZTRjNGI1YWFjN2QyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KEfZvqsW-qa-aZL-7gZWi-DPpsbfW23c-sK8qtGDu_0|Image>\n\nAfter  \n<https://private-user-images.githubusercontent.com/121436543/380936542-da74e5a5-b6c4-466b-8167-b497a7a8d771.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAxNjUyMDYsIm5iZiI6MTczMDE2NDkwNiwicGF0aCI6Ii8xMjE0MzY1NDMvMzgwOTM2NTQyLWRhNzRlNWE1LWI2YzQtNDY2Yi04MTY3LWI0OTdhN2E4ZDc3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyOVQwMTIxNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDViM2E4OGJjMmRhNzAxNDE0OTU5ZDY0NjUzMTYwOGUyNmM0MmIzMGVjOTgwMmExNGQ5MmM2NzNkMjliNzc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sgUdxR23D5NnVq51JCZsvI18cJs_jhL7__Pls2WnupE|Screenshot 2024-10-29 064626>\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA",
+                    "title": "#8954 Referral letter preview desktop",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/8954",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "Deploy-Failed",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "1",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QaVuM",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 Oct 2024\nDone\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/8954",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " #8954"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-26 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1729912999.493809",
+            "client_msg_id": "57005bbd-6bba-4c8a-8306-3f6aee2adba9",
+            "text": "25 Oct 2024\nDone\n working on fixing PR \nNext\n\n working on issue #8884",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "z52Ws",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Oct 2024\nDone\n working on fixing PR \nNext\n\n working on issue #8884"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-25 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1729798990.055839",
+            "client_msg_id": "9037bc11-d4cd-4a09-afae-947f2f6f2a8e",
+            "text": "24 Oct 2024\nDone\n\u2022 working on fixing <https://github.com/ohcnetwork/care_fe/pull/8860|PR> \nNext\n\n\u2022 working on issue <https://github.com/ohcnetwork/care_fe/issues/8884|#8884> \n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1729563343,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/8860",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8860 Fixed shifting details page responsiveness and add shadcn Breadcrump",
+                    "title": "#8860 Fixed shifting details page responsiveness and add shadcn Breadcrump",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/8860",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1729625188,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/8884",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8884 Fix: referral letter responsiveness",
+                    "title": "#8884 Fix: referral letter responsiveness",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/8884",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BIlGv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 Oct 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on fixing "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/8860",
+                                            "text": "PR"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/8884",
+                                            "text": "#8884",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-23 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1729706372.299179",
+            "client_msg_id": "27d90640-ec71-4e0a-a95e-90565fb7230c",
+            "text": "23 Oct 2024\nDone\n\u2022 Working on issue <https://github.com/ohcnetwork/care_fe/issues/8884|#8884> \n\u2022 Working on PR <https://github.com/ohcnetwork/care_fe/pull/8860|#8860> \nNext\n\n\u2022 Have to complete both\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1729625188,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/8884",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8884 Fix: referral letter responsiveness",
+                    "title": "#8884 Fix: referral letter responsiveness",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/8884",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1729563343,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/8860",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8860 Fixed shifting details page responsiveness and add shadcn Breadcrump",
+                    "title": "#8860 Fixed shifting details page responsiveness and add shadcn Breadcrump",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/8860",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+Z8wx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 Oct 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/8884",
+                                            "text": "#8884",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/8860",
+                                            "text": "#8860",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have to complete both"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1729644735.842269",
+            "client_msg_id": "ff11628e-a073-4dca-a598-0f0007139571",
+            "text": "22 Oct 2024\nDone\n Raised Issues #8884\n Working on PR #8860\nNext\n Working on the issue #8884",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "heO4D",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 Oct 2024\nDone\n Raised Issues #8884\n Working on PR #8860\nNext\n Working on the issue #8884"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-20 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1729368037.172299",
+            "edited": {
+                "user": "U07ASE8UG05",
+                "ts": "1729368114.000000"
+            },
+            "client_msg_id": "8e8d12d9-8f84-4d02-a6ee-22e965061d93",
+            "text": "19 Oct 2024\n*Done*\n\u2022 Raised Issue 8831\n\u2022 PR 8831\n Next\n\n\u2022 Looking forward next issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3TFjD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 Oct 2024\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised Issue 8831"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "PR 8831"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": " Next\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking forward next issue"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-18 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "U07ASE8UG05",
+            "text": "<@U07ASE8UG05> has joined the channel",
+            "type": "message",
+            "ts": "1729255993.777199"
+        }
+    ],
+    "2024-10-31 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730403679.205429",
+            "client_msg_id": "dc73494d-b097-47c8-b7b9-a2a2cc369af7",
+            "text": "31 Oct 2024\nDone\n\u2022 Updated PR #8970 for issue #8969\nNext\n\u2022 looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Pa9y7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "31 Oct 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated PR #8970 for issue #8969"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730349798.113959",
+            "client_msg_id": "4449f2c9-aeab-45ea-8b1f-1aa7261da639",
+            "text": "30 Oct 2024\nDone\n\u2022 raised PR #8954 for issue #8884\n\u2022 raised PR #8970 for issue #8969\nNext\n\n\u2022 looking for new issues\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0VHiv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Oct 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "raised PR #8954 for issue #8884"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "raised PR #8970 for issue #8969"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-01 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730479883.060149",
+            "client_msg_id": "b5c1c28e-7d0a-4bb1-b463-0cd9942ef2e3",
+            "text": "01 Nov 2024\n\n Looking for new issues.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hTcV3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "01 Nov 2024\n\n Looking for new issues."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-03 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730593116.621849",
+            "client_msg_id": "23414e05-b212-42c8-bf47-ca6578c538b1",
+            "text": "02 Nov 2024\n\n Looking for new issues.\n(Slow progress due to exam)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "JDWmP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "02 Nov 2024\n\n Looking for new issues.\n(Slow progress due to exam)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-04 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730728643.661809",
+            "client_msg_id": "cd80ef5b-7a6f-432d-a09d-c7dc34435fc2",
+            "text": "04 Nov 2024\n\n Looking for new issues.\n(Slow progress due to exam)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AE4NT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "04 Nov 2024\n\n Looking for new issues.\n(Slow progress due to exam)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-06 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1730917258.881709",
+            "client_msg_id": "25bcfa8c-eaca-4482-a40e-70a33900313f",
+            "text": "6 Nov 2024\nDone\n working on PR #8954\nNext\n finding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CF6wW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6 Nov 2024\nDone\n working on PR #8954\nNext\n finding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-10 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1731217286.745799",
+            "client_msg_id": "3da637e2-7d27-4ae7-b606-fdb9a3301847",
+            "text": "09 Nov 2024\n\u2022 Working on PR #9074",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+S298",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "09 Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on PR #9074"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-14 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1731566933.174899",
+            "client_msg_id": "b34301d8-afd4-4be2-beb2-12885a14cc72",
+            "text": "13 Nov 2024\n No updates(due to exams)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vHDDT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Nov 2024\n No updates(due to exams)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-15 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1731707008.913109",
+            "edited": {
+                "user": "U07ASE8UG05",
+                "ts": "1731707029.000000"
+            },
+            "client_msg_id": "7efe057c-86b4-4983-92cb-7ab5dd2dfe4c",
+            "text": "15 Nov 2024\nDone\nworking on issue #9120\nRaised PR #9138 facing deployment issue \n Slow progression(due to exams)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xuhqh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 Nov 2024\nDone\nworking on issue #9120\nRaised PR #9138 facing deployment issue \n Slow progression(due to exams)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732039200.825979",
+            "client_msg_id": "16f435c8-e76d-4eb1-8c0a-296de4e0e647",
+            "text": "19 Nov \nNo updates due to exams",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "89to1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 Nov \nNo updates due to exams"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-23 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732391289.530879",
+            "client_msg_id": "7f5473d2-b56e-4098-9d25-a5285868f525",
+            "text": "23 november\nDone\nWorking on issue #9120 , #9074\nNext\nFinish above issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zrVOm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 november\nDone\nWorking on issue #9120 , #9074\nNext\nFinish above issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-24 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732474005.619189",
+            "client_msg_id": "c34e2e9a-8381-4ba7-85f8-99d4af24ac7b",
+            "text": "24 Nov 2024\nDone\n\u2022 Updated PR #9138,#8954\n Next\n\u2022 Slow progression due to exam ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SCw/7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 Nov 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated PR #9138,#8954"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": " Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Slow progression due to exam "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-25 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732561866.422879",
+            "client_msg_id": "5761ca5b-a464-4b73-b707-73d1243577db",
+            "text": "25 Nov 2024\nNo Updates due to exam \nLooking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "otuAh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Nov 2024\nNo Updates due to exam \nLooking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732651412.719989",
+            "client_msg_id": "156d6e90-ffc2-453f-b05e-c2894bc75c24",
+            "text": "26 Nov 2024\nDone\n Working on PR #9138\n Slow progression due to exam \nNext \nHave to complete PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qbF85",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26 Nov 2024\nDone\n Working on PR #9138\n Slow progression due to exam \nNext \nHave to complete PR"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732740749.594929",
+            "client_msg_id": "1fd5650e-8e8a-4c15-9cf1-74aa0a3c8307",
+            "text": "26 Nov 2024\nDone\n Updated  PR #8954\n Slow progression due to exam",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "r4Jy3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26 Nov 2024\nDone\n Updated  PR #8954\n Slow progression due to exam"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-28 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732822880.819519",
+            "client_msg_id": "c4550c96-9a5a-4fac-8a4f-239782d64458",
+            "text": "28 Nov 2024\nDone\n <https://github.com/ohcnetwork/care_fe/pull/8954|PR#8954> ready for review \nWorking on PR#9138\n Slow progression due to exam",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1730128788,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/8954",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8954 Referral letter preview desktop",
+                    "text": "*Proposed Changes*\n\nReferral letter preview desktop and responsive\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/8884|#8884>\n\nBefore  \n<https://private-user-images.githubusercontent.com/121436543/378989733-79a4d8a5-b615-491b-99a3-a36770f3d90f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI4MjMxODIsIm5iZiI6MTczMjgyMjg4MiwicGF0aCI6Ii8xMjE0MzY1NDMvMzc4OTg5NzMzLTc5YTRkOGE1LWI2MTUtNDkxYi05OWEzLWEzNjc3MGYzZDkwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyOFQxOTQxMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDQ5ODYyMWI1OTcwYmRmZDAwNGJhZTA2ZjA3YWYyZGU2MTkyODc1MGNjYWRiZDg1NmRiMzYyYWJlYWVkZGIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0M_xHW_tL-xlJhIbW1kqDTUUlxN4PuztE7ccZ-7UHIk|Image>\n\nAfter  \n<https://private-user-images.githubusercontent.com/121436543/380936542-da74e5a5-b6c4-466b-8167-b497a7a8d771.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI4MjMxODIsIm5iZiI6MTczMjgyMjg4MiwicGF0aCI6Ii8xMjE0MzY1NDMvMzgwOTM2NTQyLWRhNzRlNWE1LWI2YzQtNDY2Yi04MTY3LWI0OTdhN2E4ZDc3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyOFQxOTQxMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZGExZTU0ZmJlOTU5MTE5Y2M3Y2M5YTQ1ZWVhYjNjYTIzOGQzOWM0NTJiNGI5YTRlNDk4OWQzNmIzMzA0YWMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qgCJ5yEW2PZXxV4HeqtRmBq0O8-zwZKcuAlj2mzHvNc|Screenshot 2024-10-29 064626>\n\n@ohcnetwork/care-fe-code-reviewers\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n*Release Notes*\n\n\u2022 *New Features*  \n   \u2022 Enhanced print functionality for referral letters with improved layout and visual appeal.  \n   \u2022 Introduced a new UI card system, including components for headers, titles, descriptions, content, and footers.\n\u2022 *Improvements*  \n   \u2022 QR code rendering updated for better presentation.  \n   \u2022 Patient information now displayed in a structured grid layout.\n\u2022 *User Interface*  \n   \u2022 Minor adjustments to print mode toggle and button layout for improved usability.",
+                    "title": "#8954 Referral letter preview desktop",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/8954",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "needs testing, needs review",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "24",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "km+Br",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 Nov 2024\nDone\n "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/8954",
+                                    "text": "PR#8954"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ready for review \nWorking on PR#9138\n Slow progression due to exam"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-29 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732907467.552509",
+            "client_msg_id": "848d9e34-d8ba-40b2-9b44-3a01109e792c",
+            "text": "29 Nov 2024\n No updates due to exam \nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "z6I+v",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Nov 2024\n No updates due to exam \nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-30 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1732993460.265269",
+            "client_msg_id": "4ab9bc6e-de01-46f4-a56b-33128f5018c3",
+            "text": "30 Nov 2024\n Updated PR#9138,#8954 \nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PlJij",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Nov 2024\n Updated PR#9138,#8954 \nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-03 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733189421.750389",
+            "edited": {
+                "user": "U07ASE8UG05",
+                "ts": "1733189465.000000"
+            },
+            "client_msg_id": "910b6096-ae42-4ab8-89d2-2766baee26eb",
+            "text": "2 December 2024\n Working on PR#9138\nDone for review PR#8954\nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ejp6p",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2 December 2024\n Working on PR#9138\nDone for review PR#8954\nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-04 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733304841.998539",
+            "client_msg_id": "e1c28eb3-1a76-4ac4-b57e-6fa5b41d171a",
+            "text": "3 December 2024\n Working on PR#9138\n Updated and got merged PR#8964\nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PZDVS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3 December 2024\n Working on PR#9138\n Updated and got merged PR#8964\nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-05 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733390647.162679",
+            "client_msg_id": "9f589d5a-8256-4eaa-9173-ec498548ab34",
+            "text": "4 December 2024\n  No updates due to semester exam\nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jasWk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4 December 2024\n  No updates due to semester exam\nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-06 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733515178.360879",
+            "client_msg_id": "ed6f2fe9-2f97-418a-a30c-ee1bee22c4be",
+            "text": "6 December \nDone\nOpen issue #9324\nPR ready for merge #9138\nWorking on PR#9074\nnext\nlooking for more issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gKNHn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6 December \nDone\nOpen issue #9324\nPR ready for merge #9138\nWorking on PR#9074\nnext\nlooking for more issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733510293.794489",
+            "edited": {
+                "user": "U07ASE8UG05",
+                "ts": "1733510391.000000"
+            },
+            "client_msg_id": "66477d24-fac3-432d-b86e-597825720b25",
+            "text": "5 December 2024\n  Call with Aravind Mahadevan, regarding the intership opportunity \nNext\n Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1H9Ms",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5 December 2024\n  Call with Aravind Mahadevan, regarding the intership opportunity \nNext\n Looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-08 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733656165.499319",
+            "edited": {
+                "user": "U07ASE8UG05",
+                "ts": "1733656183.000000"
+            },
+            "client_msg_id": "a7d9d053-59db-4fb3-8454-74f0d7e3a375",
+            "text": "7 December 2024\nDone\nReviewed PR#9327\nWorking on PR#9074\nnext\nlooking for more issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qJxnK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "7 December 2024\nDone\nReviewed PR#9327\nWorking on PR#9074\nnext\nlooking for more issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-09 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733760016.168109",
+            "client_msg_id": "6c1f44f4-21ea-4664-ad42-9db60f0d6327",
+            "text": "9 December 2024\nDone\nGot merged PR#9138\nnext\nlooking for more issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "v9mSP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "9 December 2024\nDone\nGot merged PR#9138\nnext\nlooking for more issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-11 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1733919047.041979",
+            "client_msg_id": "2154e181-32c2-4c0d-a333-24d11e491ae0",
+            "text": "December 10\n No updates due to end sem exam.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rjb0+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 10\n No updates due to end sem exam."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-13 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1734117182.332539",
+            "client_msg_id": "e52d4a6e-4c39-4ba0-a3ff-986d412e0eee",
+            "text": "13 Dec 2024\nDone\n\u2022 Working on issue #9369\n\u2022 Working on PR#9074\nNext \n\u2022  Have to complete PR",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HQKg5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Dec 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issue #9369"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on PR#9074"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Have to complete PR"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-14 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1734201815.047249",
+            "client_msg_id": "3fa6963d-a4ad-4c22-9363-1f00ca0cf6ef",
+            "text": "14 Dec 2024\nDone\n\u2022  Raised PR#9413\n\u2022  Raised leaderboard repo PR#562\nNext \n\u2022   Look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZNf2w",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14 Dec 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Raised PR#9413"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Raised leaderboard repo PR#562"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "  Look for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-16 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1734379640.084139",
+            "client_msg_id": "4a786c29-ed2c-4e50-b411-d257c80d7d68",
+            "text": "16 Dec 2024\nDone \n  Created issue #9465\n  Working on PR#9467\n  Working on leaderboard repo PR#562\n  Update PR#9413\nNext \n   Look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zOHP3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "16 Dec 2024\nDone \n  Created issue #9465\n  Working on PR#9467\n  Working on leaderboard repo PR#562\n  Update PR#9413\nNext \n   Look for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-17 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1734464940.906199",
+            "edited": {
+                "user": "U07ASE8UG05",
+                "ts": "1734465045.000000"
+            },
+            "client_msg_id": "8b54b640-6dd7-4395-b7b5-46d7efc1de99",
+            "text": "17 Dec 2024\nDone \n\u2022 Working on PR#9479, PR#9467, PR#9413\n\u2022 Waiting for review leaderboard repo PR#562\nNext \n   Look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FoZL7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 Dec 2024\nDone \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on PR#9479, PR#9467, PR#9413"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review leaderboard repo PR#562"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n   Look for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-18 00:00:00": [
+        {
+            "user": "U07ASE8UG05",
+            "type": "message",
+            "ts": "1734548353.783279",
+            "client_msg_id": "b849a770-3092-4df6-87b2-c1a914643b8c",
+            "text": "18 Dec 2024\nDone \n\u2022 Working on PR#9491, PR#9413\n\u2022 Waiting for review leaderboard repo PR#562\n\u2022 Got merged PR#9479\nNext \n\u2022 Look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6skki",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18 Dec 2024\nDone \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on PR#9491, PR#9413"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for review leaderboard repo PR#562"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got merged PR#9479"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

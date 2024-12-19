@@ -1,0 +1,1709 @@
+{
+    "2024-10-26 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729955719.783839",
+            "client_msg_id": "f979af88-6310-4306-b9fd-9c6f51ff37f4",
+            "text": "26 Oct 2024\nDone \nSolved issue #8918\nNext\nSearching for a new issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bAscH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26 Oct 2024\nDone \nSolved issue #8918\nNext\nSearching for a new issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-25 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729868825.172759",
+            "client_msg_id": "d110aef5-2cea-4401-8888-05d90a9e13b9",
+            "text": "25 oct 2024\nDone\nWorking on issue #8918\nNext \nWill raise pr to solve the issue",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "InmW7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 oct 2024\nDone\nWorking on issue #8918\nNext \nWill raise pr to solve the issue"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-24 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729779586.460549",
+            "client_msg_id": "9cd65a0b-7b02-466b-a4d1-1998b681cdff",
+            "text": "24 Oct 2024\nDone:\nFound and issue and raised it #8918.\nGet started working on it \nNext:\nWill open a PR which solves issue #8918 by tonight",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ENwAb",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 Oct 2024\nDone:\nFound and issue and raised it #8918.\nGet started working on it \nNext:\nWill open a PR which solves issue #8918 by tonight"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-23 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729693586.580829",
+            "client_msg_id": "291ee01d-6287-41df-bb9e-9cf08ea4645b",
+            "text": "23 oct 2024\nDone:\nNo work done yet\nNext:\nFinding unassigned issues to get started",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Vl0bY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 oct 2024\nDone:\nNo work done yet\nNext:\nFinding unassigned issues to get started"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-20 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729431948.403199",
+            "client_msg_id": "02d599e9-d1c8-4867-bafc-5c91f77d0b94",
+            "text": "20th October \nDone:\nNo work\n\nNext:\nFinding bugs to get started",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4M7sR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20th October \nDone:\nNo work\n\nNext:\nFinding bugs to get started"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-18 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729267404.736969",
+            "client_msg_id": "3a498ef2-b004-41ee-a768-f36ce76c28ab",
+            "text": "18th October \n\nDone:\nNo work done\n\nNext: \nFinding issue to get started for work",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "T0/a5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th October \n\nDone:\nNo work done\n\nNext: \nFinding issue to get started for work"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1729244325.167059",
+            "client_msg_id": "732776d8-532a-48f0-9447-633bd3e7002d",
+            "text": "17 October \nDone:\nSetup of care fe and searched for bugs \n\nNext:\nSearching for new or un assigned issues to get started to work",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mLndM",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 October \nDone:\nSetup of care fe and searched for bugs \n\nNext:\nSearching for new or un assigned issues to get started to work"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-17 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "U07RPT00CPQ",
+            "text": "<@U07RPT00CPQ> has joined the channel",
+            "inviter": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1729139666.627369"
+        }
+    ],
+    "2024-11-03 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1730640951.995629",
+            "client_msg_id": "7d7c8cc5-c8ab-4aa2-bc65-ca1d509d1406",
+            "text": "Hey Team I am unable to join today's EOD call",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YyARd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey Team I am unable to join today's EOD call"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-04 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1730730524.028189",
+            "client_msg_id": "b33310ca-07a4-4134-8431-d2a207697078",
+            "text": "4 Nov 2024\n\nDone:\nWorking on required changes in pr #8956\nNext\nLooking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7ADlR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4 Nov 2024\n\nDone:\nWorking on required changes in pr #8956\nNext\nLooking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-05 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1730816321.675579",
+            "edited": {
+                "user": "U07RPT00CPQ",
+                "ts": "1730816374.000000"
+            },
+            "client_msg_id": "e2c42db9-787a-4912-8a7f-dab73dc852bd",
+            "text": "05 Nov 2024\n\u2022 Done \n        No work Done\n\u2022 Next\n         Finding new issues to get assined",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "oxKb3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "05 Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Done "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "        No work Done\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "         Finding new issues to get assined"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-06 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1730902513.209009",
+            "client_msg_id": "e1619170-545e-4599-b7fa-3f23b3d7655e",
+            "text": "6 Nov 2024\nDone\n raised issue #9010\nNext\n finding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "h9/Qk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6 Nov 2024\nDone\n raised issue #9010\nNext\n finding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-07 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1730983967.404399",
+            "client_msg_id": "d66d53a9-5017-4c53-b204-163a156d5769",
+            "text": "07 Nov 2024\nDone:\nNo work\nNext:\nFinding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eT97o",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "07 Nov 2024\nDone:\nNo work\nNext:\nFinding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-08 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1731081452.743289",
+            "client_msg_id": "dc19398a-2f6a-403e-b213-56328d1e396c",
+            "text": "08 Nov 2024\nDone\n   No major update today\nNext\n   Will solve issues that are assigned to me",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OOpp+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "08 Nov 2024\nDone\n   No major update today\nNext\n   Will solve issues that are assigned to me"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-11 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1731334331.799469",
+            "client_msg_id": "a641911f-dbf3-4f19-8cbb-56174b06382d",
+            "text": "11 Nov 2024\nDone\n\u2022 No work done\nNext\n\u2022 Will work on assigned issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rM57r",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11 Nov 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No work done"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Will work on assigned issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-12 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1731416851.277329",
+            "client_msg_id": "515876e0-a275-4895-87f6-333bcdd74628",
+            "text": "12 Nov\n Done\n\u2022 created a pr to solve issue #9060\n  Next\n\u2022 Will start working on issue #9050",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "t5otK",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 Nov\n Done\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created a pr to solve issue #9060"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n  Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Will start working on issue #9050"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-13 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1731525333.753729",
+            "edited": {
+                "user": "U07RPT00CPQ",
+                "ts": "1731526992.000000"
+            },
+            "client_msg_id": "98774966-25d9-458e-b258-b61b120f26d1",
+            "text": "13 th Nov\n Done\n\u2022 Working on my pr #9094 - made requested changes and awaiting for approval.\n\u2022 pr #8956 - setup docker in ubuntu (switching from windows to ubuntu) to test my code.",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731525333.753729",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1731526691.220689",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WXGjp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 th Nov\n Done\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on my pr #9094 - made requested changes and awaiting for approval."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "pr #8956 - setup docker in ubuntu (switching from windows to ubuntu) to test my code."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-14 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1731603292.072199",
+            "client_msg_id": "4afcae06-6ac1-415a-a1b4-94ba98d263f4",
+            "text": "14 Nov 2024\nDone\n   -fixing tests in my pr #8956",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731603292.072199",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1731639582.557129",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Bs3+y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14 Nov 2024\nDone\n   -fixing tests in my pr #8956"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-15 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1731681247.457319",
+            "client_msg_id": "85bf3dee-fde1-48de-8748-a5a4825d1ee2",
+            "text": "15 Nov 2024\n\nDone \n-working on failing tests my pr \u20b98956\nNext \n\u2022 Finding new issues to work ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "UE3QH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 Nov 2024\n\nDone \n-working on failing tests my pr \u20b98956\nNext \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finding new issues to work "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732024535.380999",
+            "client_msg_id": "8d3a5c6a-65b8-44e4-82d9-aa52f554d8ab",
+            "text": "19 Nov \nNo updates due to exams",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "89to1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 Nov \nNo updates due to exams"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732200067.585029",
+            "client_msg_id": "32571fe7-f7a8-4cd5-b6d9-3a4b7492d9b2",
+            "text": "21 Nov \n\u2022 No work updates due to exams",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "K2Tax",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 Nov \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No work updates due to exams"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732167906.852899",
+            "client_msg_id": "055e31e4-e304-4ef3-a3c5-f980eac337e3",
+            "text": "20 Nov 2024\nNo updates due to exams.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "96pej",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20 Nov 2024\nNo updates due to exams."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732304549.452719",
+            "client_msg_id": "69e86bff-c090-416c-a3f7-0f1e31c3fa3a",
+            "text": "22nd Nov\n\u2022 No work updates due to exams ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6P6UB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22nd Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No work updates due to exams "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-23 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732390785.624239",
+            "client_msg_id": "75bc46d6-1493-43f0-9bdc-b8246cfad834",
+            "text": "23 Nov\n\u2022 No work updates due to exams ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vXyn9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No work updates due to exams "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732642499.249899",
+            "client_msg_id": "b0122cf0-159b-4c35-acdf-18aa4391d697",
+            "text": "26th Nov 2024\n\u2022 Working on requested changes.(slow progression due to exams)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8EBq9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26th Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on requested changes.(slow progression due to exams)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732642454.144009",
+            "client_msg_id": "254026ab-e375-431b-b7fa-87715d900fec",
+            "text": "25th Nov 2024\n\u2022 No work due to exams",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Pgz9U",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25th Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No work due to exams"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732732452.534759",
+            "client_msg_id": "392332a4-debd-426f-9495-bccff4c13f06",
+            "text": "27 nov 2024\n Done\n\u2022 Made Requested UI changes to my pr #8956 and #9094\nNext \n\u2022 Waiting for approvals",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hwS/A",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27 nov 2024\n Done\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made Requested UI changes to my pr #8956 and #9094"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Waiting for approvals"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-29 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732890487.088649",
+            "client_msg_id": "8d5872d5-d1e7-44bb-b31b-5abed3cf90ad",
+            "text": "29 Nov 2024\nDone\n\u2022 Solved failing tests cases in my pr #8956\nNext \n\u2022 Looking for new issues ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "y6S9M",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Nov 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved failing tests cases in my pr #8956"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1732890433.794589",
+            "client_msg_id": "b7036dc3-9bc6-4a83-8fe5-75c13b8b950d",
+            "text": "28 Nov 2024\nDone\n\u2022 Made Requested changes in pr#9094 , #8956\nNext\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vv2DR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 Nov 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made Requested changes in pr#9094 , #8956"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-03 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1733239577.608169",
+            "client_msg_id": "50ffbaa1-d52d-4ba2-979e-c21a821d9962",
+            "text": "3 Dec 2024\n No work done",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qqwxO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3 Dec 2024\n No work done"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1733239561.036659",
+            "client_msg_id": "2db0be80-5d1e-4ddd-bdf8-228aaaca247b",
+            "text": "2 Dec 2024\n\u2022 Done \n    \u25e6 Working on failing tests on pr #8956\n\u2022 Next\n    \u25e6 Finding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "79oxM",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2 Dec 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Done "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on failing tests on pr #8956"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finding new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-05 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1733414158.041489",
+            "client_msg_id": "455d553f-4c24-4420-8374-a276279cff70",
+            "text": "5th Dec 2024\n\u2022 Done\n         Updated tests in my existing pr\n         Got pr#9094 merged\n\u2022 Next \n        Finding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "H11C/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5th Dec 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Done"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "         Updated tests in my existing pr\n         Got pr#9094 merged\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "        Finding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1733414020.804309",
+            "client_msg_id": "41e90041-fe50-4a26-a46f-52a7cc638ac1",
+            "text": "4th Dec 2024\n\u2022 Done\n           No work done\n\u2022 Next\n           Finding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GT7QR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4th Dec 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Done"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "           No work done\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "           Finding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-06 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1733497467.352639",
+            "client_msg_id": "9abf8a90-a484-4e8b-a9de-7d1cfbb108e5",
+            "text": "6th Dec 2024\nDone\n\u2022 Finding new issues ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QWLyT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6th Dec 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finding new issues "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-11 00:00:00": [
+        {
+            "user": "U07RPT00CPQ",
+            "type": "message",
+            "ts": "1733944028.779979",
+            "edited": {
+                "user": "U07RPT00CPQ",
+                "ts": "1733944048.000000"
+            },
+            "client_msg_id": "b8d53f27-0824-492c-a084-c1dab7bd7f13",
+            "text": "9,10,11 December 2024\n\u2022 Done\n    Finding new issues\n\u2022 Next\n    Make requested changes in pr#8956\n    Finding new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Tsj8B",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "9,10,11 December 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Done"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "    Finding new issues\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "    Make requested changes in pr#8956\n    Finding new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

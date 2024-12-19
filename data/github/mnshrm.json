@@ -1,0 +1,86 @@
+{
+  "last_updated": "2024-12-15T08:19:07.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#7425",
+      "time": "2024-12-15T08:19:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7425#issuecomment-2543553105",
+      "text": "Hi @Ashesh3, @nihal467, @rithviknishad\nI really want to work on this issue, I know this is a GSOC issue, but please allow me to work on it, I can share a proposal for the same as well\n\nRegards,\nAman Sharma"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9004",
+      "time": "2024-11-12T01:02:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9004",
+      "text": "Conditionaly renders pagination component if number of entries is more than results per page",
+      "turnaround_time": 551947
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9004",
+      "time": "2024-11-11T12:55:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9004#issuecomment-2468116222",
+      "text": "Hi @samholics,\r\n- Issue of correct pagination component rendering when entries present are equal to the limit, has been resolved.\r\n- As for scroll issue, doing any changes to scroll implementation will affect other pages where pagination component is used, fix for this might work on facility page but will hamper user experience on other pages such as assets page, because user will not be taken to the top of the page when page is changed.\r\n- As for showing the total staff capacity on each page, for this we need to do changes in backend, as we set this value directly from the response received."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8992",
+      "time": "2024-11-07T14:41:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8992#issuecomment-2462407578",
+      "text": "Hi @nihal467, \nrequesting a review again for my pull request as for me the fix is working fine\n\nRegards"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9004",
+      "time": "2024-11-06T14:54:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9004#issuecomment-2459967281",
+      "text": "Hi @nihal467 \r\nI did recheck the fix for 15 entries exactly, Pagination component is not visible in this case as expected, can you please recheck again, I used this facility test-august-secondweek\r\nattaching screenshot for reference\r\n![image](https://github.com/user-attachments/assets/3ca92315-fc48-44e5-9c3e-7c2ab86b5c9d)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8992",
+      "time": "2024-11-04T11:15:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8992#issuecomment-2454440456",
+      "text": "HI @nihal467, please assign this issue to me, I wish to work on this\n\nRegards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8984",
+      "time": "2024-11-02T11:02:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8984",
+      "text": "resolves age field NaN issue for shifting patient copy to clipboard",
+      "turnaround_time": 238
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8981",
+      "time": "2024-11-02T11:00:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8981#issuecomment-2452953900",
+      "text": "Hi @rithviknishad,\nI have raised PR and linked this issue, Please let me know if any discrepancies are found, Happy to contribute to OHN\n\nRegards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8984",
+      "time": "2024-11-02T10:58:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8984",
+      "text": "resolves age field NaN issue for shifting patient copy to clipboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8981",
+      "time": "2024-11-02T10:43:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8981#issuecomment-2452950314",
+      "text": "Hi @rithviknishad, \nI found solution to this issue, can raise PR in under 10 minutes for this issue, please assign the issue to me\n\nRegards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9004",
+      "time": "2024-11-05T15:43:28Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9004",
+      "text": "Conditionaly renders pagination component if number of entries is more than results per page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

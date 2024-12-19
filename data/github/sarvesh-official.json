@@ -1,0 +1,63 @@
+{
+  "last_updated": "2024-11-29T05:05:15.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-29T05:05:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196",
+      "text": "Implemented Next and Previous button for files preview",
+      "turnaround_time": 332770
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-29T05:05:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196",
+      "text": "Implemented Next and Previous button for files preview",
+      "collaborated_with": [
+        "sarvesh-official",
+        "o",
+        "3",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-29T04:08:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196#issuecomment-2507056421",
+      "text": "Hi @rithviknishad, do I need to make any changes, or is this PR good to merge?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-28T06:14:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196#issuecomment-2505336976",
+      "text": "Hi @rithviknishad could you please review?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-27T09:08:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196#issuecomment-2503316275",
+      "text": "Hi @Jacobjeevan, I have updated the required changes, could you please review the PR again and merge it?\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-26T11:16:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196#issuecomment-2500350674",
+      "text": "Hi @Jacobjeevan, I have updated the required changes, could you please review the PR again?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-25T08:39:04Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196",
+      "text": "Implemented Next and Previous button for files preview"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

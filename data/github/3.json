@@ -1,0 +1,71 @@
+{
+  "last_updated": "2024-12-18T06:28:10.000Z",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9449",
+      "time": "2024-12-18T06:28:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9449",
+      "text": "Create 'copyToClipboard' utility function",
+      "collaborated_with": [
+        "rajku-dev",
+        "o",
+        "3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9395",
+      "time": "2024-12-13T12:40:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9395",
+      "text": "Util function for cleaner usage of TanStack useQuery",
+      "collaborated_with": [
+        "amjithtitus09",
+        "gigincg",
+        "o",
+        "3",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9196",
+      "time": "2024-11-29T05:05:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9196",
+      "text": "Implemented Next and Previous button for files preview",
+      "collaborated_with": [
+        "sarvesh-official",
+        "o",
+        "3",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9148",
+      "time": "2024-11-18T10:54:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9148",
+      "text": "Fixed the flaky test in user skill management cypress test",
+      "collaborated_with": [
+        "nihal467",
+        "o",
+        "3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-11-11T13:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882",
+      "text": "Update for List View in Shifting from Gird LayOut to List Layout",
+      "collaborated_with": [
+        "AnveshNalimela",
+        "nihal467",
+        "o",
+        "3"
+      ]
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

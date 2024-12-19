@@ -271,7 +271,7 @@
         {
             "client_msg_id": "863f7afc-bde4-42f2-8f0e-80fd6a08bb9e",
             "type": "message",
-            "text": "EOD 05/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go ?\n\u2022 Connected with Saurabh to understand where to get recipient-code from.\n\u2022 Made recipient-code dynamic\n\u2022 Had back and forth with WASA testing team on testing\nWhat's next\n\u2022 Work on <https://github.com/coronasafe/ayushma/issues/75>\n",
+            "text": "EOD 05/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go ?\n\u2022 Connected with Saurabh to understand where to get recipient-code from.\n\u2022 Made recipient-code dynamic\n\u2022 Had back and forth with WASA testing team on testing\nWhat's next\n\u2022 Work on <https://github.com/ohcnetwork/ayushma/issues/75>\n",
             "user": "U01JB8L8P7Y",
             "ts": "1685974908.122479",
             "blocks": [
@@ -352,7 +352,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/ayushma/issues/75"
+                                            "url": "https://github.com/ohcnetwork/ayushma/issues/75"
                                         }
                                     ]
                                 }
@@ -376,14 +376,14 @@
                     "ts": 1682587397,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/ayushma/issues/75",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/ayushma/issues/75",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "#75 Add Feedback",
                     "text": "Users should be able to provide feedback to the chat.  \nThis should be handled by a `Feedback` model, which has\n\n\u2022 chat_message : fk to `ChatMessage`\n\u2022 user : fk to `User`\n\u2022 liked : boolean\n\u2022 message : (optional) text\n\nMake relevant views and serializers. Feedback should be listed with `/feedback` url, with possible filters -\n\n\u2022 project_id\n\u2022 chat_id\n\u2022 chat_message_id\n\u2022 liked\n\nOnly admins should be able to list and retrieve all feedback. Normal users can only list their own. Feedbacks cannot be deleted.",
                     "title": "#75 Add Feedback",
-                    "title_link": "https://github.com/coronasafe/ayushma/issues/75",
-                    "footer": "<https://github.com/coronasafe/ayushma|coronasafe/ayushma>",
+                    "title_link": "https://github.com/ohcnetwork/ayushma/issues/75",
+                    "footer": "<https://github.com/ohcnetwork/ayushma|ohcnetwork/ayushma>",
                     "fields": [
                         {
                             "value": "<https://github.com/khavinshankar|@khavinshankar>",
@@ -407,7 +407,7 @@
         {
             "client_msg_id": "fd4cff36-5543-43db-ad24-15c6b9f5ecc5",
             "type": "message",
-            "text": "EOD 07/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go ?\n\u2022 Added ABDM authentication class for callback APIs\n\u2022 Had a meeting with WASA testing team to walk them through the callback APIs\nWhat's next !\n\u2022 Work on <https://github.com/coronasafe/ayushma/issues/75>\n",
+            "text": "EOD 07/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go ?\n\u2022 Added ABDM authentication class for callback APIs\n\u2022 Had a meeting with WASA testing team to walk them through the callback APIs\nWhat's next !\n\u2022 Work on <https://github.com/ohcnetwork/ayushma/issues/75>\n",
             "user": "U01JB8L8P7Y",
             "ts": "1686197961.837579",
             "blocks": [
@@ -479,7 +479,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/ayushma/issues/75"
+                                            "url": "https://github.com/ohcnetwork/ayushma/issues/75"
                                         }
                                     ]
                                 }
@@ -503,14 +503,14 @@
                     "ts": 1682587397,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/ayushma/issues/75",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/ayushma/issues/75",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "#75 Add Feedback",
                     "text": "Users should be able to provide feedback to the chat.  \nThis should be handled by a `Feedback` model, which has\n\n\u2022 chat_message : fk to `ChatMessage`\n\u2022 user : fk to `User`\n\u2022 liked : boolean\n\u2022 message : (optional) text\n\nMake relevant views and serializers. Feedback should be listed with `/feedback` url, with possible filters -\n\n\u2022 project_id\n\u2022 chat_id\n\u2022 chat_message_id\n\u2022 liked\n\nOnly admins should be able to list and retrieve all feedback. Normal users can only list their own. Feedbacks cannot be deleted.",
                     "title": "#75 Add Feedback",
-                    "title_link": "https://github.com/coronasafe/ayushma/issues/75",
-                    "footer": "<https://github.com/coronasafe/ayushma|coronasafe/ayushma>",
+                    "title_link": "https://github.com/ohcnetwork/ayushma/issues/75",
+                    "footer": "<https://github.com/ohcnetwork/ayushma|ohcnetwork/ayushma>",
                     "fields": [
                         {
                             "value": "<https://github.com/khavinshankar|@khavinshankar>",
@@ -534,7 +534,7 @@
         {
             "client_msg_id": "02ab0228-7767-4232-9d7b-f27a119e566a",
             "type": "message",
-            "text": "EOD 12/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go?\n\u2022 Had a weekly call with the team\n\u2022 Worked with <@UPW6XDGDD> to remove nginx from error_pages\n\u2022 Went through few proposal dms\n\u2022 Reviewed and Merged tested prs \nWhat's next?\n\u2022 Work on <https://github.com/coronasafe/ayushma/issues/75>\n\u2022 Work on mui to tailwind",
+            "text": "EOD 12/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go?\n\u2022 Had a weekly call with the team\n\u2022 Worked with <@UPW6XDGDD> to remove nginx from error_pages\n\u2022 Went through few proposal dms\n\u2022 Reviewed and Merged tested prs \nWhat's next?\n\u2022 Work on <https://github.com/ohcnetwork/ayushma/issues/75>\n\u2022 Work on mui to tailwind",
             "user": "U01JB8L8P7Y",
             "ts": "1686579566.550969",
             "blocks": [
@@ -632,7 +632,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/ayushma/issues/75"
+                                            "url": "https://github.com/ohcnetwork/ayushma/issues/75"
                                         }
                                     ]
                                 },
@@ -661,14 +661,14 @@
                     "ts": 1682587397,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/ayushma/issues/75",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/ayushma/issues/75",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "#75 Add Feedback",
                     "text": "Users should be able to provide feedback to the chat.  \nThis should be handled by a `Feedback` model, which has\n\n\u2022 chat_message : fk to `ChatMessage`\n\u2022 user : fk to `User`\n\u2022 liked : boolean\n\u2022 message : (optional) text\n\nMake relevant views and serializers. Feedback should be listed with `/feedback` url, with possible filters -\n\n\u2022 project_id\n\u2022 chat_id\n\u2022 chat_message_id\n\u2022 liked\n\nOnly admins should be able to list and retrieve all feedback. Normal users can only list their own. Feedbacks cannot be deleted.",
                     "title": "#75 Add Feedback",
-                    "title_link": "https://github.com/coronasafe/ayushma/issues/75",
-                    "footer": "<https://github.com/coronasafe/ayushma|coronasafe/ayushma>",
+                    "title_link": "https://github.com/ohcnetwork/ayushma/issues/75",
+                    "footer": "<https://github.com/ohcnetwork/ayushma|ohcnetwork/ayushma>",
                     "fields": [
                         {
                             "value": "<https://github.com/khavinshankar|@khavinshankar>",
@@ -692,7 +692,7 @@
         {
             "client_msg_id": "efedfd3e-4a9d-47f8-8e64-4b875c4c7a13",
             "type": "message",
-            "text": "EOD 19/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nhow did the day go?\n\u2022 Had a weekly call with the team\n\u2022 Went through the tailwind prs\n\u2022 Planned out abdm folder structure for refactoring\nwhat's next\n\u2022 Complete <https://github.com/coronasafe/ayushma/issues/75>\n\u2022 Review and Merge tested prs\n\u2022 Checkout the issue in HCX\n\u2022 Work on ABDM refactor (unit tests and docs)\n",
+            "text": "EOD 19/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nhow did the day go?\n\u2022 Had a weekly call with the team\n\u2022 Went through the tailwind prs\n\u2022 Planned out abdm folder structure for refactoring\nwhat's next\n\u2022 Complete <https://github.com/ohcnetwork/ayushma/issues/75>\n\u2022 Review and Merge tested prs\n\u2022 Checkout the issue in HCX\n\u2022 Work on ABDM refactor (unit tests and docs)\n",
             "user": "U01JB8L8P7Y",
             "ts": "1687237803.366749",
             "blocks": [
@@ -773,7 +773,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/ayushma/issues/75"
+                                            "url": "https://github.com/ohcnetwork/ayushma/issues/75"
                                         }
                                     ]
                                 },
@@ -824,14 +824,14 @@
                     "ts": 1682587397,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/ayushma/issues/75",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/ayushma/issues/75",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "#75 Add Feedback",
                     "text": "Users should be able to provide feedback to the chat.  \nThis should be handled by a `Feedback` model, which has\n\n\u2022 chat_message : fk to `ChatMessage`\n\u2022 user : fk to `User`\n\u2022 liked : boolean\n\u2022 message : (optional) text\n\nMake relevant views and serializers. Feedback should be listed with `/feedback` url, with possible filters -\n\n\u2022 project_id\n\u2022 chat_id\n\u2022 chat_message_id\n\u2022 liked\n\nOnly admins should be able to list and retrieve all feedback. Normal users can only list their own. Feedbacks cannot be deleted.",
                     "title": "#75 Add Feedback",
-                    "title_link": "https://github.com/coronasafe/ayushma/issues/75",
-                    "footer": "<https://github.com/coronasafe/ayushma|coronasafe/ayushma>",
+                    "title_link": "https://github.com/ohcnetwork/ayushma/issues/75",
+                    "footer": "<https://github.com/ohcnetwork/ayushma|ohcnetwork/ayushma>",
                     "fields": [
                         {
                             "value": "<https://github.com/khavinshankar|@khavinshankar>",
@@ -855,7 +855,7 @@
         {
             "client_msg_id": "6dbdd4f9-fe10-491e-abed-96c45c6e94e2",
             "type": "message",
-            "text": "EOD 28/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nhow did the day go ?\n\n\u2022 Made a frontend pr for ayushma feedback (<https://github.com/coronasafe/ayushma_fe/pull/54>)\n\u2022 Merged latest master branch with abdm and fixed related issue (<@U02TB8XHZD1> helped out with conflicts in migration)\n\u2022 Reviewed and merged tested prs\nwhat's next ?\n\n\u2022 Merge latest develop branch with abdm in frontend\n\u2022 Look into unit tests for abdm\n",
+            "text": "EOD 28/06/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nhow did the day go ?\n\n\u2022 Made a frontend pr for ayushma feedback (<https://github.com/ohcnetwork/ayushma_fe/pull/54>)\n\u2022 Merged latest master branch with abdm and fixed related issue (<@U02TB8XHZD1> helped out with conflicts in migration)\n\u2022 Reviewed and merged tested prs\nwhat's next ?\n\n\u2022 Merge latest develop branch with abdm in frontend\n\u2022 Look into unit tests for abdm\n",
             "user": "U01JB8L8P7Y",
             "ts": "1687961192.916649",
             "blocks": [
@@ -892,7 +892,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/ayushma_fe/pull/54"
+                                            "url": "https://github.com/ohcnetwork/ayushma_fe/pull/54"
                                         },
                                         {
                                             "type": "text",
@@ -985,14 +985,14 @@
                     "ts": 1687930121,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/ayushma_fe/pull/54",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/ayushma_fe/pull/54",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "1438x764px image",
-                    "text": "Resolves <https://github.com/coronasafe/ayushma/issues/75|coronasafe/ayushma#75>\n\nThe UI includes,\n\n\u2022 thumbs up and down icons for rating  \n    <https://user-images.githubusercontent.com/29787772/249361431-a298fea5-87cd-4f26-8e0e-e770219a72c1.png|image>\n\u2022 modal for giving additional feedback  \n    <https://user-images.githubusercontent.com/29787772/249361628-615722a4-c13a-4cba-91d7-d6f6c5e824d4.png|image>",
+                    "text": "Resolves <https://github.com/ohcnetwork/ayushma/issues/75|ohcnetwork/ayushma#75>\n\nThe UI includes,\n\n\u2022 thumbs up and down icons for rating  \n    <https://user-images.githubusercontent.com/29787772/249361431-a298fea5-87cd-4f26-8e0e-e770219a72c1.png|image>\n\u2022 modal for giving additional feedback  \n    <https://user-images.githubusercontent.com/29787772/249361628-615722a4-c13a-4cba-91d7-d6f6c5e824d4.png|image>",
                     "title": "#54 Added UI for feedback",
-                    "title_link": "https://github.com/coronasafe/ayushma_fe/pull/54",
-                    "footer": "<https://github.com/coronasafe/ayushma_fe|coronasafe/ayushma_fe>",
+                    "title_link": "https://github.com/ohcnetwork/ayushma_fe/pull/54",
+                    "footer": "<https://github.com/ohcnetwork/ayushma_fe|ohcnetwork/ayushma_fe>",
                     "fields": [
                         {
                             "value": "1",
@@ -1011,7 +1011,7 @@
         {
             "client_msg_id": "6153e84e-8e1c-4ddb-aee3-8c661c2af5e0",
             "type": "message",
-            "text": "EOD 30/06/2023\n\nHow did the day go?\n\n\u2022 Merged latest develop branch with abdm-integration branch in frontend\n\u2022 Helped out <@U052CV9HBR6> with a positioning issue in <https://github.com/coronasafe/care_fe/pull/5719>\n\u2022 Resolved some merge conflicts and reviewed and merged remaining tested prs \nWhat's next?\n\n\u2022 Look into unit tests for abdm\n",
+            "text": "EOD 30/06/2023\n\nHow did the day go?\n\n\u2022 Merged latest develop branch with abdm-integration branch in frontend\n\u2022 Helped out <@U052CV9HBR6> with a positioning issue in <https://github.com/ohcnetwork/care_fe/pull/5719>\n\u2022 Resolved some merge conflicts and reviewed and merged remaining tested prs \nWhat's next?\n\n\u2022 Look into unit tests for abdm\n",
             "user": "U01JB8L8P7Y",
             "ts": "1688134615.215939",
             "blocks": [
@@ -1057,7 +1057,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care_fe/pull/5719"
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/5719"
                                         }
                                     ]
                                 },
@@ -1120,14 +1120,14 @@
                     "ts": 1687123904,
                     "color": "6f42c1",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/5719",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/5719",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "1366x768px image",
-                    "text": "*WHAT*\n*:robot_face: Generated by Copilot at <https://github.com/coronasafe/care_fe/commit/b549c211bb3d5ffc4ace5bf6eff2a4290ee6c0bb|b549c21>*\n\nImproved the user interface and functionality of the `GLocationPicker` component by adding a `Popover` map panel and fixing a close icon bug.\n\n*Proposed Changes*\n\n\u2022 Fixes <https://github.com/coronasafe/care_fe/issues/4952|#4952>\n\u2022 Replaced Material UI in FacilityCreate.tsx\n\u2022 Wrapped close button of GLocationPicker with Popover.Button after replacing material UI's Popover component with headlessui's Popover component as that's the only way to close the Popover according to the docs.\n\u2022 GLocationPicker component does not load the map in mobile view / at lower width and the search box and close button occupy the entire space as in the below screenshot. Fixed that issue too.\n\n<https://user-images.githubusercontent.com/113630200/246691628-0b1a8d52-acc8-4f40-99ba-ed4b1f679f7a.png|image>\n\n@coronasafe/care-fe-code-reviewers @coronasafe/code-reviewers\n\n*HOW*\n*:robot_face: Generated by Copilot at <https://github.com/coronasafe/care_fe/commit/b549c211bb3d5ffc4ace5bf6eff2a4290ee6c0bb|b549c21>*\n\n\u2022 Import the `Popover` component from `@headlessui/react` library to create a dismissible floating panel for the map (<https://github.com/coronasafe/care_fe/pull/5719/files?diff=unified&w=0#diff-c4bc281dcacf25e0ea09e5465988d6b4e3a2aee0b5f9b9a1d804b46e36f73999R8|link>)\n\u2022 Wrap the close icon for the map in a `Popover.Button` component to control the visibility of the `Popover` component and fix a bug where the map would not close when clicking the icon (<https://github.com/coronasafe/care_fe/pull/5719/files?diff=unified&w=0#diff-c4bc281dcacf25e0ea09e5465988d6b4e3a2aee0b5f9b9a1d804b46e36f73999L204-R214|link>)",
+                    "text": "*WHAT*\n*:robot_face: Generated by Copilot at <https://github.com/ohcnetwork/care_fe/commit/b549c211bb3d5ffc4ace5bf6eff2a4290ee6c0bb|b549c21>*\n\nImproved the user interface and functionality of the `GLocationPicker` component by adding a `Popover` map panel and fixing a close icon bug.\n\n*Proposed Changes*\n\n\u2022 Fixes <https://github.com/ohcnetwork/care_fe/issues/4952|#4952>\n\u2022 Replaced Material UI in FacilityCreate.tsx\n\u2022 Wrapped close button of GLocationPicker with Popover.Button after replacing material UI's Popover component with headlessui's Popover component as that's the only way to close the Popover according to the docs.\n\u2022 GLocationPicker component does not load the map in mobile view / at lower width and the search box and close button occupy the entire space as in the below screenshot. Fixed that issue too.\n\n<https://user-images.githubusercontent.com/113630200/246691628-0b1a8d52-acc8-4f40-99ba-ed4b1f679f7a.png|image>\n\n@ohcnetwork/care-fe-code-reviewers @ohcnetwork/code-reviewers\n\n*HOW*\n*:robot_face: Generated by Copilot at <https://github.com/ohcnetwork/care_fe/commit/b549c211bb3d5ffc4ace5bf6eff2a4290ee6c0bb|b549c21>*\n\n\u2022 Import the `Popover` component from `@headlessui/react` library to create a dismissible floating panel for the map (<https://github.com/ohcnetwork/care_fe/pull/5719/files?diff=unified&w=0#diff-c4bc281dcacf25e0ea09e5465988d6b4e3a2aee0b5f9b9a1d804b46e36f73999R8|link>)\n\u2022 Wrap the close icon for the map in a `Popover.Button` component to control the visibility of the `Popover` component and fix a bug where the map would not close when clicking the icon (<https://github.com/ohcnetwork/care_fe/pull/5719/files?diff=unified&w=0#diff-c4bc281dcacf25e0ea09e5465988d6b4e3a2aee0b5f9b9a1d804b46e36f73999L204-R214|link>)",
                     "title": "#5719 Replaced material ui in FacilityCreate.tsx",
-                    "title_link": "https://github.com/coronasafe/care_fe/pull/5719",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/5719",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "tested, made_changes",
@@ -1247,7 +1247,7 @@
         {
             "client_msg_id": "5efd2e37-b3de-4eb3-95d9-313b5b510a13",
             "type": "message",
-            "text": "EOD 17/07/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go ?\n\u2022 Reworked on suggestions by Shivank in <https://github.com/coronasafe/ayushma/issues/75>\n\u2022 Reviewed uptime pr\nWhat\u2019s next ?\n\u2022 Review and merge the tested prs\n\u2022 Work on previously assigned issues\n",
+            "text": "EOD 17/07/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go ?\n\u2022 Reworked on suggestions by Shivank in <https://github.com/ohcnetwork/ayushma/issues/75>\n\u2022 Reviewed uptime pr\nWhat\u2019s next ?\n\u2022 Review and merge the tested prs\n\u2022 Work on previously assigned issues\n",
             "user": "U01JB8L8P7Y",
             "ts": "1689658753.764389",
             "blocks": [
@@ -1284,7 +1284,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/ayushma/issues/75"
+                                            "url": "https://github.com/ohcnetwork/ayushma/issues/75"
                                         }
                                     ]
                                 },
@@ -1352,14 +1352,14 @@
                     "ts": 1682587397,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/ayushma/issues/75",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/ayushma/issues/75",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "#75 Add Feedback",
                     "text": "Users should be able to provide feedback to the chat.  \nThis should be handled by a `Feedback` model, which has\n\n\u2022 chat_message : fk to `ChatMessage`\n\u2022 user : fk to `User`\n\u2022 liked : boolean\n\u2022 message : (optional) text\n\nMake relevant views and serializers. Feedback should be listed with `/feedback` url, with possible filters -\n\n\u2022 project_id\n\u2022 chat_id\n\u2022 chat_message_id\n\u2022 liked\n\nOnly admins should be able to list and retrieve all feedback. Normal users can only list their own. Feedbacks cannot be deleted.",
                     "title": "#75 Add Feedback",
-                    "title_link": "https://github.com/coronasafe/ayushma/issues/75",
-                    "footer": "<https://github.com/coronasafe/ayushma|coronasafe/ayushma>",
+                    "title_link": "https://github.com/ohcnetwork/ayushma/issues/75",
+                    "footer": "<https://github.com/ohcnetwork/ayushma|ohcnetwork/ayushma>",
                     "fields": [
                         {
                             "value": "<https://github.com/khavinshankar|@khavinshankar>",
@@ -1374,6 +1374,3110 @@
                     ],
                     "mrkdwn_in": [
                         "text"
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-13 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1731541944.196369",
+            "client_msg_id": "c3d53c7a-b6ec-4bfd-b133-ef1a98af2ffe",
+            "text": "13th November\n*Done*\n\u2022 Came up with FHIR based models for labs module\n\u2022 Reviewed and merged scribe plug\n\u2022 Had a sync with Vignesh on general overview of EMR Implementation\n*Up Next*\n\u2022 Have a sync with Bodhi\n\u2022 Upgrade pydantic to v2.9 and resolve fhir.resources dependency issues\n\u2022 Look in-depth into Valuesets\n\u2022 Come up with flows for labs module\n\u2022 Design wireframes for labs module",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sUxqN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13th November\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Came up with FHIR based models for labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and merged scribe plug"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a sync with Vignesh on general overview of EMR Implementation"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have a sync with Bodhi"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Upgrade pydantic to v2.9 and resolve fhir.resources dependency issues"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look in-depth into Valuesets"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Come up with flows for labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Design wireframes for labs module"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UV5PPBE2D"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1731487924.204999",
+            "client_msg_id": "830171b0-123e-43c3-984c-5fc652a83c34",
+            "text": "12th November\n*Done*\n\u2022 Fixed issues while testing <https://github.com/ohcnetwork/care_fe/pull/9036|ABDM FE Plug> and got it merged\n\u2022 Reviewed and merged tested PRs\n\u2022 Went through the EMR Implementation docs.\n\u2022 Worked on converting proposed models for lab module to FHIR based (partially done)\n*Up Next*\n\u2022 Continue working on FHIR based models for labs module\n\u2022 Sync up with Vignesh on labs module\n\u2022 Come up with flows for labs module\n\u2022 Design wireframes for labs module",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uQorz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12th November\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed issues while testing "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9036",
+                                            "text": "ABDM FE Plug"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and got it merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and merged tested PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through the EMR Implementation docs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on converting proposed models for lab module to FHIR based (partially done)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue working on FHIR based models for labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync up with Vignesh on labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Come up with flows for labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Design wireframes for labs module"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-16 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1731721771.973269",
+            "client_msg_id": "da019843-cc94-41cf-a960-61e7751a319e",
+            "text": "15th November\n*Done*\n\u2022 Had a short call with Bodhi discussing the FHIR based models for labs\n\u2022 Improved and cleaned up the models (added Task profile manage pathologist review)\n\u2022 Went through each point in user story and written down the flow (currently skipped retest and billing)\n*Up Next*\n\u2022 Update the EMR Implementation doc on the FHIR profiles used for labs module\n\u2022 Have a call with Vinu to get started on the UI for labs module",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ha0ie",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15th November\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a short call with Bodhi discussing the FHIR based models for labs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improved and cleaned up the models (added Task profile manage pathologist review)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went through each point in user story and written down the flow (currently skipped retest and billing)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update the EMR Implementation doc on the FHIR profiles used for labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have a call with Vinu to get started on the UI for labs module"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1731988148.093139",
+            "client_msg_id": "2ef4ec84-af3a-4d4d-8c63-ee5a5cbb74bd",
+            "text": "*18th November*\n\n*Done*\n\u2022 Had a call with Vinu to go over the labs flow for UI wireframes\n\u2022 Reworked on labs flow (<https://gist.github.com/khavinshankar/d0811abd38ef8ecf2c20d3bd11e6ba59>)\n    \u25e6 Samples getting collected in hospital, or in labs\n    \u25e6 Thought through about the permissions\n    \u25e6 Status mapping logic\n    \u25e6 Grouping of samples\n\u2022 Fixed <https://github.com/ohcnetwork/care_fe/pull/9149|cypress video upload issue> in github action for forked PRs with Nihal and Aakash\n\u2022 Had a call with Prafful and Rithvik to help debug issue with setting up plug for local dev and briefly went over signals to handle validation\n*Next*\n\u2022 Go over <https://github.com/ohcnetwork/care/pull/2549> and try setting up a valueset and a model\n\u2022 Review and merge tested PRs\n\u2022 Add labs doc to EMR Implementation doc\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Y6IOL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Vinu to go over the labs flow for UI wireframes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reworked on labs flow ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://gist.github.com/khavinshankar/d0811abd38ef8ecf2c20d3bd11e6ba59"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Samples getting collected in hospital, or in labs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Thought through about the permissions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Status mapping logic"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Grouping of samples"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9149",
+                                            "text": "cypress video upload issue"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in github action for forked PRs with Nihal and Aakash"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Prafful and Rithvik to help debug issue with setting up plug for local dev and briefly went over signals to handle validation"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Go over "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/2549"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and try setting up a valueset and a model"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review and merge tested PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Add labs doc to EMR Implementation doc"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732153871.828409",
+            "client_msg_id": "dc496b55-8e02-4c60-9914-5c916f5a3a07",
+            "text": "*20th November*\n\n*Done*\n\u2022 Synced with Vinu on changes to the flow and went through Vinu's current design\n\u2022 Had an intro call with Yaswanth\n\u2022 Explored <https://github.com/ohcnetwork/care/pull/2549|emr app> in care backend (Tried replicating AllergyIntolerance for ServiceRequest)\n\u2022 Reviewed and merged tested PRs in care_fe\n*Next*\n\u2022 Continue adding labs related FHIR resources and Valueset\n",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732153871.828409",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1732239850.426349",
+            "reply_users": [
+                "UC99MFPU1",
+                "U01JB8L8P7Y"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1729351326,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/2549",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#2549 Re-Architecture Changes",
+                    "text": "\u2022 TBD",
+                    "title": "#2549 Re-Architecture Changes",
+                    "title_link": "https://github.com/ohcnetwork/care/pull/2549",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
+                    "fields": [
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pErQl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Done",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Vinu on changes to the flow and went through Vinu's current design"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had an intro call with Yaswanth"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/2549",
+                                            "text": "emr app"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " in care backend (Tried replicating AllergyIntolerance for ServiceRequest)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and merged tested PRs in care_fe"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue adding labs related FHIR resources and Valueset"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732247648.519979",
+            "edited": {
+                "user": "U01JB8L8P7Y",
+                "ts": "1732247675.000000"
+            },
+            "client_msg_id": "96549601-c0a4-4e6e-ba98-9d0b962af99c",
+            "text": "*19th November (missed an update previously)*\n\u2022 Fixed diagnosis display in abdm plug\n\u2022 Tried to resolve fhir.resources dependency issue\n\u2022 Reviewed and merged the tested PRs\n*21st November*\n\u2022 Replicated the ServiceRequest and procedure Valueset in emr app, just experimented with the structure\n\u2022 Had a call with Prafful to help with migration in camera plugin\n\u2022 Was debugging 404 issue with the endpoints in camera plugin\n*Up Next*\n\u2022 Resolve fhir.resources dependency issue\n\u2022 Sync with Vinu to discuss on labs UI\n\u2022 Get started on Labs module and come up with an estimated time of completion",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eOZW2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19th November (missed an update previously)",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed diagnosis display in abdm plug"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to resolve fhir.resources dependency issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and merged the tested PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "21st November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replicated the ServiceRequest and procedure Valueset in emr app, just experimented with the structure"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Prafful to help with migration in camera plugin"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Was debugging 404 issue with the endpoints in camera plugin"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Up Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolve fhir.resources dependency issue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Vinu to discuss on labs UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get started on Labs module and come up with an estimated time of completion"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-25 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732519158.166919",
+            "client_msg_id": "d95f82ff-d254-498e-8700-54dca1200fa6",
+            "text": "*22nd November*\n\u2022 Had a call with Vinu to go over the revised labs UI\n\u2022 Worked on creating ServiceRequest model and specs\n\u2022 Listed out todo action items for the labs module (should convert them into independent issues)\n\u2022 Randomly Jumped into a call with Gigin, Bodhi and Uday on feasibility on merging/reworking doctor notes pr\n\u2022 Had a call with Yaswanth discussing action items in labs module and briefly explained going through FHIR docs\n*Next*\n\u2022 Have another call with Vinu to finalise the UI before creating issues for frontend.\n\u2022 Create independent issues for labs module\n\u2022 Panned a call with Aakash (and Vignesh) to understand RBAC\n\u2022 Look into LOINC valueset to understand how to map procedure/observation to specimen required\n\u2022 Have a call with Yaswanth to discuss the split up development of labs module",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zrJyt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22nd November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Vinu to go over the revised labs UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on creating ServiceRequest model and specs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Listed out todo action items for the labs module (should convert them into independent issues)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Randomly Jumped into a call with Gigin, Bodhi and Uday on feasibility on merging/reworking doctor notes pr"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Yaswanth discussing action items in labs module and briefly explained going through FHIR docs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have another call with Vinu to finalise the UI before creating issues for frontend."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create independent issues for labs module"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Panned a call with Aakash (and Vignesh) to understand RBAC"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look into LOINC valueset to understand how to map procedure/observation to specimen required"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have a call with Yaswanth to discuss the split up development of labs module"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732589699.820859",
+            "client_msg_id": "78abec18-a7bc-4726-8cb3-835f6e953004",
+            "text": "*25th November*\n\u2022 Looked into LOINC valueset for procedure-specimen mapping\n\u2022 Had a short call with Yaswanth\n\u2022 Worked on labs backend _(just added the models and specs (Specimen))_\n*Next*\n\u2022 Sync with Yaswanth and Vinu\n\u2022 Review and merge tested PRs\n\u2022 Continue working on labs backend _(complete the flow till auto creating specimen)_",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qjJHS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into LOINC valueset for procedure-specimen mapping"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a short call with Yaswanth"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on labs backend "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(just added the models and specs (Specimen))",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Yaswanth and Vinu"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review and merge tested PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue working on labs backend "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "(complete the flow till auto creating specimen)",
+                                            "style": {
+                                                "italic": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732677667.564929",
+            "client_msg_id": "88be6069-6046-4d63-9ae6-79f17ebc657f",
+            "text": "*26th November*\n\u2022 Completed the labs flow till creating the specimen (have used <http://fhir.loinc.org|fhir.loinc.org> terminology server directly)\n\u2022 Tried to create value set in snowstorm (was stuck here for a while, now created the value set but having issues with the metadata which is needed for creating specimen)\n\u2022 Reviewed and merged few small PRs in care_fe\n\u2022 Had a long call with Yaswanth discussing the split up, and progress.\n*Next*\n\u2022 Have a call with Vignesh to discuss the metadata issue related to valueset\n\u2022 Replace the usage of <http://fhir.loinc.org|fhir.loinc.org> with default snowstorm server \n\u2022 Review and merge remaining tested PRs\n",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732677667.564929",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1732754854.906729",
+            "reply_users": [
+                "UC99MFPU1",
+                "U01JB8L8P7Y"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7y0OR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed the labs flow till creating the specimen (have used "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://fhir.loinc.org",
+                                            "text": "fhir.loinc.org"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " terminology server directly)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to create value set in snowstorm (was stuck here for a while, now created the value set but having issues with the metadata which is needed for creating specimen)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed and merged few small PRs in care_fe"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a long call with Yaswanth discussing the split up, and progress."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Have a call with Vignesh to discuss the metadata issue related to valueset"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replace the usage of "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://fhir.loinc.org",
+                                            "text": "fhir.loinc.org"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with default snowstorm server "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review and merge remaining tested PRs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-28 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732768736.682509",
+            "client_msg_id": "99d0fa45-f7ac-4007-8f06-0927f6a83316",
+            "text": "*27th November _(lazy day)_*\n\u2022 Replaced direct api calls to <http://fhir.loinc.org|fhir.loinc.org> and used CareValueset\n\u2022 Rest of the day was unproductive, tried fixing metadata issue in local snowstorm but later used <http://165.22.211.144/fhir> which was configured correctly.\n*Next*\n\u2022 Look into filtering LOINC valueset by parameters.\n\u2022 Sync with Yaswanth on frontend.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NN3oZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27th November ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "(lazy day)",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced direct api calls to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://fhir.loinc.org",
+                                            "text": "fhir.loinc.org"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and used CareValueset"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Rest of the day was unproductive, tried fixing metadata issue in local snowstorm but later used "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://165.22.211.144/fhir"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " which was configured correctly."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look into filtering LOINC valueset by parameters."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Yaswanth on frontend."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2024-11-29 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1732846721.759109",
+            "client_msg_id": "41495604-2c44-4379-a89c-a3712b92d04c",
+            "text": "*28th November*\n\u2022 Looked for standard mappings b/w LOINC system (Specimen) to <https://terminology.hl7.org/6.1.0/ValueSet-v2-0487.html|HL7 Specimen value set>, did not get any, decided to create a custom ConceptMap (almost done)\n\u2022 Helped Prafful debug the issue with installing the plugs\n\u2022 Had a couple of Syncs with Yaswanth\n*Next*\n\u2022 Wrapup the ConceptMap\n\u2022 Finish the flow till `Test Ongoing`\n\u2022 Sync up with Yashwanth on the UI and discuss the plan for wiring it with backend",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2VyIe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked for standard mappings b/w LOINC system (Specimen) to "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://terminology.hl7.org/6.1.0/ValueSet-v2-0487.html",
+                                            "text": "HL7 Specimen value set"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", did not get any, decided to create a custom ConceptMap (almost done)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Helped Prafful debug the issue with installing the plugs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a couple of Syncs with Yaswanth"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrapup the ConceptMap"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finish the flow till "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Test Ongoing",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync up with Yashwanth on the UI and discuss the plan for wiring it with backend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-03 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1733187631.764149",
+            "client_msg_id": "8c75d6d9-57ea-4710-94f4-f329981ba504",
+            "text": "*29th November*\n\u2022 Dropped custom ConceptMap creation, used LOINC\u2019s inbuilt concept map\n\u2022 Wrapped up the labs flow till Test Ongoing\n*2nd December*\n\u2022 Synced with Yaswanth on the frontend timeline\n\u2022 Looked into using the same valuesets mentioned in hl7 fhir specs\n\u2022 Added support for creating aliquots\n*Next*\n\u2022 Create DiagnosticReport specs and continue with the flow\n\u2022 Sync with Yaswanth on the frontend and wiring",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vBWl5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29th November",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Dropped custom ConceptMap creation, used LOINC\u2019s inbuilt concept map"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wrapped up the labs flow till Test Ongoing"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2nd December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Yaswanth on the frontend timeline"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into using the same valuesets mentioned in hl7 fhir specs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added support for creating aliquots"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Create DiagnosticReport specs and continue with the flow"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Yaswanth on the frontend and wiring"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-05 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1733364343.302699",
+            "client_msg_id": "8f878ea5-fd7b-4a69-bcb6-ebee5c919cbd",
+            "text": "*3rd December*\n\u2022 Created DiagnosticReport specs\n\u2022 Synced with Yaswanth on the frontend\n*4th December*\n\u2022 Added Tasks specs and APIs for pathologist review\n\u2022 Fixed runtime errors while auto creating specimens (added checks)\n\u2022 Looked into using procedure-codes valueset in ServiceRequest (still no lead, will get back to it once the poc is done)\n\u2022 Synced with Yaswanth on the frontend\n*Next*\n\u2022 Sync with Yaswanth and get started with frontend wiring\n\u2022 Add APIs based on frontend requirements (currently using update endpoint for all status updates, add specific endpoints if necessary)\n\u2022 Review Uday's new PR (<https://github.com/ohcnetwork/care_fe/pull/9298|Doctor notes enhancement>)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Hvnnu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "3rd December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created DiagnosticReport specs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Yaswanth on the frontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added Tasks specs and APIs for pathologist review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed runtime errors while auto creating specimens (added checks)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looked into using procedure-codes valueset in ServiceRequest (still no lead, will get back to it once the poc is done)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Yaswanth on the frontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Yaswanth and get started with frontend wiring"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Add APIs based on frontend requirements (currently using update endpoint for all status updates, add specific endpoints if necessary)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review Uday's new PR ("
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9298",
+                                            "text": "Doctor notes enhancement"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-09 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1733737611.344049",
+            "client_msg_id": "7f434bcf-2383-41d0-86b9-d6c2e537459b",
+            "text": "*5th December*\n\u2022 Reviewed <https://github.com/ohcnetwork/care_fe/pull/9298|Doctor notes enhancement> and couple other PRs\n\u2022 Used existing Observation spec in DiagnosticReport\n\u2022 Synced with Yaswanth on the frontend progress\n*6th December*\n\u2022 Added flow specific APIs (like to update status, add processing step and such)\n\u2022 Updated read specs to return serialised data instead of uuids\n*7th December*\n\u2022 Had a call with Javid to help him step up abdm_fe plug \n\u2022 Synced with Rithvik discussing ValueSet and terms and some minor random things\n\u2022 Had another call with Javid to review a minor validation PR\n\u2022 Debugged an issue from HCX coverage eligibility which Nihal spotted\n\u2022 Cleaned up the labs APIs\n*Next*\n\u2022 Wire the labs frontend and work on the pending UI",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jEOFF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9298",
+                                            "text": "Doctor notes enhancement"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and couple other PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Used existing Observation spec in DiagnosticReport"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Yaswanth on the frontend progress"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "6th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added flow specific APIs (like to update status, add processing step and such)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated read specs to return serialised data instead of uuids"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "7th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a call with Javid to help him step up abdm_fe plug "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Rithvik discussing ValueSet and terms and some minor random things"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had another call with Javid to review a minor validation PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged an issue from HCX coverage eligibility which Nihal spotted"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Cleaned up the labs APIs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wire the labs frontend and work on the pending UI"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-10 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1733807168.273259",
+            "client_msg_id": "6b765670-2e21-4084-bdd0-101c8b613845",
+            "text": "*9th December*\n\u2022 Synced with Yaswanth and Vinu to clarify the some minor questions on UI and progress updates\n\u2022 Added flow status filters \n\u2022 Started wiring labs APIs\n\u2022 Had a quick call with Javid to discuss a dependency issue in useEffect\n*Next*\n\u2022 Sync with Yaswanth and Vinu again to clarify couple questions on UI\n\u2022 Wire the APIs",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "kR2TM",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "9th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Yaswanth and Vinu to clarify the some minor questions on UI and progress updates"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added flow status filters "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started wiring labs APIs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a quick call with Javid to discuss a dependency issue in useEffect"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sync with Yaswanth and Vinu again to clarify couple questions on UI"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wire the APIs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-12 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1733962950.368759",
+            "client_msg_id": "b37f7913-e67f-428d-b747-13d5121016b3",
+            "text": "*10th December*\n\u2022 Added flow status filter\n\u2022 Added create lab order component in the frontend\n\u2022 Had couple of Syncs with Yaswanth\n*11th December*\n\u2022 Wired labs module till basic flow (from creating lab order to adding result) (still few things be polished)\n\u2022 Reviewed Jacob's User Management redesign PR\n\u2022 Interviewed 4 candidates for Hub Admin along with Gigin, Aparna and few from field team\n\u2022 Had a Sync with Yashwant to create a demo and cleanup\n*Next*\n\u2022 Work on rest of the labs flow (pathologist review)\n\u2022 Randomly stumbled on Panel Hierarchy and LOINC forms, should check if they can be used for mapping lab order and observations to be recorded\n\u2022 Review tanstack query migration",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+NNze",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added flow status filter"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added create lab order component in the frontend"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had couple of Syncs with Yaswanth"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wired labs module till basic flow (from creating lab order to adding result) (still few things be polished)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed Jacob's User Management redesign PR"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Interviewed 4 candidates for Hub Admin along with Gigin, Aparna and few from field team"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had a Sync with Yashwant to create a demo and cleanup"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work on rest of the labs flow (pathologist review)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Randomly stumbled on Panel Hierarchy and LOINC forms, should check if they can be used for mapping lab order and observations to be recorded"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review tanstack query migration"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-16 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1734325334.627929",
+            "client_msg_id": "c40a78ae-eaa5-42dc-981d-372d42b70d49",
+            "text": "*12th December*\n\u2022 Added apis required for pathologist review\n\u2022 Added phase filters for DiagnosisReport\n*13th December*\n\u2022 Wired pathologist review flow in the frontend\n\u2022 Started converting ABDM fe into micro frontend\n    \u25e6 passed consultation context as a prop instead of using useContext\n    \u25e6 converted form field components into shadcn components (partialy done ~50%)\n*15th December*\n\u2022 Resolved fhir.resources and pydantic version conflicts\n\u2022 Other minor cleanups\n*Next*\n\u2022 Continue converting ABDM fe into micro fe\n    \u25e6 Convert pending form field components into shadcn components\n    \u25e6 Directly use tanstack query instead of custom useQuery and request utils\n    \u25e6 Make pubsub util used in patient register form work (consider using rxjs)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HU+en",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added apis required for pathologist review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added phase filters for DiagnosisReport"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Wired pathologist review flow in the frontend"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started converting ABDM fe into micro frontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "passed consultation context as a prop instead of using useContext"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "converted form field components into shadcn components (partialy done ~50%)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved fhir.resources and pydantic version conflicts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Other minor cleanups"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue converting ABDM fe into micro fe"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Convert pending form field components into shadcn components"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Directly use tanstack query instead of custom useQuery and request utils"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make pubsub util used in patient register form work (consider using rxjs)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-17 00:00:00": [
+        {
+            "user": "U01JB8L8P7Y",
+            "type": "message",
+            "ts": "1734406649.891739",
+            "client_msg_id": "88f033c6-0f54-471b-bfcd-30e5717411cb",
+            "text": "*16th December*\n\u2022 Replaced useQuery and request utils with tanstack query in abdm\n    \u25e6 Created a custom request util to handle api calls\n    \u25e6 Created api functions instead of using routes structure\n    \u25e6 Replaced all occurrences\n\u2022  Synced with Yashwanth on Labs frontend code refactor (creating atomic components)\n\u2022 Started with Labs frontend code refactor\n*Next*\n\u2022 Try to complete converting ABDM fe into micro fe\n    \u25e6 Convert pending form field components into shadcn components\n    \u25e6 Make pubsub util used in patient register form work (consider using rxjs)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TiLWI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "16th December",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced useQuery and request utils with tanstack query in abdm"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a custom request util to handle api calls"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created api functions instead of using routes structure"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Replaced all occurrences"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Synced with Yashwanth on Labs frontend code refactor (creating atomic components)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started with Labs frontend code refactor"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Try to complete converting ABDM fe into micro fe"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Convert pending form field components into shadcn components"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Make pubsub util used in patient register form work (consider using rxjs)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        }
                     ]
                 }
             ]

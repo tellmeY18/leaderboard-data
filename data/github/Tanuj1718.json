@@ -1,0 +1,311 @@
+{
+  "last_updated": "2024-12-17T15:28:26.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#35",
+      "time": "2024-12-17T15:28:26.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/35#issuecomment-2548759729",
+      "text": "@shivankacker  Done as you instructed. Also there is enough space for 'Timeline' tab in both mobile and web view.\r\n\r\n<img width=\"353\" alt=\"Screenshot 2024-12-17 at 8 49 10 PM\" src=\"https://github.com/user-attachments/assets/cbbe5eb9-e43e-41c3-8c81-ba3e6c0cb9cb\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9461",
+      "time": "2024-12-17T08:36:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9461#issuecomment-2547809214",
+      "text": "> Can I do it @Jacobjeevan both the issues single PR.\n\nI am working on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9462",
+      "time": "2024-12-16T15:41:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9462#issuecomment-2545965706",
+      "text": "@rithviknishad  @bodhish @sainak  Please assign it to me. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9462",
+      "time": "2024-12-16T15:40:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9462",
+      "text": "Add padding for clear visibility of text"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9461",
+      "time": "2024-12-16T15:26:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9461#issuecomment-2545928022",
+      "text": "@bodhish @rithviknishad  I would like to take this issue, please assign it to me.\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9461",
+      "time": "2024-12-16T15:26:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9461",
+      "text": "Overlapping in text and icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9460",
+      "time": "2024-12-16T15:07:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9460#issuecomment-2545876350",
+      "text": "@rithviknishad  Please assign it to me. Would like to work on this.\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9440",
+      "time": "2024-12-15T11:42:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9440#issuecomment-2543839937",
+      "text": "@bodhish @rithviknishad Would like to work on this if it gets approved. Please assign it to me after approving."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9440",
+      "time": "2024-12-15T11:41:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9440",
+      "text": "Inconsistency in title during creation of Resouce Request"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#35",
+      "time": "2024-12-13T16:52:37.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/35#issuecomment-2541856061",
+      "text": "@shivankacker  Is it fine or do I need to adjust more? \r\n\r\n<img width=\"545\" alt=\"Screenshot 2024-12-13 at 10 13 22 PM\" src=\"https://github.com/user-attachments/assets/99630c57-0dee-4609-a70e-3ef3271b3dec\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#34",
+      "time": "2024-12-12T06:04:05.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/34#issuecomment-2537892021",
+      "text": "I have checked by setting bottom padding to zero but it remains almost same. Do we required any more chances in it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#34",
+      "time": "2024-12-11T02:37:47.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/34#issuecomment-2533495340",
+      "text": "> [@Tanuj1718](https://github.com/Tanuj1718) Unable to replicate this by setting the resolution to an iPhone SE with the current UI. I don't think targeting a lower resolution than that will make any sense. Can you share a video of the bug? The current screenshot is not clear.\n\nhttps://github.com/user-attachments/assets/ca5bc0d1-ae8f-4d97-afb9-c5b7d13731ce\n\nYou can see when we are clicking on 'products' or 'community' , the github icon is not visible properly. Also the font size is too large (not adjustable) for mobile devices."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#37",
+      "time": "2024-12-10T11:36:02.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/37#issuecomment-2531319724",
+      "text": "@aravindm4 @rithviknishad @bodhish Would like to work on this. Can you please assign it to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#35",
+      "time": "2024-12-09T10:27:09.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/35#issuecomment-2527521015",
+      "text": "@rithviknishad I have changed the files as you instructed. Can you please check it or is anything I'm missing?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9322",
+      "time": "2024-12-09T03:53:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9322",
+      "text": "fix: update Care's DPG URL",
+      "turnaround_time": 212643
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9322",
+      "time": "2024-12-08T14:32:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9322#issuecomment-2526080837",
+      "text": "> It's still there...\r\n> \r\n> Easiest way to revert changes to the original file is to just run the following and committing the changes\r\n> \r\n> ```shell\r\n> wget https://raw.githubusercontent.com/ohcnetwork/care_fe/refs/heads/develop/package-lock.json\r\n> ```\r\n\r\nThank you for the help and sorry for the inconvenience. I have run the above command as you instructed. Since 'wget' is not installed on my MacOS so I have run the below command: \r\n` curl -O https://raw.githubusercontent.com/ohcnetwork/care_fe/refs/heads/develop/package-lock.json `\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9322",
+      "time": "2024-12-08T12:01:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9322#issuecomment-2525682755",
+      "text": "> <img alt=\"image\" width=\"1556\" src=\"https://private-user-images.githubusercontent.com/25143503/393592905-2195f35a-a7a6-4f17-ac01-3b6b6dd73dfb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM2NTk0NDksIm5iZiI6MTczMzY1OTE0OSwicGF0aCI6Ii8yNTE0MzUwMy8zOTM1OTI5MDUtMjE5NWYzNWEtYTdhNi00ZjE3LWFjMDEtM2I2YjZkZDczZGZiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA4VDExNTkwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExNWRkZDY2NjZlZDUwODRjY2JhNDBlNzc3NzFhM2U5Y2EzMWRjMTRiMzA0ZjNjYTZmYjM0NDJkNTllMGQ1ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P2FVuxI-6etp6rO465f3bJoQgOlwlSy6HcglKprgVFA\">\r\n\r\nSorry for this @rithviknishad . I thought there will be no effect of indentation here. Now improved it."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9322",
+      "time": "2024-12-08T10:54:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9322#issuecomment-2525588531",
+      "text": "> Do a self review\r\n\r\nI have completed the self-review of the changes and made sure everything is in order (code style, functionality, version, etc.). Please let me know if you need anything else, or if I should proceed with any further adjustments."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9322",
+      "time": "2024-12-08T06:57:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9322#issuecomment-2525453773",
+      "text": "> discard unrelated changes\r\n\r\nDone. Can you please take a look?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/landing#35",
+      "time": "2024-12-07T07:30:34.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/35",
+      "text": "enhance: Update font size and height of drop down for mobile view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9322",
+      "time": "2024-12-06T16:49:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9322",
+      "text": "fix: Update the wrong URL with correct one"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9321",
+      "time": "2024-12-06T16:48:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9321#issuecomment-2523718792",
+      "text": "> Thanks for finding that issue out!\n> \n> Here's the URL: https://www.digitalpublicgoods.net/r/care\n\nThank you for the correct URL. Will generate a PR soon."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9321",
+      "time": "2024-12-06T16:23:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9321#issuecomment-2523669726",
+      "text": "@rithviknishad @bodhish  I would like to correct the URL if it gets approved. Please assign it to me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9321",
+      "time": "2024-12-06T16:22:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9321",
+      "text": "bug: Wrong link in the login page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#34",
+      "time": "2024-12-06T16:04:20.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/34#issuecomment-2523585787",
+      "text": "@rithviknishad @shivankacker I would like to improve it if it gets approved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/landing#34",
+      "time": "2024-12-06T16:01:05.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/34",
+      "text": "Enhancement: Large font size in Mobile View"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9061",
+      "time": "2024-12-06T04:56:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9061#issuecomment-2522129049",
+      "text": "@nihal467 @rithviknishad @bodhish Can you please assign this issue to me? We are able to place the cards in 'complete' column but for the 'Destination approved', 'Transportation arranged' and 'Transfer in progress' columns, it is showing anonymous behaviour."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9211",
+      "time": "2024-11-28T05:14:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9211",
+      "text": "fix: updated crowdin.yml file",
+      "turnaround_time": 177987
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9211",
+      "time": "2024-11-26T03:53:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9211#issuecomment-2499599400",
+      "text": "@sainak Can you please check this PR? I have updated crowdin.yml file as instructed in issue #9018 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9211",
+      "time": "2024-11-26T03:48:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9211",
+      "text": "fix: updated crowdin.yml file"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9183",
+      "time": "2024-11-26T02:47:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9183#issuecomment-2499536895",
+      "text": "@gigincg can you please explain what we are planning to do?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9152",
+      "time": "2024-11-22T02:55:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9152#issuecomment-2492778649",
+      "text": "> @Tanuj1718 #9177 would be reverting this PR due to reason mentioned in [#9143 (comment)](https://github.com/ohcnetwork/care_fe/issues/9143#issuecomment-2491409154)\r\n\r\nNo problem, it's always interesting to know about the new things."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9143",
+      "time": "2024-11-22T02:53:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9143#issuecomment-2492776921",
+      "text": "> As per FHIR Spec, any string can be used as a patient name, some countries allow names with numbers to exist legally, we cannot create this validation. [@rithviknishad](https://github.com/rithviknishad) close this issue and all related issues.\n\nThank you @vigneshhari for the clarification. Got to know a new thing."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9010",
+      "time": "2024-11-20T12:20:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9010#issuecomment-2488441229",
+      "text": "@bodhish @rithviknishad @nihal467 This issue is resolved in the backend and we should close it. Could you please check and confirm or is there any need to keep open this issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9152",
+      "time": "2024-11-20T02:14:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9152",
+      "text": "fix: Resolve creation of patient name despite having numeric values",
+      "turnaround_time": 136313
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9152",
+      "time": "2024-11-19T12:09:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9152#issuecomment-2485541765",
+      "text": "> @Tanuj1718 have we also accounted for characters like underscores, dots and commas ?\r\n\r\nYes we have checked. We only allow characters and spaces in Name."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9152",
+      "time": "2024-11-18T12:22:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9152",
+      "text": "fix: Resolve creation of patient name despite having numeric values"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9143",
+      "time": "2024-11-16T18:42:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9143#issuecomment-2480732102",
+      "text": "> I would like work on this, if that's okay.\n\nSorry @ANIR1604 , but I am working on this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9143",
+      "time": "2024-11-16T18:38:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9143#issuecomment-2480730998",
+      "text": "@nihal467 @rithviknishad I would like to work on this if it get approved. Please assign it to me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9143",
+      "time": "2024-11-16T18:16:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9143",
+      "text": "Patient created despite having numeric values in name"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9140",
+      "time": "2024-11-16T17:21:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9140#issuecomment-2480673633",
+      "text": "@rithviknishad Oh sorry! Will keep it in mind from the next time."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9140",
+      "time": "2024-11-16T11:23:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9140#issuecomment-2480528544",
+      "text": "@nihal467 I would like to work on this, if this issue is approved."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9140",
+      "time": "2024-11-16T11:21:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9140",
+      "text": "Sign up page for authenticate a new user"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

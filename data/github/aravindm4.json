@@ -1,0 +1,123 @@
+{
+  "last_updated": "2024-12-14T13:24:59.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9420",
+      "time": "2024-12-14T13:24:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9420",
+      "text": "Disable Volunteers’ access to Unlink Assigned Facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9363",
+      "time": "2024-12-11T06:31:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9363#issuecomment-2533750626",
+      "text": "@Jacobjeevan The redesign would simply replace the Form here with the new one. That shouldn't block the current form from working properly. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9363",
+      "time": "2024-12-11T06:13:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9363",
+      "text": "Form data lost on pressing Enter during patient registration"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/landing#37",
+      "time": "2024-12-10T05:37:54.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/37",
+      "text": "Setup a Timeline Page for OHC Website"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/docs#89",
+      "time": "2024-12-06T10:17:09.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/89",
+      "text": "Update index.md",
+      "turnaround_time": 10734
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#89",
+      "time": "2024-12-06T07:18:16.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/89",
+      "text": "Update index.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/docs#85",
+      "time": "2024-12-03T09:59:50.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/85",
+      "text": "Update to internship handbook",
+      "turnaround_time": 78242
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/docs#86",
+      "time": "2024-12-03T09:57:31.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/86",
+      "text": "Update index.md",
+      "turnaround_time": 741
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#86",
+      "time": "2024-12-03T09:45:10.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/86",
+      "text": "Update index.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#85",
+      "time": "2024-12-02T12:15:49.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/85",
+      "text": "Update to internship handbook"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/docs#84",
+      "time": "2024-12-02T11:10:47.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/84",
+      "text": "Add content to the internship handbook",
+      "turnaround_time": 29
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#84",
+      "time": "2024-12-02T11:10:20.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/84",
+      "text": "Add content to the internship handbook"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-11-26T05:41:10.000Z",
+      "title": "ohcnetwork/care#2585",
+      "link": "https://github.com/ohcnetwork/care/pull/2585#pullrequestreview-2460363327",
+      "text": "Creating crud endpoint for user and facility flag"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/leaderboard#533",
+      "time": "2024-10-25T10:32:26.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/533",
+      "text": "Add EOD Report Count to Contributor Profiles on Leaderboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8847",
+      "time": "2024-10-21T11:32:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8847",
+      "text": "Automate Labeling of Issues Based on Comments from Non-Core Members"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/leaderboard#530",
+      "time": "2024-10-21T10:32:11.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/530",
+      "text": "Add Custom Date Range Picker in Contributors Leaderboard Filter"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

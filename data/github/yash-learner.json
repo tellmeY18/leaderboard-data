@@ -1,0 +1,135 @@
+{
+  "last_updated": "2024-12-16T11:41:07.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9456",
+      "time": "2024-12-16T11:41:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9456",
+      "text": "Add the MFA screens in login flow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-12-08T21:26:07.000Z",
+      "title": "ohcnetwork/care_fe#9331",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9331#pullrequestreview-2487284495",
+      "text": "Fix excessive vertical padding in all pages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9260",
+      "time": "2024-11-30T21:32:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9260",
+      "text": "Upgrading Sample Tests & Investigations to Lab Orders"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2615",
+      "time": "2024-11-27T17:32:09.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2615#issuecomment-2504431118",
+      "text": "@JohnLu2004 Sorry for inconvenience \n\nAs we discussed on Slack this route will be going away soon and with no active users using it. I believe it's not worth fixing it, will close the issue. Please pick a new one."
+    },
+    {
+      "type": "issue_closed",
+      "title": "ohcnetwork/care#2615",
+      "time": "2024-11-27T17:32:09.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2615",
+      "text": "icmr_sample route is broken"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2615",
+      "time": "2024-11-27T17:31:39.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2615#issuecomment-2504430198",
+      "text": "@JohnLu2004 Sorry for inconvenience \n\nAs we discussed on Slack this route will be going away soon and with no active users using it. I believe it's not worth fixing it, will close the issue. Please pick a new one."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-11-25T13:52:29.000Z",
+      "title": "ohcnetwork/care_fe#9190",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9190#pullrequestreview-2458500381",
+      "text": "Fix Inifinite Load issue in notes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care#2615",
+      "time": "2024-11-25T12:04:42.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2615",
+      "text": "icmr_sample route is broken"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2614",
+      "time": "2024-11-25T11:29:06.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2614#issuecomment-2497752018",
+      "text": "@camillegonzales Thanks for creating the backend issue.\n\n@shobhit8797 I had started working on MFA and created a [Proposal](https://github.com/ohcnetwork/docs/pull/81) and waiting for review. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/docs#81",
+      "time": "2024-11-19T13:48:54.000Z",
+      "link": "https://github.com/ohcnetwork/docs/pull/81",
+      "text": "Add proposal for MFA"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9089",
+      "time": "2024-11-17T14:33:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9089",
+      "text": "Fix wrong terminology used in place of Log Update",
+      "turnaround_time": 498147
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9089",
+      "time": "2024-11-14T11:18:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9089#issuecomment-2476080347",
+      "text": "> @yash-learner yes let's do that too\r\n\r\n@rithviknishad \r\n\r\nFixed it in https://github.com/ohcnetwork/care_fe/pull/9089/commits/eccc86a375776fb3c7f8745e0c171649113cbe2e"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9089",
+      "time": "2024-11-12T21:19:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9089#issuecomment-2471605958",
+      "text": "> Things to check:\r\n\r\n- [ ] Changes related to events and daily_rounds is left out as events will be deprecated\r\n- [ ] Changing description of notification requires backend change - Need to check whether a backend PR is required as changing the message would be simple but changing constants `PATIENT_CONSULTATION_UPDATE_CREATED` to `PATIENT_LOG_UPDATE_CREATED` requires a migration and also we may revamp this DailyRounds table to something else future based on FHIR."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9089",
+      "time": "2024-11-11T20:11:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9089",
+      "text": "Fix wrong terminology used in place of Log Update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/leaderboard-data#73",
+      "time": "2024-11-09T04:58:23.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/73",
+      "text": "Update yash-learner.md",
+      "turnaround_time": 61273
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#2586",
+      "time": "2024-11-07T13:15:46.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2586",
+      "text": "Fix integrity error while creating a Patient Note "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2495",
+      "time": "2024-11-02T20:17:11.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2495#issuecomment-2453116322",
+      "text": "I would like to give it a try, Can this be assigned to me ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#73",
+      "time": "2024-11-08T11:57:09Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/73",
+      "text": "Update yash-learner.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

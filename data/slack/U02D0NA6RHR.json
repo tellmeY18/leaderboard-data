@@ -1,0 +1,3237 @@
+{
+    "2024-10-17 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1729139648.678769",
+            "client_msg_id": "7b39cfd5-3eda-46c9-ab30-bb278bb702f8",
+            "text": "<!subteam^S07S5U6PR37> Please use this channel to share your daily updates by end of everyday. Sharing your daily update is mandatory and should follow the format below:\n\nSample Format\n\n*16 October 2024*\nDone\n\u2022 List of works done \nNext\n\u2022 Next sets of tasks\nIf no work was done on a particular day, kindly share a \u201cnull report\u201d indicating that no tasks were completed.\n\nLet\u2019s keep the momentum going! :muscle:",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "TiHWc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S07S5U6PR37"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Please use this channel to share your daily updates by end of everyday. Sharing your daily update is mandatory and should follow the format below:\n\nSample Format\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "16 October 2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "List of works done "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Next sets of tasks"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nIf no work was done on a particular day, kindly share a \u201cnull report\u201d indicating that no tasks were completed.\n\nLet\u2019s keep the momentum going! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "muscle",
+                                    "unicode": "1f4aa"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U07RV1ENQCC",
+                        "U07RSEANQE7",
+                        "U07SLPVJ43A"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "subtype": "channel_unarchive",
+            "user": "U02D0NA6RHR",
+            "text": "unarchived the channel",
+            "type": "message",
+            "ts": "1729139362.685599"
+        },
+        {
+            "subtype": "channel_join",
+            "user": "U02D0NA6RHR",
+            "text": "<@U02D0NA6RHR> has joined the channel",
+            "type": "message",
+            "ts": "1729139362.635539"
+        }
+    ],
+    "2024-11-13 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1731475765.735589",
+            "client_msg_id": "93b40ca9-af85-40e5-a9e3-07ab182a71ec",
+            "text": "November 11\n\u2022 Onboarding call with Vivek and Anagha along with Vinu.\n\u2022 Fixed Notion access for Anagha and Vivek and shared link to tasks with each of them. \n\u2022 Call with Nihal to understand PR Testing process and CARE\n\u2022 Call with Bodhi, Gigin and Nihal to work on updating the CARE course modules. \n\u2022 Reviewed a social media post shared by Nihal for sharing over LinkedIn\nNovember 12\nSlow day, was down\n\u2022 Reviewed 2nd social media post content shared by Nihal \n\u2022 Checked exiting CARE course modules\nNext\n\u2022 Start working on CARE course modules\n\u2022 Update Internship tracker and share week 4 feedback with interns ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fVG17",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 11\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Onboarding call with Vivek and Anagha along with Vinu."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed Notion access for Anagha and Vivek and shared link to tasks with each of them. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Nihal to understand PR Testing process and CARE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Bodhi, Gigin and Nihal to work on updating the CARE course modules. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed a social media post shared by Nihal for sharing over LinkedIn"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNovember 12\nSlow day, was down\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed 2nd social media post content shared by Nihal "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked exiting CARE course modules"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Start working on CARE course modules"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update Internship tracker and share week 4 feedback with interns "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-15 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1731679673.400969",
+            "client_msg_id": "24a4f7a1-e4d1-484a-a7ce-153b92b6c7f4",
+            "text": "15 Nov\n\u2022 Shared weekly report and feedback with interns \n\u2022 Reported issues with leaderboard with Rithvik and asked members from core team to assign story points to issues wherever not assigned. \n\u2022 Call with Ritvik to discuss about leaderboard and few cleanups. \n\u2022 Reviewed couple of social media posts shared by Nihal and made minor changes/suggestions. \n\u2022 Call with Rohith regarding his activity. \n\u2022 Checked suggestions from Suma on GDC website content and synced with Vinu on GDC website revamp.\nNext\n\u2022  Continue work on CARE course\n\u2022 Setup Monthly review for interns \n\u2022 Work with Vinu to update GDC website content ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "sguez",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Shared weekly report and feedback with interns "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reported issues with leaderboard with Rithvik and asked members from core team to assign story points to issues wherever not assigned. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Ritvik to discuss about leaderboard and few cleanups. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed couple of social media posts shared by Nihal and made minor changes/suggestions. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Rohith regarding his activity. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked suggestions from Suma on GDC website content and synced with Vinu on GDC website revamp."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Continue work on CARE course"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup Monthly review for interns "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Vinu to update GDC website content "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1731637245.761849",
+            "client_msg_id": "157a881f-9fea-4217-950c-674001b488ff",
+            "text": "13 Nov\n\u2022 Responded to couple of support email queries received over Pupilfirst inbox. \n\u2022 Started working on the revised structure for CARE course (referring to CARE, CARE manual and existing course)\n\u2022 Consolidated Week 4 feedback for interns \n\u2022 Reviewed social media post shared by Nihal and suggested changes. \n\u2022 Brainstormed with Nihal on new ideas for Social Media Management. \n14 Nov - Was on leave\n\nNext\n\u2022 Continue work on CARE course \n\u2022 Share Week 4 feedback with interns and plan for monthly review. \n\u2022 Update GDC website with new content ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "h8gee",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Responded to couple of support email queries received over Pupilfirst inbox. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on the revised structure for CARE course (referring to CARE, CARE manual and existing course)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Consolidated Week 4 feedback for interns "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed social media post shared by Nihal and suggested changes. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brainstormed with Nihal on new ideas for Social Media Management. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n14 Nov - Was on leave\n\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE course "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Share Week 4 feedback with interns and plan for monthly review. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update GDC website with new content "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1",
+                        "UV5PPBE2D"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1731993064.380419",
+            "client_msg_id": "b88a1d14-587e-499f-b5b5-a6c9a7ae69ac",
+            "text": "18 Nov\n\u2022 Joined for OHC engg review call \n\u2022 Synced with Vinu on updating the GDC website and suggested a change in the structure. \n\u2022 Synced with Anagha on designing a simple creative for social media post.\n\u2022 Completed first draft content plan for CARE course.\n\u2022 Reviewed social media post shared by Nihal and updated about section in LinkedIn\nNext\n\u2022 Monthly review for interns (Plan with team members and schedule)\n\u2022 Finalise CARE course structure with Bodhi and start working on the content.\n\u2022 Review pending social media posts \n\u2022 Work with Bodhi to delete g suits accounts of PF team members  ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Gwif2",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18 Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Joined for OHC engg review call "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Vinu on updating the GDC website and suggested a change in the structure. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Anagha on designing a simple creative for social media post."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed first draft content plan for CARE course."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed social media post shared by Nihal and updated about section in LinkedIn"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Monthly review for interns (Plan with team members and schedule)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise CARE course structure with Bodhi and start working on the content."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review pending social media posts "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Bodhi to delete g suits accounts of PF team members  "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-20 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732078595.654719",
+            "client_msg_id": "5077d4a6-74b5-4a36-b196-e15183f63de2",
+            "text": "19 November\n\u2022 Finalised the CARE course structure with Bodhi.\n\u2022  Started working on the course content.\n\u2022 Reviewed 2 social media post contents shared by Nihal.\n\u2022 Brief chat with Rithvik and Nihal on interns monthly review. \nNext\n\u2022 Work with Bodhi to delete g suits accounts of PF team members \n\u2022 Continue working on CARE course \n\u2022 Start interns monthly review ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2PKyj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalised the CARE course structure with Bodhi."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Started working on the course content."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed 2 social media post contents shared by Nihal."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brief chat with Rithvik and Nihal on interns monthly review. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Bodhi to delete g suits accounts of PF team members "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue working on CARE course "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Start interns monthly review "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732164342.450269",
+            "client_msg_id": "9e748041-8fa8-4b90-bcf4-1d57aed3a601",
+            "text": "20 November\n\u2022 Updated intern's performance tracker an updated merged PRs and Story points acquired so far for conducting monthly review.\n\u2022 Synced with Rithvik to clarify some doubts related to filtering issues using Github. \n\u2022  Monthly review with interns (Completed 4, remaining scheduled for 21st and 22nd)\n\u2022 DPG monthly review call \n\u2022 Synced with Nihal on the creative for tech tips \n\u2022 Brief chat with Anagha on the creative template for tech tips\nNext\n\u2022 Review social media post \n\u2022 Continue work on CARE course \n\u2022 Interns monthly review. ",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732164342.450269",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1732200413.420579",
+            "reply_users": [
+                "UC99MFPU1",
+                "UV5PPBE2D"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+R+xh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20 November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated intern's performance tracker an updated merged PRs and Story points acquired so far for conducting monthly review."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Rithvik to clarify some doubts related to filtering issues using Github. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Monthly review with interns (Completed 4, remaining scheduled for 21st and 22nd)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG monthly review call "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Nihal on the creative for tech tips "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brief chat with Anagha on the creative template for tech tips"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review social media post "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE course "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Interns monthly review. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732268824.031349",
+            "client_msg_id": "42527568-f8d2-4b2e-8253-c176fcce0448",
+            "text": "21 November\n\u2022 Updated EOD tracker for Core team members and shared reminders with those who missed. \n\u2022 Reviewed social media post content shared by Nihal \n\u2022 Off boarding process for relived employees from PF.\n\u2022 Faced issues with updating CARE course and pinged Bodhi for support. \n\u2022 Monthly review with interns \nNext\n\u2022 Plan for hiring of new interns \n\u2022 Complete interns monthly review. \n\u2022 Fix issue with CARE course and continue working.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KnxmP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21 November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated EOD tracker for Core team members and shared reminders with those who missed. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed social media post content shared by Nihal "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Off boarding process for relived employees from PF."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Faced issues with updating CARE course and pinged Bodhi for support. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Monthly review with interns "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Plan for hiring of new interns "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete interns monthly review. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix issue with CARE course and continue working."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-25 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732508192.464659",
+            "client_msg_id": "15148119-4a29-4e50-9657-c21f230dca91",
+            "text": "22 November\n\u2022 Monthly review with Arunava \n\u2022 Synced with Bodhi and Gigin on new internship and hiring. \n\u2022 Created a JD for product intern. \n\u2022 Shared a job posting over LinkedIn for Junior Full Stack Developer. \n\u2022 Synced with Yaswanth to fix and issue with CARE course.\n\u2022 Reviewed couple of social media posts \n\u2022 Call with a vendor for qr ptinter and scanner related query\n\u2022 Chat with Thinker hub team on intern hiring \nNext\n\u2022 Complete the application process shared by Thinker hub for intern hiring \n\u2022 Update task for product intern and share with institutes. \n\u2022 Resume work on CARE course. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QGWw8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Monthly review with Arunava "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Bodhi and Gigin on new internship and hiring. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a JD for product intern. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Shared a job posting over LinkedIn for Junior Full Stack Developer. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Yaswanth to fix and issue with CARE course."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed couple of social media posts "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with a vendor for qr ptinter and scanner related query"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Chat with Thinker hub team on intern hiring "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete the application process shared by Thinker hub for intern hiring "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update task for product intern and share with institutes. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resume work on CARE course. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732589243.839989",
+            "client_msg_id": "5d0df17f-d0ae-4319-9fc1-8c05e338ba07",
+            "text": "25 Nov\n\u2022 Explored LinkedIn job posting to see the profiles of candidates applied and also checked options to export  \n\u2022 Synced with Bodhi on the product intern hiring task, updated and shared the same with Gigin and Bodhi.\n\u2022 Joined for OHC weekly engg review.  \n\u2022 Call with Suma on updates and some random conversations \n\u2022 Reviewed social media post shared by Nihal\n\u2022 Monthly review call with Anvesh.\n\u2022 Checked intern tracker and pinged few inters who are still inactive.\nNext\n\u2022 Trip to Calicut for Palliative care meeting.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nK0Ii",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored LinkedIn job posting to see the profiles of candidates applied and also checked options to export  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Bodhi on the product intern hiring task, updated and shared the same with Gigin and Bodhi."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Joined for OHC weekly engg review.  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Suma on updates and some random conversations "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed social media post shared by Nihal"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Monthly review call with Anvesh."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked intern tracker and pinged few inters who are still inactive"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Trip to Calicut for Palliative care meeting."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732689242.611259",
+            "client_msg_id": "c8550815-d545-4b67-8484-630487c9f7d6",
+            "text": "November 26\n\u2022 Travel for the meeting\n\u2022 Support Bodhi for Care Demo at Kozhikode Corporation along with Gigin and Vignesh.\n\u2022 Reviewed Social media post and had a discussion with <@U022THM4U2U> on the same. \nNext\n\u2022 Finalise and share product intern JD with colleges. \n\u2022 Resume working on CARE course (pending for a week)\n\u2022 Review QA and Devops intern profile. \n\u2022 Respond to applicants who applied for Junior engineer role over LinkedIn. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "62Grk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 26\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Travel for the meeting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Support Bodhi for Care Demo at Kozhikode Corporation along with Gigin and Vignesh."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed Social media post and had a discussion with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U022THM4U2U"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on the same. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise and share product intern JD with colleges. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resume working on CARE course (pending for a week)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review QA and Devops intern profile. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Respond to applicants who applied for Junior engineer role over LinkedIn. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "fire",
+                    "users": [
+                        "UC8TSEGCQ"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-28 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732772332.431419",
+            "client_msg_id": "bc37dfdb-b379-4cdd-a371-4f1341af5898",
+            "text": "November 27\n\u2022 Synced with Gigin on the task for product documentation intern and finalised the same. \n\u2022 Call with placement cell cordinator of St theresas college, Kochi and explained about the internship requirement and shared the same with her. \n\u2022 Followed up with Thinkerhub team on the developer internship hiring .\n\u2022 Followed up with a vendor for purchasing barcode reader and printer. \n\u2022 DPG weekly review call. \n\u2022 Synced with Bodhi and Gigin on hiring efforts.\n\u2022 Responded to all applicants who applied for developer profile over LinkedIn. \n\u2022 Synced with Nihal on the social media plan. \nNext\n\u2022 Resume work on CARE course \n\u2022 Reach out to MuLearn team for intern hiring.\n\u2022 Order barcode reader and scanner\n\u2022 Reach out to a vendor for printing CARE logos. Also check with Vinu on the design.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "PepQv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 27\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Gigin on the task for product documentation intern and finalised the same. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with placement cell cordinator of St theresas college, Kochi and explained about the internship requirement and shared the same with her. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followed up with Thinkerhub team on the developer internship hiring ."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followed up with a vendor for purchasing barcode reader and printer. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG weekly review call. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Bodhi and Gigin on hiring efforts."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Responded to all applicants who applied for developer profile over LinkedIn. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Nihal on the social media plan. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resume work on CARE course "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reach out to MuLearn team for intern hiring."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Order barcode reader and scanner"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reach out to a vendor for printing CARE logos. Also check with Vinu on the design."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1",
+                        "U0576PEACG0"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-30 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1732944382.740419",
+            "client_msg_id": "27c3341d-ffd1-4307-842d-b4403ec570fc",
+            "text": "28 November\nSlow day.\n\u2022 Reviewed social media post content shared by Nihal.\n\u2022 Explored office options in Cochin with Bodhi, Gigin and Rajesh\n29 Nov\nWas on leave.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pxHY3",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 November\nSlow day.\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed social media post content shared by Nihal."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored office options in Cochin with Bodhi, Gigin and Rajesh"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n29 Nov\nWas on leave."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-03 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733199909.254409",
+            "client_msg_id": "2e7b0f7f-8f09-4dc3-9c9c-33400ac23f97",
+            "text": "02 December\n\u2022 Started working from our new office. First half was mainly settling down. \n\u2022 Weekly engg review call\n\u2022 Consolidated the monthly story points acquired by interns for Nov stipend payment. \n\u2022 Discussion with Bodhi and Gigin on revising the variable stipend structure and updated the same. \n\u2022 Follow up with vendors for purchasing barcode scanner and reader. \n\u2022 Call with Mehbin from MuLearn team on GDC and intern hiring. \nNext\n\u2022 Finalise and process interns stipend for November \n\u2022 Check application received for product documentation intern \n\u2022 Share intern JD and process with MuLearn team\n\u2022 Resume work on CARE course (paused for long)",
+            "team": "TC99SV7B6",
+            "thread_ts": "1733199909.254409",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1733201948.436929",
+            "reply_users": [
+                "U0836A4CUJC",
+                "U02D0NA6RHR"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "nca5+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "02 December\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working from our new office. First half was mainly settling down. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly engg review call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Consolidated the monthly story points acquired by interns for Nov stipend payment. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Bodhi and Gigin on revising the variable stipend structure and updated the same. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up with vendors for purchasing barcode scanner and reader. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Mehbin from MuLearn team on GDC and intern hiring. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise and process interns stipend for November "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Check application received for product documentation intern "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Share intern JD and process with MuLearn team"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resume work on CARE course (paused for long)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-04 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733290860.497519",
+            "edited": {
+                "user": "U02D0NA6RHR",
+                "ts": "1733291060.000000"
+            },
+            "client_msg_id": "10f4ecd7-a771-40a7-aaa0-1e1e347a8ea7",
+            "text": "December 03\n\u2022 Calls and chats with Mithra from Mulearn team on intern hire and clarified their doubts\n\u2022 Conversations with couple of interns on their perfomance and other matters. \n\u2022 Brief call with Rajesh on payment to vendor for barcode printer and scanner \n\u2022 Updated interns on November stipend payment and issued warnings to couple of interns. \n\u2022 Resumed work on CARE course and updated L1\n\u2022 Started working on the CARE history/timelines and also followed up with Aparna on the same.\n\u2022 Chat with Mehbin from Mulearn on intern hiring and shared JD and details. \n\u2022 Responded to couple of applicants for intern position. \n\u2022 Joined for Weekly review call\n\u2022 Multiple discussions with Bodhi and Gigin \nNext\n\u2022 Continue work on CARE course \n\u2022 Talk to applicants who applied for internship \n\u2022 Continue work on CARE timeline.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+IB/u",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 03\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Calls and chats with Mithra from Mulearn team on intern hire and clarified their doubts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Conversations with couple of interns on their perfomance and other matters. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brief call with Rajesh on payment to vendor for barcode printer and scanner "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated interns on November stipend payment and issued warnings to couple of interns. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resumed work on CARE course and updated L1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on the CARE history/timelines and also followed up with Aparna on the same."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Chat with Mehbin from Mulearn on intern hiring and shared JD and details. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Responded to couple of applicants for intern position. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Joined for Weekly review call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Multiple discussions with Bodhi and Gigin "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE course "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Talk to applicants who applied for internship "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE timeline."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-05 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733376571.983689",
+            "client_msg_id": "8faae704-034b-4569-a726-d92929a4ba74",
+            "text": "*December 04* \n\u2022 Brief chat witH Satya to help Dr Athul update his salary account with UWBe\n\u2022 Call with Sanjay and Krisha on the letter from NHM to UWBe/ACT \n\u2022 Spent time along with Bodhi and Gigin to setup the new barcode scanner and printer.\n\u2022 DPG weekly review call\n\u2022 Call with Aditya Jindal who expressed interest in joining us as an intern.\n\u2022 Multiple chat threads with interns \n\u2022 Call with Nihal to setup new GMeet link for daily calls and weekly calls\n\u2022 Drafted letter to be shared with NHM as per request from Krisha\n\u2022 Call with Bodhi to review the letter, made changes and shared the same with Suma for review.\n*Next* \n_Will be offscreen from 1-4_  \n\u2022 Finalise the letter fro NHM and share with Sanjay \n\u2022 Coordinate with Rajesh to arrange setup of barcode printer as couldn't fix it. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/rbRt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 04 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brief chat witH Satya to help Dr Athul update his salary account with UWBe"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Sanjay and Krisha on the letter from NHM to UWBe/ACT "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Spent time along with Bodhi and Gigin to setup the new barcode scanner and printer."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "DPG weekly review call"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Aditya Jindal who expressed interest in joining us as an intern."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Multiple chat threads with interns "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Nihal to setup new GMeet link for daily calls and weekly calls"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted letter to be shared with NHM as per request from Krisha"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Bodhi to review the letter, made changes and shared the same with Suma for review."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Will be offscreen from 1-4  ",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise the letter fro NHM and share with Sanjay "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Coordinate with Rajesh to arrange setup of barcode printer as couldn't fix it. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-06 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733462442.179339",
+            "client_msg_id": "d1639f28-63fb-44a2-b079-89da065066a4",
+            "text": "Dec 05\n_Slow day. Was off most part of the day_\n\u2022 Finalised the letter to NHM and shared the same with Sanjay. Also created sheet with list of Orders/MoUs related to Palliative Care and shared it with Sanjay \n\u2022 Coordinated with vendor to arrange setup of barcode printer. \n\u2022 Call with Mohammed Aman, a contributor who expressed interest in joining us as intern. \n\u2022 Reviewed social media post shared by Nihal \nNext\n\u2022 Talk to other candidates who expressed interest in internship. \n\u2022 Continue work on CARE modules \n\u2022 Finalise CARE timeline doc.\n\u2022 Update Devops and Testing intern JDs and share with Thinkerhub and MuLearn Team",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1BXFD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 05\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Slow day. Was off most part of the day",
+                                    "style": {
+                                        "italic": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalised the letter to NHM and shared the same with Sanjay. Also created sheet with list of Orders/MoUs related to Palliative Care and shared it with Sanjay "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Coordinated with vendor to arrange setup of barcode printer. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Mohammed Aman, a contributor who expressed interest in joining us as intern. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed social media post shared by Nihal "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Talk to other candidates who expressed interest in internship. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE modules "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalise CARE timeline doc."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update Devops and Testing intern JDs and share with Thinkerhub and MuLearn Team"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-09 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733722700.359459",
+            "client_msg_id": "bd3f6324-5650-4712-854e-3a5684263c2c",
+            "text": "Dec 06 and over the weekend\n\u2022 Call with Aman (a candidate for developer role) and updated Bodhi and Gigin on the same \n\u2022 Discussion with Dr Athul on webpage for palliative care and broadly discussed on the structure. \n\u2022 Synced with Shyam along with Gigin to work on a task for DevOps intern \n\u2022 Prepared offer letter for Aditya and shared with Suma for signing.\n\u2022  Shared offer letter with Aditya and had a short chat on the same \n\u2022 Call with Dr Athul, Mathews along with Balaji on the website content for palliative care grid.\n\u2022 Brief chat with MuLearn and Thinkerhub team on hiring. Bit slow over there\nNext\n\u2022 Check product documentation intern application \n\u2022 Call with intern/full stack developer applicants.\n\u2022 Continue work on CARE timeline and share with Bodhi/Gigin \n\u2022 Continue work on CARE modules.  ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "jFFk7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 06 and over the weekend\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Aman (a candidate for developer role) and updated Bodhi and Gigin on the same "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Dr Athul on webpage for palliative care and broadly discussed on the structure. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Shyam along with Gigin to work on a task for DevOps intern "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Prepared offer letter for Aditya and shared with Suma for signing."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": " Shared offer letter with Aditya and had a short chat on the same "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Dr Athul, Mathews along with Balaji on the website content for palliative care grid."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brief chat with MuLearn and Thinkerhub team on hiring. Bit slow over there"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Check product documentation intern application "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with intern/full stack developer applicants."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE timeline and share with Bodhi/Gigin "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE modules.  "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-10 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733806282.975619",
+            "client_msg_id": "c633e836-9a6b-47df-8777-3af337c7c250",
+            "text": "09 Dec \n\u2022 Started looking at the submissions/application received for product documentation intern.\n\u2022 Call with Don Xavier, a candidate who applied for intern position, checked with Rithvik on the quality of his PR and suggested him to work on 1 more issue as the one he worked was too small to evaluate his skills. \n\u2022 Weekly engineering review call. \n\u2022 Palliative care related call with NHM and DUK. \n\u2022 Followed up with printer vendor for demo. Printer is working now, will start exploring. \n\u2022 Discussion with Bodhi and Gigin on CARE Manual.\nNext\n\u2022 Review product documentation intern application. \n\u2022 Complete onboarding process for Aditya.  \n\u2022 Follow up with Syam for task for DevOps intern and push out the JD.\n\u2022 Continue work on CARE Manual. \n\u2022 Followup with Dr Athul for website content for Palliative Care Grid. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e5elv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "09 Dec ",
+                                    "style": {
+                                        "unlink": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started looking at the submissions/application received for product documentation intern."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Don Xavier, a candidate who applied for intern position, checked with Rithvik on the quality of his PR and suggested him to work on 1 more issue as the one he worked was too small to evaluate his skills. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Weekly engineering review call. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Palliative care related call with NHM and DUK. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followed up with printer vendor for demo. Printer is working now, will start exploring. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Discussion with Bodhi and Gigin on CARE Manual."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Review product documentation intern application. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete onboarding process for Aditya.  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Follow up with Syam for task for DevOps intern and push out the JD."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE Manual. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followup with Dr Athul for website content for Palliative Care Grid. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-11 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1733898453.600949",
+            "client_msg_id": "774f60a7-77fe-4214-99c0-3948c633657e",
+            "text": "Dec 10\n\u2022 Completed onboarding process for Aditya Jindal and gave access to all calls and training modules. \n\u2022 Completed User management module of CARE module.\n\u2022 Brief chat with Dr Athul on Palliative care website \n\u2022 Call with Nihal regarding couple of matters \n\u2022 Synced with Javid to share some feedbacks \n\u2022 Processed payment for printer demo and synced updated Rajesh on the refund.  \n\u2022 Started working on the offer letter and onboarding  for Don.\n\u2022 Joined for weekly OHC review call \nNext\n\u2022 Progress and complete patient module of CARE\n\u2022 Execute offer letter and initiate onboarding of Don ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mlB6L",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 10\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed onboarding process for Aditya Jindal and gave access to all calls and training modules. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed User management module of CARE module."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Brief chat with Dr Athul on Palliative care website "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Nihal regarding couple of matters "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Javid to share some feedbacks "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Processed payment for printer demo and synced updated Rajesh on the refund.  "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on the offer letter and onboarding  for Don."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Joined for weekly OHC review call "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Progress and complete patient module of CARE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Execute offer letter and initiate onboarding of Don "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-13 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1734087801.808739",
+            "edited": {
+                "user": "U02D0NA6RHR",
+                "ts": "1734088615.000000"
+            },
+            "client_msg_id": "441daad6-fd65-43e4-b1b9-55c34e9b93eb",
+            "text": "Dec 11\n\u2022 Synced with Gigin on CARE manual and approach on the same.\n\u2022 Filed an <https://github.com/ohcnetwork/care_fe/issues/9363|issue> with patient page on CARE. \n\u2022 Explored patient management module on care and updated the module. \n\u2022 Joined for the DPG weekly review call. \n\u2022 Shared offer letter with Don.\n\u2022 Checked interns activity and pinged few inactive interns.\n\u2022 Call with DHSL team and updated details for listing CARE within the directory. \nDec 12\n\u2022 Travelled to TVM for meeting with CM's office and also had another meeting with Santhosh Babu. \n\u2022 Synced with Dr Athul and Bodhi on the website and Tuesday demo. \nNext\n\u2022 Work with Dr Athul on the website content and Tuesday Demo's \n\u2022 Continue work on CARE manual. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GhsUv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 11\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Gigin on CARE manual and approach on the same."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Filed an "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/9363",
+                                            "text": "issue"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with patient page on CARE. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Explored patient management module on care and updated the module. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Joined for the DPG weekly review call. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Shared offer letter with Don."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked interns activity and pinged few inactive interns."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with DHSL team and updated details for listing CARE within the directory. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nDec 12\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Travelled to TVM for meeting with CM's office and also had another meeting with Santhosh Babu. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Dr Athul and Bodhi on the website and Tuesday demo. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Work with Dr Athul on the website content and Tuesday Demo's "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continue work on CARE manual. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-17 00:00:00": [
+        {
+            "user": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1734415232.672689",
+            "client_msg_id": "dcbc7f0a-6142-40c5-93b2-4d03df03b97c",
+            "text": "*Dec 16* \n\u2022 Multiple discussions with Gigin, Bodhi and Dr Athul on the Demo.\n\u2022 Worked on Demo videos for flows in Palliative care flow. \n\u2022 Synced with Bodhi on the videos and recorded all videos with voice over \n\u2022 Couple of calls with Rithvik and Jeevan to clarify doubts. \n\u2022 Call with Rajesh to arrange travel for the Demo at TVM\nNext\n\u2022 Check edits suggested by Dr Athul on the videos and re-record\n\u2022 Initiate onboarding for Aman as intern.\n\u2022 Clarity few doubts related to a flow in palliative care with Bodhi/Dr Athul ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "63cNd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 16 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Multiple discussions with Gigin, Bodhi and Dr Athul on the Demo."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on Demo videos for flows in Palliative care flow. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Synced with Bodhi on the videos and recorded all videos with voice over "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Couple of calls with Rithvik and Jeevan to clarify doubts. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Call with Rajesh to arrange travel for the Demo at TVM"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Check edits suggested by Dr Athul on the videos and re-record"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Initiate onboarding for Aman as intern."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clarity few doubts related to a flow in palliative care with Bodhi/Dr Athul "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0836A4CUJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

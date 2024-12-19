@@ -34,7 +34,7 @@
         {
             "client_msg_id": "e3b14cba-a58c-42b4-acbd-31626b8eabce",
             "type": "message",
-            "text": "created <https://github.com/coronasafe/care/pull/777|#777> to handle an integrity error",
+            "text": "created <https://github.com/ohcnetwork/care/pull/777|#777> to handle an integrity error",
             "user": "U02TB8XHZD1",
             "ts": "1653166337.003429",
             "team": "TC99SV7B6",
@@ -45,13 +45,13 @@
                     "ts": 1653165118,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/777",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/777",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care/pull/777|#777 fix issues when qr_code_id is blank string and message for unique integrity error>",
-                    "text": "fixes <https://github.com/coronasafe/care_fe/issues/2422|coronasafe/care_fe#2422>",
-                    "title": "<https://github.com/coronasafe/care/pull/777|#777 fix issues when qr_code_id is blank string and message for unique integrity error>",
-                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "fallback": "<https://github.com/ohcnetwork/care/pull/777|#777 fix issues when qr_code_id is blank string and message for unique integrity error>",
+                    "text": "fixes <https://github.com/ohcnetwork/care_fe/issues/2422|ohcnetwork/care_fe#2422>",
+                    "title": "<https://github.com/ohcnetwork/care/pull/777|#777 fix issues when qr_code_id is blank string and message for unique integrity error>",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -71,7 +71,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/777",
+                                    "url": "https://github.com/ohcnetwork/care/pull/777",
                                     "text": "#777",
                                     "unsafe": true
                                 },
@@ -100,7 +100,7 @@
         {
             "client_msg_id": "6623ca73-a2f6-4b03-9712-962a44b61f3a",
             "type": "message",
-            "text": "Created a PR <https://github.com/coronasafe/care/pull/772>\nTracked the error in <https://github.com/coronasafe/care_fe/issues/2452>\nTried to reproduce <https://github.com/coronasafe/care_fe/issues/2422>",
+            "text": "Created a PR <https://github.com/ohcnetwork/care/pull/772>\nTracked the error in <https://github.com/ohcnetwork/care_fe/issues/2452>\nTried to reproduce <https://github.com/ohcnetwork/care_fe/issues/2422>",
             "user": "U02TB8XHZD1",
             "ts": "1653077313.143179",
             "team": "TC99SV7B6",
@@ -118,7 +118,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/772"
+                                    "url": "https://github.com/ohcnetwork/care/pull/772"
                                 },
                                 {
                                     "type": "text",
@@ -126,7 +126,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2452"
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2452"
                                 },
                                 {
                                     "type": "text",
@@ -134,7 +134,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/issues/2422"
+                                    "url": "https://github.com/ohcnetwork/care_fe/issues/2422"
                                 }
                             ]
                         }
@@ -158,7 +158,7 @@
         {
             "client_msg_id": "506ec5df-191d-4fb3-bdc5-06dcd56aad8d",
             "type": "message",
-            "text": "Created a PR on care_fe and picked up an issue on the backend\n<https://github.com/coronasafe/care_fe/pull/2391>",
+            "text": "Created a PR on care_fe and picked up an issue on the backend\n<https://github.com/ohcnetwork/care_fe/pull/2391>",
             "user": "U02TB8XHZD1",
             "ts": "1652794500.244409",
             "team": "TC99SV7B6",
@@ -173,13 +173,13 @@
                     "ts": 1652789690,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/2391",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/2391",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "1075x560px image",
-                    "text": "fixes <https://github.com/coronasafe/care_fe/issues/2373|#2373>  \n<https://user-images.githubusercontent.com/46787056/168808355-c29affba-a5a5-41f5-9509-0b64db8ace1c.png|image>",
-                    "title": "<https://github.com/coronasafe/care_fe/pull/2391|#2391 fix: sidebar on devices with small height>",
-                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "text": "fixes <https://github.com/ohcnetwork/care_fe/issues/2373|#2373>  \n<https://user-images.githubusercontent.com/46787056/168808355-c29affba-a5a5-41f5-9509-0b64db8ace1c.png|image>",
+                    "title": "<https://github.com/ohcnetwork/care_fe/pull/2391|#2391 fix: sidebar on devices with small height>",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
                     "fields": [
                         {
                             "value": "tested",
@@ -211,7 +211,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2391"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2391"
                                 }
                             ]
                         }
@@ -272,7 +272,7 @@
         },
         {
             "type": "message",
-            "text": "usage: `./contrib.py sainak 05-15`\n\nresult:\n```Contributions by sainak between 2022-05-09..2022-05-15:\n\nIssues:\nShow the names of the creator in user api <https://github.com/coronasafe/care/issues/744>\n\nPulls:\nadded a new created_by field in user model <https://github.com/coronasafe/care/pull/746>\nfix: Use latest node LTS everywhere <https://github.com/coronasafe/care_fe/pull/2358>\nfeat: added devcontainer config for vscode <https://github.com/coronasafe/care_fe/pull/2311>\nfeat: use rescript compiler instead of bsb <https://github.com/coronasafe/care_fe/pull/2306>```",
+            "text": "usage: `./contrib.py sainak 05-15`\n\nresult:\n```Contributions by sainak between 2022-05-09..2022-05-15:\n\nIssues:\nShow the names of the creator in user api <https://github.com/ohcnetwork/care/issues/744>\n\nPulls:\nadded a new created_by field in user model <https://github.com/ohcnetwork/care/pull/746>\nfix: Use latest node LTS everywhere <https://github.com/ohcnetwork/care_fe/pull/2358>\nfeat: added devcontainer config for vscode <https://github.com/ohcnetwork/care_fe/pull/2311>\nfeat: use rescript compiler instead of bsb <https://github.com/ohcnetwork/care_fe/pull/2306>```",
             "files": [
                 {
                     "id": "F03GFF4BQ8G",
@@ -346,7 +346,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/issues/744"
+                                    "url": "https://github.com/ohcnetwork/care/issues/744"
                                 },
                                 {
                                     "type": "text",
@@ -354,7 +354,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/746"
+                                    "url": "https://github.com/ohcnetwork/care/pull/746"
                                 },
                                 {
                                     "type": "text",
@@ -362,7 +362,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2358"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2358"
                                 },
                                 {
                                     "type": "text",
@@ -370,7 +370,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2311"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2311"
                                 },
                                 {
                                     "type": "text",
@@ -378,7 +378,7 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care_fe/pull/2306"
+                                    "url": "https://github.com/ohcnetwork/care_fe/pull/2306"
                                 }
                             ],
                             "border": 0
@@ -618,7 +618,7 @@
         {
             "client_msg_id": "aca49fb9-edd9-4578-9f24-1595f44fdd6b",
             "type": "message",
-            "text": "Worked on <https://github.com/coronasafe/care/pull/811|https://github.com/coronasafe/care/pull/811>\nCleared few issues from sentry\nReviewed some PRs",
+            "text": "Worked on <https://github.com/ohcnetwork/care/pull/811|https://github.com/ohcnetwork/care/pull/811>\nCleared few issues from sentry\nReviewed some PRs",
             "user": "U02TB8XHZD1",
             "ts": "1654360163.583159",
             "team": "TC99SV7B6",
@@ -629,13 +629,13 @@
                     "ts": 1654107369,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/811",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/811",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care/pull/811|#811 Finalize MiddlewareAuthentication for required endpoints>",
-                    "text": "closes <https://github.com/coronasafe/care/issues/671|#671>",
-                    "title": "<https://github.com/coronasafe/care/pull/811|#811 Finalize MiddlewareAuthentication for required endpoints>",
-                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "fallback": "<https://github.com/ohcnetwork/care/pull/811|#811 Finalize MiddlewareAuthentication for required endpoints>",
+                    "text": "closes <https://github.com/ohcnetwork/care/issues/671|#671>",
+                    "title": "<https://github.com/ohcnetwork/care/pull/811|#811 Finalize MiddlewareAuthentication for required endpoints>",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
                     "mrkdwn_in": [
                         "text"
                     ]
@@ -655,8 +655,8 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/811",
-                                    "text": "https://github.com/coronasafe/care/pull/811"
+                                    "url": "https://github.com/ohcnetwork/care/pull/811",
+                                    "text": "https://github.com/ohcnetwork/care/pull/811"
                                 },
                                 {
                                     "type": "text",
@@ -768,7 +768,7 @@
         {
             "client_msg_id": "49da8873-06d0-4185-93c9-ccfc09a2e5a6",
             "type": "message",
-            "text": "Created an epic to track dependency updates in care\nAnd made a pr <https://github.com/coronasafe/care/pull/836|https://github.com/coronasafe/care/pull/836>",
+            "text": "Created an epic to track dependency updates in care\nAnd made a pr <https://github.com/ohcnetwork/care/pull/836|https://github.com/ohcnetwork/care/pull/836>",
             "user": "U02TB8XHZD1",
             "ts": "1654625088.783859",
             "team": "TC99SV7B6",
@@ -779,13 +779,13 @@
                     "ts": 1654609395,
                     "color": "36a64f",
                     "bot_id": "B01V56NBBNC",
-                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/836",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/836",
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
-                    "fallback": "<https://github.com/coronasafe/care/pull/836|#836 update pre-commit hooks and dependencies>",
-                    "text": "use common code style everywhere\n\nremoved\n\n\u2022 pycodestyle\n\u2022 pylint\n\ncloses <https://github.com/coronasafe/care/issues/417|#417>",
-                    "title": "<https://github.com/coronasafe/care/pull/836|#836 update pre-commit hooks and dependencies>",
-                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "fallback": "<https://github.com/ohcnetwork/care/pull/836|#836 update pre-commit hooks and dependencies>",
+                    "text": "use common code style everywhere\n\nremoved\n\n\u2022 pycodestyle\n\u2022 pylint\n\ncloses <https://github.com/ohcnetwork/care/issues/417|#417>",
+                    "title": "<https://github.com/ohcnetwork/care/pull/836|#836 update pre-commit hooks and dependencies>",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
                     "fields": [
                         {
                             "value": "1",
@@ -812,8 +812,8 @@
                                 },
                                 {
                                     "type": "link",
-                                    "url": "https://github.com/coronasafe/care/pull/836",
-                                    "text": "https://github.com/coronasafe/care/pull/836"
+                                    "url": "https://github.com/ohcnetwork/care/pull/836",
+                                    "text": "https://github.com/ohcnetwork/care/pull/836"
                                 }
                             ]
                         }
@@ -1151,7 +1151,7 @@
         {
             "client_msg_id": "97bfd4d0-4424-4d56-a148-ac5b48f1f76a",
             "type": "message",
-            "text": "EOD 01/07/2023 <!subteam^S035L5S02RF|@care_engineering>\nHow did the day go?\n\u2022 Fixed a dependency issue with fihr.resources <https://github.com/coronasafe/care/pull/1418|#1418>\n\u2022 Removed unexpected text from discharge summary <https://github.com/coronasafe/care/pull/1420|#1420>\n\u2022 Traced recent 502 errors on login endpoint <https://github.com/coronasafe/care/issues/1421|#1421>\n\u2022 reviewed some backend PRs\n*What's next?*\n\u2022 Get my internet fixed",
+            "text": "EOD 01/07/2023 <!subteam^S035L5S02RF|@care_engineering>\nHow did the day go?\n\u2022 Fixed a dependency issue with fihr.resources <https://github.com/ohcnetwork/care/pull/1418|#1418>\n\u2022 Removed unexpected text from discharge summary <https://github.com/ohcnetwork/care/pull/1420|#1420>\n\u2022 Traced recent 502 errors on login endpoint <https://github.com/ohcnetwork/care/issues/1421|#1421>\n\u2022 reviewed some backend PRs\n*What's next?*\n\u2022 Get my internet fixed",
             "user": "U02TB8XHZD1",
             "ts": "1688223420.961399",
             "blocks": [
@@ -1188,7 +1188,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care/pull/1418",
+                                            "url": "https://github.com/ohcnetwork/care/pull/1418",
                                             "text": "#1418",
                                             "unsafe": true
                                         }
@@ -1203,7 +1203,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care/pull/1420",
+                                            "url": "https://github.com/ohcnetwork/care/pull/1420",
                                             "text": "#1420",
                                             "unsafe": true
                                         }
@@ -1218,7 +1218,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care/issues/1421",
+                                            "url": "https://github.com/ohcnetwork/care/issues/1421",
                                             "text": "#1421",
                                             "unsafe": true
                                         }
@@ -1281,7 +1281,7 @@
         {
             "client_msg_id": "655a7d47-eb45-4327-b446-d013becd9945",
             "type": "message",
-            "text": "EOD 03/07/2023 <!subteam^S035L5S02RF|@care_engineering>\nHow did the day go?\n\u2022 Fixed an issue where the exports were malfunctioning and returning incomplete data  <https://github.com/coronasafe/care_fe/issues/5823|#5823>\n\u2022 After confirming with Mathew that the hba1c field inside consultation is not being used anywhere, updated my pull request to remove the field completely<https://github.com/coronasafe/care/pull/1309| #1309>\n\u2022 was having issues with my internet so I got a fiber connection today, things should be better now\n\u2022 looked for issues to work on\nWhats next?\n\u2022 start working on bed types v2\n",
+            "text": "EOD 03/07/2023 <!subteam^S035L5S02RF|@care_engineering>\nHow did the day go?\n\u2022 Fixed an issue where the exports were malfunctioning and returning incomplete data  <https://github.com/ohcnetwork/care_fe/issues/5823|#5823>\n\u2022 After confirming with Mathew that the hba1c field inside consultation is not being used anywhere, updated my pull request to remove the field completely<https://github.com/ohcnetwork/care/pull/1309| #1309>\n\u2022 was having issues with my internet so I got a fiber connection today, things should be better now\n\u2022 looked for issues to work on\nWhats next?\n\u2022 start working on bed types v2\n",
             "user": "U02TB8XHZD1",
             "ts": "1688403899.384479",
             "blocks": [
@@ -1318,7 +1318,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care_fe/issues/5823",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/5823",
                                             "text": "#5823",
                                             "unsafe": true
                                         }
@@ -1333,7 +1333,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://github.com/coronasafe/care/pull/1309",
+                                            "url": "https://github.com/ohcnetwork/care/pull/1309",
                                             "text": " #1309",
                                             "unsafe": true
                                         }
@@ -2303,6 +2303,549 @@
                 }
             ],
             "team": "TC99SV7B6"
+        }
+    ],
+    "2024-11-14 00:00:00": [
+        {
+            "user": "U02TB8XHZD1",
+            "type": "message",
+            "ts": "1731597956.911079",
+            "client_msg_id": "7a26438f-9127-49ad-9f2e-f27b2543c804",
+            "text": "13th November\n\u2022 Refactored the nursing care enhancements pr <https://github.com/ohcnetwork/care_fe/pull/9079|#9079>\n\u2022 Updated be dependencies for security fixes <https://github.com/ohcnetwork/care/pull/2596|#2596>\n14th November\n\u2022 Made security enhancements to the backend Dockerfile and cleanups to the start scripts <https://github.com/ohcnetwork/care/pull/2596|#2596>\nCurrently working on\n\u2022 Making the integrations like sentry and plausible optional during build time so they are not bundled in environments where they are not needed, this would potentially reduce 1.2 mb of JS",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1731317961,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9079",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9079 Enhancements to the nursing care procedures and routines tables",
+                    "title": "#9079 Enhancements to the nursing care procedures and routines tables",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9079",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1731504477,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/2596",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#2596 Update dependencies with security fixes",
+                    "title": "#2596 Update dependencies with security fixes",
+                    "title_link": "https://github.com/ohcnetwork/care/pull/2596",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "oLwJW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored the nursing care enhancements pr "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9079",
+                                            "text": "#9079",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated be dependencies for security fixes "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/2596",
+                                            "text": "#2596",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n14th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made security enhancements to the backend Dockerfile and cleanups to the start scripts "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/2596",
+                                            "text": "#2596",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nCurrently working on\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Making the integrations like sentry and plausible optional during build time so they are not bundled in environments where they are not needed, this would potentially reduce 1.2 mb of JS"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U02TB8XHZD1",
+            "type": "message",
+            "ts": "1732206352.103609",
+            "client_msg_id": "fec20cb8-731b-4c3b-b357-0de758583205",
+            "text": "18th November\n\u2022 Refactored the CSV export logic and converted it to a mixin class\n\u2022 Investigate the issue with slow api response in DigitalOcean deployment because of argon password hasher\n19th November\n\u2022 Made flow diagrams and added more pages for store and Inventory management\n\u2022 Made sentry and plausible integrations on the frontend optional, so they are not bundled during build if not enabled\n\u2022 Searched for other places to make optimizations on the frontend\n20th November\n\u2022 Worked on flow diagram for medicine dispensing in pharmacy and added details on partial dispensing\n21st November\n\u2022 Created a new production branch on scribe backend and cleaned up the dangling branches and pr pr on care_scribe\n\u2022 Fixed a bug that broke asset actions which prevented video streams from loading\n\u2022 Started working on billing pages in pharmacy\n",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732206352.103609",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1732283749.140969",
+            "reply_users": [
+                "UC99MFPU1",
+                "U02TB8XHZD1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EwHIH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Refactored the CSV export logic and converted it to a mixin class"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Investigate the issue with slow api response in DigitalOcean deployment because of argon password hasher"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made flow diagrams and added more pages for store and Inventory management"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made sentry and plausible integrations on the frontend optional, so they are not bundled during build if not enabled"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Searched for other places to make optimizations on the frontend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on flow diagram for medicine dispensing in pharmacy and added details on partial dispensing"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21st November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a new production branch on scribe backend and cleaned up the dangling branches and pr pr on care_scribe"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed a bug that broke asset actions which prevented video streams from loading"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on billing pages in pharmacy"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "U02TB8XHZD1",
+            "type": "message",
+            "ts": "1732291686.513749",
+            "client_msg_id": "82130a1c-0a70-4635-b78c-84e40fb09c51",
+            "text": "22nd November\n\u2022 worked on getting cypress-parallel to run on github actions\n\u2022 added mochawesome reporter for cypress runs\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vRe6n",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22nd November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked on getting cypress-parallel to run on github actions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "added mochawesome reporter for cypress runs"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-25 00:00:00": [
+        {
+            "user": "U02TB8XHZD1",
+            "type": "message",
+            "ts": "1732553319.674289",
+            "client_msg_id": "78f9f26b-b0b1-4c6e-8248-ed39f1493d75",
+            "text": "25th Nov\n\u2022 made workflow changes for loading the database from db dump for cypress tests",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7JTJe",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25th Nov\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made workflow changes for loading the database from db dump for cypress tests"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-02 00:00:00": [
+        {
+            "user": "U02TB8XHZD1",
+            "type": "message",
+            "ts": "1733158299.413549",
+            "client_msg_id": "7557608d-9010-4843-bb07-3dbd66a6cb34",
+            "text": "No updates for 26-29th November as I was on leave\n2nd December\n\u2022 Reviewed pending PRs\n\u2022 Checked for re-rendering issues on FE\n\u2022 Debugged the cache issue on the build workflows\n\u2022 Updated the test workflow to only upload db dump from develop branch in the backend\n",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Dcnx8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "No updates for 26-29th November as I was on leave\n2nd December\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Reviewed pending PRs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Checked for re-rendering issues on FE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged the cache issue on the build workflows"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated the test workflow to only upload db dump from develop branch in the backend"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
         }
     ]
 }

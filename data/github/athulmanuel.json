@@ -1,53 +1,137 @@
 {
-  "last_updated": "2024-04-06T10:48:34+00:00",
+  "last_updated": "2024-12-15T08:24:07.000Z",
   "activity": [
     {
       "type": "comment_created",
-      "title": "coronasafe/care_fe#7544",
+      "title": "ohcnetwork/care_fe#8301",
+      "time": "2024-12-15T08:24:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8301#issuecomment-2543554555",
+      "text": "assets needs to be linked with the patient. if the patient moves to another facility, after approval, the asset should be able to be moved with the patient. a track of such movement of assets needs to be made in the parent facility. and the borrowed facility also should have the track of assets which are from another facility. a group is working on refining the list  into categories. can start with the above list. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9421",
+      "time": "2024-12-14T13:39:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9421",
+      "text": "Serious Health-related Suffering (SHS) -  Patient tag"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9419",
+      "time": "2024-12-14T12:37:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9419",
+      "text": "Resource Request"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9414",
+      "time": "2024-12-14T06:24:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9414",
+      "text": "Ration Card system"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9408",
+      "time": "2024-12-14T03:59:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9408#issuecomment-2542766761",
+      "text": "One more category to add\n\nType of facility:\n\n1. Government (Govt.)\n2. Non Governmental Organisation/ Community based Organisation (NGO/CBO)\n3. Private entities (Pvt.)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9408",
+      "time": "2024-12-14T03:59:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9408#issuecomment-2542765597",
+      "text": "Yes @bodhish @gigincg can confirm \n\n\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9408",
+      "time": "2024-12-13T12:55:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9408",
+      "text": "Facility Features for Palliative Care"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8607",
+      "time": "2024-09-24T11:59:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8607#issuecomment-2371061262",
+      "text": "I think the time display and sorting feature according to the list will be good enough to start off with \r\n\r\nIe: \r\n- A time display in patient card stating the time left for review or time over after missing a review.\r\n\r\n- being able to sort the list according to the review. so that the line list would be showing the missed review first and then the review pending according to the time to next review.\r\n\r\nHope this is clear. later we could do a scoping of how it has to come out with the events module and specific reviews according to task and login types "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-09-24T04:15:41.000Z",
+      "title": "ohcnetwork/docs#56",
+      "link": "https://github.com/ohcnetwork/docs/pull/56#pullrequestreview-2323988343",
+      "text": "Add support for Pharmacy"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8425",
+      "time": "2024-09-19T09:24:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8425#issuecomment-2360476009",
+      "text": "Ok. Is there an option to leave space for header "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8425",
+      "time": "2024-09-06T18:25:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8425#issuecomment-2334600918",
+      "text": "We also have an option to leave a space for a header according the the size of the paper. \nEg - prescriptions will be small A5\nDischarge will be A4. \nBill will be small a5 or even smaller \nLab might be different size and so on \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8425",
+      "time": "2024-09-06T18:04:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8425#issuecomment-2334571287",
+      "text": "Palliative care will definitely need for IAPC instance. \n@bodhish @aparnacoronasafe  - might need It in govt setting as well as some of the hospitals have their own logo and in some, they will have. LSG logo inaddition. - Logos can be the same as the profile picture of the facility so that they enter the logo of the facility if any at all "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#7544",
       "time": "2024-04-06T10:48:34+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7544#issuecomment-2041046371",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7544#issuecomment-2041046371",
       "text": "Also I was thinking , we might need a stop date as well. So that we can ensure the symptoms are resolved. Not urgent, but on a the long run, it will give proper data and surety that the symptom is controlled. "
     },
     {
       "type": "comment_created",
-      "title": "coronasafe/care_fe#7544",
+      "title": "ohcnetwork/care_fe#7544",
       "time": "2024-04-06T10:47:35+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7544#issuecomment-2041046169",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7544#issuecomment-2041046169",
       "text": "Yes. I exactly. "
     },
     {
       "type": "issue_opened",
-      "title": "coronasafe/care_fe#7544",
+      "title": "ohcnetwork/care_fe#7544",
       "time": "2024-04-05T02:16:13+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7544",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7544",
       "text": "adding date of onset selection for each symptom - not urgent"
     },
     {
       "type": "issue_opened",
-      "title": "coronasafe/care_fe#7543",
+      "title": "ohcnetwork/care_fe#7543",
       "time": "2024-04-05T02:10:02+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7543",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7543",
       "text": "search by typing in symptoms list"
     },
     {
       "type": "issue_opened",
-      "title": "coronasafe/care_fe#7377",
+      "title": "ohcnetwork/care_fe#7377",
       "time": "2024-03-11T08:55:12+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7377",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7377",
       "text": "Dosage mandatory for combination medications."
     },
     {
       "type": "comment_created",
-      "title": "coronasafe/care_fe#7375",
+      "title": "ohcnetwork/care_fe#7375",
       "time": "2024-03-11T08:47:12+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7375#issuecomment-1987892635",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7375#issuecomment-1987892635",
       "text": "This also comes as part of schedule H drugs. Psychiatric medications and all. We can't have it as dash board because we need to know which all patients are on that medication. Flagging is good in bringing focus on the patient on such medications but that alone might not address the need. Same thing happens with patients on immunosuppressants. "
     },
     {
       "type": "comment_created",
-      "title": "coronasafe/care_fe#2230",
+      "title": "ohcnetwork/care_fe#2230",
       "time": "2022-06-18T13:57:19.000Z",
-      "link": "https://github.com/coronasafe/care_fe/pull/2230#issuecomment-1159469742",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/2230#issuecomment-1159469742",
       "text": "Hi guys. Didn't get the gist of the query. Is it regarding the dilution rate? \n\nRegarding giving a medicine diluted in a solvent. Usual injection medicines comes as vial (small glass bottle) or ampule ( small glass pellet). It will be of higher concentrations. At time we give it direct and others instances as diluted. \nThe calculation is \nIn a vial or a ampule contains __ ml of X Medicne which has the strength of __ mg \nEg: 1 ampule of Morphine has 1 ml which has a strength of 10 mg \n\nThis __ ml of X Medicne is diluted in __ ml of solvent ( NS/ RL/ Sterile water/ etc.). This will be give as __ ml bolus(single dose) or as infusion @__ ml/hr "
     }
   ],

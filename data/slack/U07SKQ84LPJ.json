@@ -1,0 +1,498 @@
+{
+    "2024-10-18 00:00:00": [
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1729273962.103669",
+            "client_msg_id": "ec071b96-6996-483d-a8cb-f4c4a9d3c9e8",
+            "text": "18th October \n\nDone:\nCare-fe setup done and progressing with course Care 101\n\nNext: \nLooking for an issue to get started",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Zrtjp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th October \n\nDone:\nCare-fe setup done and progressing with course Care 101\n\nNext: \nLooking for an issue to get started"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1729228096.837889",
+            "client_msg_id": "46008add-8d0b-4d73-a23e-4188a3503f6d",
+            "text": "17 October 2024\n\nDone:\n Completed some lessons in the \"DjangoforAll\" course.\n\nNext:\n Will check out unassigned issues.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7ue5g",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 October 2024\n\nDone:\n Completed some lessons in the \"DjangoforAll\" course.\n\nNext:\n Will check out unassigned issues."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-17 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "U07SKQ84LPJ",
+            "text": "<@U07SKQ84LPJ> has joined the channel",
+            "inviter": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1729140249.584439"
+        }
+    ],
+    "2024-11-08 00:00:00": [
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1731078077.674269",
+            "client_msg_id": "4ee0e122-8bb4-473d-b039-fc23e7d15050",
+            "text": "*08 Nov 2024*\n  No major updates for today.\n*Next*\n  Looking for New Issue.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e4zsx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "08 Nov 2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n  No major updates for today.\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Next",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n  Looking for New Issue."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-14 00:00:00": [
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1731614088.453369",
+            "client_msg_id": "52bfa491-7fa0-4bb6-90c0-92ff0772c826",
+            "text": "14th November \n  Worked on issue #9109",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731614088.453369",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1731639512.048209",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XPApt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14th November \n  Worked on issue #9109"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1731580093.267769",
+            "client_msg_id": "f9d5ea34-5d77-4fa4-ae7d-b1a33f2edc1a",
+            "text": "13 Nov 2024\nNo updates",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "W2g+Z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Nov 2024\nNo updates"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-16 00:00:00": [
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1731786279.379619",
+            "edited": {
+                "user": "U07SKQ84LPJ",
+                "ts": "1731786297.000000"
+            },
+            "client_msg_id": "61d35b52-6743-4b70-9f11-a5c1f95baeba",
+            "text": "16 Nov 2024\nDone\n\u2022 Raised an issue #9144 checking form components of log-lab-results page for possible cause\nNext\n\u2022 Will work start work on issue #9144 once i confirm its expected behaviour\n\u2022 Looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XQmEs",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "16 Nov 2024\nDone\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised an issue #9144 checking form components of log-lab-results page for possible cause"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Will work start work on issue #9144 once i confirm its expected behaviour"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1731737717.728899",
+            "client_msg_id": "7f99a773-fdac-4608-879a-f72dbb530047",
+            "text": "15 Nov 2024\nDone \n\u2022 Worked on issue #9109 cypress tests\n\u2022 Raised a draft PR #9134\nNext \n\u2022 Looking for new issues ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Mpd1z",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "15 Nov 2024\nDone \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue #9109 cypress tests"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised a draft PR #9134"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U07SKQ84LPJ",
+            "type": "message",
+            "ts": "1732008634.037539",
+            "edited": {
+                "user": "U07SKQ84LPJ",
+                "ts": "1732008718.000000"
+            },
+            "client_msg_id": "1c6f0de9-6e9d-41de-8768-3f1ce1ef93c0",
+            "text": "17 Nov 2024\n\u2022 No updates\n18 Nov 2024\nDone \n\u2022 Working on failed tests in PR#9134 \n\u2022 Working on issue #9144 multi selection of investigation in log-lab-results page.\nNext \n\u2022 Will try to fix tests in PR by EOD\n\u2022 Look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Cvh1r",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No updates"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18 Nov 2024\nDone \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on failed tests in PR#9134 "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issue #9144 multi selection of investigation in log-lab-results page."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Will try to fix tests in PR by EOD"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Look for new issues"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}

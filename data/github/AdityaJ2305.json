@@ -1,0 +1,1573 @@
+{
+  "last_updated": "2024-12-18T08:45:33.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#555",
+      "time": "2024-12-18T08:45:33.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/555#issuecomment-2550707943",
+      "text": "> > Looking at this: https://flatgithub.com/ohcnetwork/leaderboard-data?filename=data%2Fgithub%2Fdependabot%5Bbot%5D.json&sha=98a8603b63dd721a726a2e52c14014067c7e1f0e&tab=activity\r\n> > Looks like only PR Merged events are there. And I had merged dependabot's PRs that day. So even though I was the one who merged it, the author of the PR is still dependabot. So likely some incorrect logic there maybe?\r\n> > The Author of the PR should get the event and not the one who merged it.\r\n> > https://github.com/ohcnetwork/leaderboard/blob/be46e0b5dd8d35493f4ea59f752ea2240a03ddcb/scraper/src/github-scraper/parseEvents.ts#L204-L211\r\n> \r\n> Let me check\r\n> \r\n> @rithviknishad, Am I understanding it wrong? It is okay na if the author is dependabot for its PRs. The error is why it is not getting ignore due to this line 👇\r\n> \r\n> https://github.com/ohcnetwork/leaderboard/blob/be46e0b5dd8d35493f4ea59f752ea2240a03ddcb/scraper/src/github-scraper/parseEvents.ts#L150\r\n\r\n@rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9471",
+      "time": "2024-12-17T17:07:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9471#issuecomment-2549060156",
+      "text": "Hey @nihal467, I’d like to pick up some issues from here. I’ve successfully branched out this branch locally."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9415",
+      "time": "2024-12-17T11:58:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9415#issuecomment-2548265626",
+      "text": "> LGTM, minor thing, but can we switch to using size small, so that it matches with IP/OP encounter chip.\r\n\r\nYeah\r\nDone "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9475",
+      "time": "2024-12-17T11:00:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9475#issuecomment-2548150450",
+      "text": "Hey @Jeffrin2005, it’s not fetching beyond the default limit on scroll anymore, which it was doing previously.\r\ncc: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9422",
+      "time": "2024-12-17T08:01:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9422#issuecomment-2547738234",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/396324612-286c13e1-f7ba-4d6f-94e2-189d71ca6d25.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ0MjI1MzEsIm5iZiI6MTczNDQyMjIzMSwicGF0aCI6Ii81NzA1NTk5OC8zOTYzMjQ2MTItMjg2YzEzZTEtZjdiYS00ZDZmLTk0ZTItMTg5ZDcxY2E2ZDI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE3VDA3NTcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhNTBlYzVkMDBiMmNmYWYwMDhiNGQyODE3N2QwN2E4MDk2OWVjMmM1ZWM2ZGU4ZGU5OWNkYmUyMTg2ZmIxNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aTx0bX8U2FoEgKt7SIELcr55ZxP45Fx9TSNjp6812KA)\r\n> \r\n> * An admin is currently unable to unlink a facility for a volunteer user. The expected behavior is that an admin should have the ability to both link and unlink facilities for volunteer users. However, volunteer users should be restricted from unlinking their assigned facilities themselves.\r\n\r\n@nihal467, Fixed it, but restricted volunteer users from unlinking for all user types. Let me know if any changes are needed."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9466",
+      "time": "2024-12-16T18:06:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9466#issuecomment-2546305819",
+      "text": "I don’t think the Cypress tests failed due to the changes in this PR. Could someone confirm?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9349",
+      "time": "2024-12-16T18:05:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9349#issuecomment-2546303635",
+      "text": "Hey @Jacobjeevan , I’ve created a pull request for it. Could you assign it to me and review it?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9466",
+      "time": "2024-12-16T17:17:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9466",
+      "text": "Fix: Layout update of Asset Page "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/leaderboard#564",
+      "time": "2024-12-16T04:39:46.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/564",
+      "text": "Fix: clipping out contributor card",
+      "turnaround_time": 44732
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard#564",
+      "time": "2024-12-15T16:14:16.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/564",
+      "text": "Fix: clipping out contributor card"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/leaderboard#563",
+      "time": "2024-12-15T16:10:15.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/563",
+      "text": "Contributor Card Clipping Issue on Leaderboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-15T07:04:45.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2543508132",
+      "text": "Hey @shivankacker, it’s working fine on deployment now. However, we can adjust the setTimeout duration based on the desired user experience."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-15T06:24:03.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2543469148",
+      "text": "Hey @shivankacker, it’s working fine on deployment now. However, we can adjust the setTimeout duration based on the desired user experience. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9422",
+      "time": "2024-12-14T14:51:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9422#issuecomment-2543140805",
+      "text": "I don’t think the Cypress tests failed due to the changes in this PR. Could someone confirm?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9422",
+      "time": "2024-12-14T14:28:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9422",
+      "text": "Fix: Volunteer access to link facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9421",
+      "time": "2024-12-14T14:00:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9421#issuecomment-2543120586",
+      "text": "@athulmanuel , I would like to work on it. Could you assign it to me ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9420",
+      "time": "2024-12-14T13:26:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9420#issuecomment-2543109347",
+      "text": "Hey @aravindm4, I would like to work on it. Please assign it to me "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9289",
+      "time": "2024-12-14T08:23:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9289#issuecomment-2543000143",
+      "text": "Hey @nihal467 @Jacobjeevan , I’ve created a pull request for it. Could you assign it to me and review it?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9415",
+      "time": "2024-12-14T08:22:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9415",
+      "text": "Fix: Discharge patient showing live"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9397",
+      "time": "2024-12-13T18:52:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9397#issuecomment-2542056247",
+      "text": "Hey @ashwinpraveengo, I have solved it. Should I go ahead and push the PR ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9156",
+      "time": "2024-12-13T18:36:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9156#issuecomment-2542033486",
+      "text": "> now also some are not responsive like this buttons are upand downs <img alt=\"Image\" width=\"720\" src=\"https://private-user-images.githubusercontent.com/167804249/395662696-e536c88c-85b7-490c-b0df-faa845b3026f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxMTUyMzIsIm5iZiI6MTczNDExNDkzMiwicGF0aCI6Ii8xNjc4MDQyNDkvMzk1NjYyNjk2LWU1MzZjODhjLTg1YjctNDkwYy1iMGRmLWZhYTg0NWIzMDI2Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxM1QxODM1MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDVlNjliYmI1ZDYyY2UxN2I2YTJmZTIxOTI3MzQ5MTIwYjA3N2E3MGQwOGM1NTk2ZmE1MDA0MzQxOWE2YjkxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wpGMMJ_-GvmLAyiFREkwmbgN_YkdGfAEOOcpvt65gmI\">\n\nI think It would be fixed in this https://github.com/ohcnetwork/care_fe/issues/7316\ncc: @Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9156",
+      "time": "2024-12-13T18:31:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9156#issuecomment-2542026220",
+      "text": "@gurramkarthiknetha , my bad I am talking about this 👇\n\n<img width=\"662\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/905e85de-6abc-4472-a441-83e94a4523fc\" />\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-13T15:12:44.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2541669911",
+      "text": "Is the Netlify preview deployment getting updated or not? 😅"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-13T15:10:58.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2541666442",
+      "text": "> Please make the requested changes\r\n\r\nIt’s working fine locally 🤔. However, I’ve made changes based on the comment below.\r\n\r\n\r\n\r\n\r\n\r\n> Hey @shivankacker, can we implement scrolling for the home page and direct redirects for the other pages?\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#555",
+      "time": "2024-12-13T12:47:25.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/555#issuecomment-2541392150",
+      "text": " \r\n\r\n> Looking at this: https://flatgithub.com/ohcnetwork/leaderboard-data?filename=data%2Fgithub%2Fdependabot%5Bbot%5D.json&sha=98a8603b63dd721a726a2e52c14014067c7e1f0e&tab=activity\r\n> \r\n> Looks like only PR Merged events are there. And I had merged dependabot's PRs that day. So even though I was the one who merged it, the author of the PR is still dependabot. So likely some incorrect logic there maybe?\r\n> \r\n> The Author of the PR should get the event and not the one who merged it.\r\n> \r\n> https://github.com/ohcnetwork/leaderboard/blob/be46e0b5dd8d35493f4ea59f752ea2240a03ddcb/scraper/src/github-scraper/parseEvents.ts#L204-L211\r\n\r\nLet me check\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9156",
+      "time": "2024-12-13T10:11:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9156#issuecomment-2541081389",
+      "text": "Hey @gurramkarthiknetha , can you share the constraints you're seeing on Chrome for this view?\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#555",
+      "time": "2024-12-13T07:45:20.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/555#issuecomment-2540796927",
+      "text": "Hey @rithviknishad, I don’t think this issue is coming from this piece of [code](https://github.com/ohcnetwork/leaderboard/blob/21a7beb26d93fd71f38d8ed7b78d86e5031d9296/scraper/src/github-scraper/fetchEvents.ts#L30-L32). There seems to be something else causing it."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9156",
+      "time": "2024-12-13T07:33:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9156#issuecomment-2540780249",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan), what’s the status of this issue? I noticed it has 3 closed PRs. Is it still an issue?\n\n@Jacobjeevan "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-13T07:20:03.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2540746285",
+      "text": "Hey @shivankacker , Could you review the changes ? and let me know changes required"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8100",
+      "time": "2024-12-12T17:50:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8100#issuecomment-2539619262",
+      "text": "Hey Team, is this still an issue? If yes, could you assign it to me and provide the final expected behaviour along with the steps to reproduce?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9399",
+      "time": "2024-12-12T17:26:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9399",
+      "text": "Fix: Allergy count to Updated to has allergies text",
+      "turnaround_time": 149
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9399",
+      "time": "2024-12-12T17:24:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9399",
+      "text": "Fix: Allergy count to Updated to has allergies text"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9328",
+      "time": "2024-12-12T16:32:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9328#issuecomment-2539442813",
+      "text": "Got it, can we move ahead with some regex ? for `space` `,` `and`"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9383",
+      "time": "2024-12-12T16:20:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9383",
+      "text": "Fix: Added location for linked facility",
+      "turnaround_time": 94023
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9328",
+      "time": "2024-12-12T15:58:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9328#issuecomment-2539362100",
+      "text": "@rithviknishad , I think we can close this issue as per Bodhish's [comment ](https://github.com/ohcnetwork/care_fe/pull/9329#issuecomment-2528116101)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9383",
+      "time": "2024-12-12T14:49:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9383#issuecomment-2539166253",
+      "text": "@rithviknishad \r\n\r\n<img width=\"307\" alt=\"Screenshot 2024-12-12 at 8 14 22 PM\" src=\"https://github.com/user-attachments/assets/2e339080-ef16-4ada-b8b2-968ddcd3b2e8\" />\r\n<img width=\"459\" alt=\"Screenshot 2024-12-12 at 8 13 51 PM\" src=\"https://github.com/user-attachments/assets/520045e0-e0b0-4feb-b548-6f8be0ba569a\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#555",
+      "time": "2024-12-12T13:30:32.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/555#issuecomment-2538930938",
+      "text": "> If this change prevented the issue, the previous change also prevented the issue... Are you sure this is right?\r\n> \r\n> <img alt=\"image\" width=\"525\" src=\"https://private-user-images.githubusercontent.com/25143503/395159884-7edd3e6f-0a1e-42b0-acfd-4b36b2c73e08.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQwMTA0NzYsIm5iZiI6MTczNDAxMDE3NiwicGF0aCI6Ii8yNTE0MzUwMy8zOTUxNTk4ODQtN2VkZDNlNmYtMGExZS00MmIwLWFjZmQtNGIzNmIyYzczZTA4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEyVDEzMjkzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwZDZmZjAwOGM2OTBlYjdjYTBiZjAyNjhjYjA0MDc5YTYxZTFhMzVmOGRjYzc1YTFlMzUxYTkwNGQ0ODk4MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KXdz4-_Lu9H_PKMIzH6qyb8CCaEoqaNzU389zKhiiCE\">\r\n\r\nLet me check 😅"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9383",
+      "time": "2024-12-12T10:43:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9383#issuecomment-2538521887",
+      "text": "@Jacobjeevan, Done \r\n<img width=\"791\" alt=\"Screenshot 2024-12-12 at 4 13 03 PM\" src=\"https://github.com/user-attachments/assets/3a26d26a-4345-4dfb-a16b-474dddaca2be\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9383",
+      "time": "2024-12-12T09:27:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9383#issuecomment-2538345370",
+      "text": "> @AdityaJ2305 Try this:\r\n> \r\n> ![image](https://private-user-images.githubusercontent.com/40040905/395088745-6366b073-4267-4003-aa3b-f0c8efc1cbb3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5OTU5MjcsIm5iZiI6MTczMzk5NTYyNywicGF0aCI6Ii80MDA0MDkwNS8zOTUwODg3NDUtNjM2NmIwNzMtNDI2Ny00MDAzLWFhM2ItZjBjOGVmYzFjYmIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEyVDA5MjcwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNWIxOTJhZjcwMGVmNzZmMjU0OWI5ZTRkNWRmNzdhYWZjNmNjYWNjMmM0MWE4NmIyOTdiYzRiOGYxNDJkNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bEU0xsiC9TLksA8NW3kZj85j1QXm81KFHuDUdf427g8)\r\n\r\n👍"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-12T08:07:27.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2538083111",
+      "text": "Hey @shivankacker, can we implement scrolling for the home page and direct redirects for the other pages?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-12T08:01:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2538070146",
+      "text": "> Reassigning to [@AdityaJ2305](https://github.com/AdityaJ2305) since a PR is open.\n> \n> Please refrain from opening PRs for issues that are assigned to someone else 👍\n\nHey @Jacobjeevan, any updates on this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8898",
+      "time": "2024-12-12T07:37:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8898#issuecomment-2538028307",
+      "text": "Hey @bodhish, could you assign me this issue? Also, what’s the final expected behaviour decided for it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-12T07:18:02.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2537998179",
+      "text": "> @AdityaJ2305 the links stay the same. It will take you to the contact section of the home page. It is fine if it does not scroll for the time being\r\n\r\n@shivankacker, done with the changes. "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-11T20:54:05.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2537142733",
+      "text": "> @AdityaJ2305 the links stay the same. It will take you to the contact section of the home page. It is fine if it does not scroll for the time being\r\n\r\nok, then it is working same this way on local not on main website 🤔"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8587",
+      "time": "2024-12-11T17:00:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8587#issuecomment-2536559425",
+      "text": "Hey @rithviknishad , Is it still an issue ? If yes, Could you tell the reproducing steps for this ?\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9383",
+      "time": "2024-12-11T14:13:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9383",
+      "text": "Fix: Added location for linked facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T13:11:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535952916",
+      "text": "> Hey [@Jacobjeevan](https://github.com/Jacobjeevan) , we are not getting `address` for already linked facilities of the user\n> \n> ```\n> userListFacility: {\n>     path: \"/api/v1/users/{username}/get_facilities/\",\n>     method: \"GET\",\n>     TRes: Type<PaginatedResponse<FacilityModel>>(),\n>   },\n> ```\n\nHey @Jacobjeevan, Can you confirm this one "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9375",
+      "time": "2024-12-11T11:20:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9375",
+      "text": "Upgrade cypress version",
+      "turnaround_time": 1400
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9375",
+      "time": "2024-12-11T10:57:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9375",
+      "text": "Upgrade cypress version"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9374",
+      "time": "2024-12-11T10:45:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9374#issuecomment-2535497048",
+      "text": "@rithviknishad , Let me take this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T10:27:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535456694",
+      "text": "1. Go to `Users` in sidebar\n2. Clicked on any user \n3. Click on the `Linked Facilities` in tab bar"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T10:19:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535438667",
+      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305) its updated can you see it now?\n\nNope \n![Image](https://github.com/user-attachments/assets/9c69ed43-cdb8-40f9-b1c1-446545c4402e)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T10:15:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535427837",
+      "text": "Hey @Jacobjeevan , we are not getting `address` for already linked facilities of the user\n```\nuserListFacility: {\n    path: \"/api/v1/users/{username}/get_facilities/\",\n    method: \"GET\",\n    TRes: Type<PaginatedResponse<FacilityModel>>(),\n  },\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T10:13:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535415007",
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) Can you please ellaborate on where can i find the below page that you put up? Because I am not able find the add facility on facilities page.\n> \n> ![](https://private-user-images.githubusercontent.com/14979190/394618396-144561d0-2213-4c23-ac1d-981294b76211.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5MTEzODEsIm5iZiI6MTczMzkxMTA4MSwicGF0aCI6Ii8xNDk3OTE5MC8zOTQ2MTgzOTYtMTQ0NTYxZDAtMjIxMy00YzIzLWFjMWQtOTgxMjk0Yjc2MjExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjExVDA5NTgwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjYmNkYzlhMDZkZjUxYmE2OTE2YTY0NWY1MjlkYWJhZmY2NjEwOTUyYTQyMzMzZDQ5NTNlNjZkM2IxMDk5YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3BD5M970_YQT8xtcfDwyltMQR5MgawGshtFhqSnbp1k)\n\nImage is not rendered @sanjayh-2022 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T09:46:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535337027",
+      "text": "Hey @sanjayh-2022, I’ve solved this issue. Would it be okay if I pushed a PR for it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9367",
+      "time": "2024-12-11T09:45:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9367#issuecomment-2535336124",
+      "text": "Hey @sanjayh-2022, I’ve solved this issue. Would it be okay if I pushed a PR for it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9369",
+      "time": "2024-12-11T08:39:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9369#issuecomment-2535095398",
+      "text": "@nihal467 Just a follow up question, do `Home` and `Back` should also be in dropdown just `Nalimela Anvesh` should be visible ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-11T06:45:59.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38#issuecomment-2533769018",
+      "text": "> @AdityaJ2305 this should bring you to the home page, not the footer.\r\n\r\nOk, so we should remove the contact from header when we are already on home page ? I thought on footer we got GitHub yt slack links to get assistance and as per issue mentioned the bug was with scrolling "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard#555",
+      "time": "2024-12-10T19:17:07.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/555",
+      "text": "Fix:  fetch events for bots"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#554",
+      "time": "2024-12-10T18:34:57.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/554#issuecomment-2532581528",
+      "text": "Hey @rithviknishad , I would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/landing#20",
+      "time": "2024-12-10T17:54:18.000Z",
+      "link": "https://github.com/ohcnetwork/landing/issues/20#issuecomment-2532462745",
+      "text": "Hey @shivankacker, Just raised the PR for this issue. Can you review it and tell me if any changes required "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/landing#38",
+      "time": "2024-12-10T17:53:07.000Z",
+      "link": "https://github.com/ohcnetwork/landing/pull/38",
+      "text": "Fix: Contact link does not work properly in the footer"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9156",
+      "time": "2024-12-10T09:23:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9156#issuecomment-2530958870",
+      "text": "Hey @Jacobjeevan, what’s the status of this issue? I noticed it has 3 closed PRs. Is it still an issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8029",
+      "time": "2024-12-09T16:15:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8029#issuecomment-2528537427",
+      "text": "> [@Sulochan-khadka](https://github.com/Sulochan-khadka) unassigning you from the issue due to inactivity, [@AdityaJ2305](https://github.com/AdityaJ2305) are you still interested in working on this issue\n\nYes, but I think @Sulochan-khadka got this already "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8029",
+      "time": "2024-11-29T18:10:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8029#issuecomment-2508227198",
+      "text": "Hey @nihal467, I’d like to work on this issue. Could you please assign it to me and clarify the final expected behaviour?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9249",
+      "time": "2024-11-29T12:18:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9249",
+      "text": "Incorrect Button Label on Patient Info Page for Live Patients"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9244",
+      "time": "2024-11-29T10:33:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9244#issuecomment-2507529525",
+      "text": "Hey @Rishith25 , Have you checked if the `emergency_number`  for volunteer is coming from backend or not ? "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9242",
+      "time": "2024-11-29T06:28:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9242",
+      "text": "Fix: Date of Birth to Year of Birth on Patient Details Page when DOB is Missing",
+      "turnaround_time": 28958
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9242",
+      "time": "2024-11-28T22:26:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9242",
+      "text": "Fix: Date of Birth to Year of Birth on Patient Details Page when DOB is Missing"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9241",
+      "time": "2024-11-28T21:07:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9241#issuecomment-2506757700",
+      "text": "Hey @nihal467 , I would like to work on this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9240",
+      "time": "2024-11-28T21:01:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9240",
+      "text": "Fix: Edit button greyed out"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9239",
+      "time": "2024-11-28T20:36:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9239#issuecomment-2506735222",
+      "text": "Hey @nihal467 , I would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9230",
+      "time": "2024-11-28T12:38:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9230#issuecomment-2506025255",
+      "text": "Hey @nihal467  I am not able to reproduce it on localhost (synced) and on staging url it is showing 0 Facility "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9210",
+      "time": "2024-11-26T04:45:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9210#issuecomment-2499648216",
+      "text": "closed as PR already exists "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9124",
+      "time": "2024-11-26T04:31:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9124#issuecomment-2499634960",
+      "text": "Hey @Jacobjeevan, I noticed there’s already an issue for this: https://github.com/ohcnetwork/care_fe/issues/9067. Should we close this issue? Also, can I close my PR for the same? Just checked that."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9210",
+      "time": "2024-11-25T20:27:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9210",
+      "text": "Feat: UI Enhancement to Log Update Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9182",
+      "time": "2024-11-22T07:37:20.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9182",
+      "text": "Fix: Spo2 twice occuring and wrong thresholds "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9181",
+      "time": "2024-11-22T07:25:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9181",
+      "text": "Duplicate and Incorrect SpO2 Field Behaviour in Log Update Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9118",
+      "time": "2024-11-21T07:08:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9118#issuecomment-2490233148",
+      "text": "Hey @rithviknishad, I noticed the spo2 field component now appears twice, but previously it was just one instance. The other instance seems to have been added by another [PR](https://github.com/ohcnetwork/care_fe/pull/8907#issuecomment-2482840851) Should I raise a new PR tagging the same issue number to address this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9118",
+      "time": "2024-11-21T06:58:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9118#issuecomment-2490219123",
+      "text": "Hey @rithviknishad, I noticed the spo2 field component is written twice, and I’ve updated the thresholds for one instance. Should I raise another PR tagging the same issue number to address this?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8935",
+      "time": "2024-11-20T02:17:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8935",
+      "text": "Fix: TypeError in notification list",
+      "turnaround_time": 2055425
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9133",
+      "time": "2024-11-20T02:16:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9133",
+      "text": "Fix: Year Of Birth Field Validation Condition in Patient transfer form",
+      "turnaround_time": 373390
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9118",
+      "time": "2024-11-20T02:15:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9118",
+      "text": "Adjusted SpO2 thresholds and labels in DailyRounds component to match medical standards",
+      "turnaround_time": 472588
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9123",
+      "time": "2024-11-19T06:57:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9123",
+      "text": "Fix: Bed capacity pop up errors",
+      "turnaround_time": 352234
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9017",
+      "time": "2024-11-17T18:48:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9017#issuecomment-2481425209",
+      "text": "@nihal467 Apologies, but I’m not working on this issue. Please assign it to @Kaushikgtm. Thanks!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9135",
+      "time": "2024-11-16T08:14:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9135#issuecomment-2480474730",
+      "text": "Hey @nihal , Let someone else take up this issue I don't think I will be able to solve this issue on time as it is `P1` issue\nThanks "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9135",
+      "time": "2024-11-16T08:06:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9135#issuecomment-2480472358",
+      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305) you can create a patient with camera feed to replicate the bug\n\nsure, but how can I find feed page on Patient dashboard ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9135",
+      "time": "2024-11-16T07:51:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9135#issuecomment-2480468610",
+      "text": "@nihal Unable to find patient with name `Gigin` \n![Image](https://github.com/user-attachments/assets/17ee75c9-8b3a-42bb-bb42-4f7798465f2b)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9135",
+      "time": "2024-11-16T07:41:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9135#issuecomment-2480466317",
+      "text": "Hey @nihal467 , Let me try if I can solve this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9123",
+      "time": "2024-11-15T05:06:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9123",
+      "text": "Fix: Bed capacity pop up errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9121",
+      "time": "2024-11-15T04:02:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9121#issuecomment-2477907326",
+      "text": "Hey @nihal Let me check If I can solve this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9118",
+      "time": "2024-11-15T03:45:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9118#issuecomment-2477894063",
+      "text": "> Why was things changed for `resp` field? Changes only need to be there for SpO2 field right?\r\n\r\nmy bad,  fixed it "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9118",
+      "time": "2024-11-14T14:59:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9118",
+      "text": "Adjusted SpO2 thresholds and labels in DailyRounds component to match medical standards"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9017",
+      "time": "2024-11-13T18:38:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9017#issuecomment-2474443440",
+      "text": "Hey @nihal467, apologies, but I’d like to unassign myself from this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9101",
+      "time": "2024-11-13T14:44:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9101#issuecomment-2473822768",
+      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305) seem like your develop is out of sync, check in care.ohc.network or update your local develop\n\nNo, it is up to date "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9101",
+      "time": "2024-11-13T13:29:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9101#issuecomment-2473628371",
+      "text": "@nihal467  I checked for a patient admitted on 10th October, and it’s allowing me to switch to October month. Could you clarify if I’m misunderstanding this issue?\n\nhttps://github.com/user-attachments/assets/5e32b453-5562-4784-ba42-8bcd7bf836a1\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9101",
+      "time": "2024-11-13T13:26:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9101#issuecomment-2473619336",
+      "text": "@nihal I checked for a patient admitted on 10th October, and it’s allowing me to switch to October month. Could you clarify if I’m misunderstanding this issue?\n[](https://github.com/user-attachments/assets/cafe8df1-22c0-4d3a-8199-f6a73c05b191)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9101",
+      "time": "2024-11-13T13:16:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9101#issuecomment-2473593030",
+      "text": "Hey @nihal467 , Let me check if I can solve this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9102",
+      "time": "2024-11-13T13:11:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9102#issuecomment-2473583159",
+      "text": "Hey @rithviknishad, is this issue ready for contribution? If so, could you please add the labels and specify the thresholds to update? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8935",
+      "time": "2024-11-13T12:35:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8935#issuecomment-2473490490",
+      "text": "Hey @bodhish , This PR is labeled as “blocked.” I’ve made the requested changes requested by `coderabbit` and resolved the conflicts. Could you clarify how blocked PRs are typically handled and if there’s anything specific I should do? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8907",
+      "time": "2024-11-12T13:31:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8907#issuecomment-2470537894",
+      "text": "Hey @noufalrahim, are you still working on this issue? If not, I’m ready to take it on—I’ve already got a solution prepared."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8981",
+      "time": "2024-11-01T17:28:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8981#issuecomment-2452283630",
+      "text": "Hey @rithviknishad, how can I delete the patients created under my name? "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8959",
+      "time": "2024-10-30T00:06:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8959",
+      "text": "Removed Avatar from AutoCompleteField",
+      "turnaround_time": 58256
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8957",
+      "time": "2024-10-29T08:04:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8957#issuecomment-2443508668",
+      "text": "Hey @shivankacker, I pushed a PR without waiting to be assigned since it’s a `P1`  issue. Hope you understand."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8959",
+      "time": "2024-10-29T07:55:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8959",
+      "text": "Removed Avatar from AutoCompleteField"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8957",
+      "time": "2024-10-29T07:31:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8957#issuecomment-2443452454",
+      "text": "Hey @shivankacker  Can you assign it to me ? "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8935",
+      "time": "2024-10-27T07:20:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8935",
+      "text": "Fix: TypeError in notification list"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8854",
+      "time": "2024-10-21T16:55:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8854",
+      "text": "Production Release v24.43.0",
+      "collaborated_with": [
+        "nihal467",
+        "shivankacker",
+        "noufalrahim",
+        "rithviknishad",
+        "HitishRaoP",
+        "o",
+        "7",
+        "gigincg",
+        "h",
+        "A",
+        "vinutv",
+        "AdityaJ2305",
+        "Jacobjeevan",
+        "shauryag2002",
+        "Rishith25",
+        "JavidSumra"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8686",
+      "time": "2024-10-18T11:08:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8686#issuecomment-2422216397",
+      "text": "Hey @bodhish, Since @vishwansh01 hasn’t responded to the requested changes on the PR, can I create a new PR for this issue if he remains inactive?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8819",
+      "time": "2024-10-18T11:02:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8819#issuecomment-2422206088",
+      "text": "@aparnacoronasafe, it seems this issue is a backend problem. The frontend is functioning correctly, so we can close this issue here."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8814",
+      "time": "2024-10-17T11:50:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8814#issuecomment-2419313530",
+      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305) I am working on it\n\nok , no problem "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8814",
+      "time": "2024-10-17T11:43:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8814#issuecomment-2419299924",
+      "text": "Hey @abhip161, would it be alright if I took on this issue? I can submit a PR right away."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8799",
+      "time": "2024-10-16T13:13:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8799",
+      "text": "Merge Develop To Staging - October Week 3 Release (v24.43.0)",
+      "collaborated_with": [
+        "nihal467",
+        "shivankacker",
+        "noufalrahim",
+        "rithviknishad",
+        "HitishRaoP",
+        "o",
+        "7",
+        "gigincg",
+        "h",
+        "A",
+        "vinutv",
+        "AdityaJ2305",
+        "Jacobjeevan",
+        "shauryag2002"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-16T12:09:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728",
+      "text": "Fixing: Switch Blood Pressure and temperature dropdown to use TextFormField with type=\"number\" instead of a dropdown #8644",
+      "turnaround_time": 839476
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-16T12:09:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728",
+      "text": "Fixing: Switch Blood Pressure and temperature dropdown to use TextFormField with type=\"number\" instead of a dropdown #8644",
+      "collaborated_with": [
+        "AdityaJ2305",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8681",
+      "time": "2024-10-16T12:09:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8681#issuecomment-2416635988",
+      "text": "Hey @syedfardeenjeelani , Please check by adding this line `errors[\"insurance_details\"] = insuranceDetailsError;` in `validateForm` func in `PatientRegister.tsx`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-16T10:43:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728#issuecomment-2416431895",
+      "text": "@nihal Some checks are failing after merging develop branch "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-14T09:13:01.000Z",
+      "title": "ohcnetwork/care_fe#8728",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728#pullrequestreview-2365880856",
+      "text": "Fixing: Switch Blood Pressure and temperature dropdown to use TextFormField with type=\"number\" instead of a dropdown #8644"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-14T17:41:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728#issuecomment-2411872210",
+      "text": "@rithviknishad  I have made the requested changes but getting a problem when unit is `cel`. Will solve it as soon as possible. and\r\nAs I noticed we are getting value of temp from backend in 2 decimal places so when we use same form for editing or updating it gets the in two decimal place value in the temp field "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-14T04:40:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728#issuecomment-2409931628",
+      "text": "@rithviknishad  Will be done by today itself "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-13T19:40:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728#issuecomment-2409099941",
+      "text": "@nihal467 \r\n\r\n- [x] restrict the temperature input field to accept only one decimal point, because all our existing data has only one decimal point\r\n- [x] the c to f unit conversion in the temperature field is not working"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8681",
+      "time": "2024-10-12T09:16:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8681#issuecomment-2408471122",
+      "text": "> @rithviknishad i need some guidance i cant find en.json\r\n\r\nneed to update the new changes in forked repo then pull"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-09T04:16:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728#issuecomment-2401280389",
+      "text": "Hi @nihal467, All tests passed after my “cypress fail fix” commit. However, after merging the latest develop branch, the test for adding, duplicating, and deleting a bed is now failing."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8740",
+      "time": "2024-10-08T10:26:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8740#issuecomment-2399464559",
+      "text": "@bodhish sure "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8740",
+      "time": "2024-10-08T09:58:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8740#issuecomment-2399403346",
+      "text": "Can You assign me this issue please ? "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8734",
+      "time": "2024-10-07T17:30:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8734",
+      "text": "Production release v24.41.0; October week 1",
+      "collaborated_with": [
+        "Jacobjeevan",
+        "rithviknishad",
+        "shauryag2002",
+        "vishwansh01",
+        "sainak",
+        "JOSHIK27",
+        "o",
+        "i",
+        "shivankacker",
+        "AdityaJ2305",
+        "7",
+        "HitishRaoP",
+        "Jash2606",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8728",
+      "time": "2024-10-06T18:58:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8728",
+      "text": "Fixing: Switch Blood Pressure and temperature dropdown to use TextFormField with type=\"number\" instead of a dropdown #8644"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8644",
+      "time": "2024-10-06T07:57:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8644#issuecomment-2395337683",
+      "text": "Hi @syedfardeenjeelani , I’m almost done with the solution for this issue. Could you please take on another one?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8644",
+      "time": "2024-10-05T20:03:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8644#issuecomment-2395174828",
+      "text": "Hey @rithviknishad   Can You assign this issue to me ?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8695",
+      "time": "2024-10-04T10:14:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8695",
+      "text": "Merge Develop To Staging v24.41.0",
+      "collaborated_with": [
+        "Jacobjeevan",
+        "rithviknishad",
+        "shauryag2002",
+        "vishwansh01",
+        "sainak",
+        "JOSHIK27",
+        "o",
+        "i",
+        "shivankacker",
+        "AdityaJ2305",
+        "7",
+        "HitishRaoP",
+        "Jash2606"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8653",
+      "time": "2024-10-03T14:41:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8653",
+      "text": "Production Release v24.40.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "Nithin9585",
+        "o",
+        "i",
+        "A",
+        "sainak",
+        "khavinshankar",
+        "nihal467",
+        "h",
+        "Jacobjeevan",
+        "7",
+        "shivankacker",
+        "UdaySagar-Git",
+        "vishwansh01",
+        "AdityaJ2305",
+        "syedfardeenjeelani"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8694",
+      "time": "2024-10-03T12:12:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694",
+      "text": "Fix: Qualification field for nurse user type",
+      "turnaround_time": 17264
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8694",
+      "time": "2024-10-03T12:12:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694",
+      "text": "Fix: Qualification field for nurse user type",
+      "collaborated_with": [
+        "AdityaJ2305",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-03T11:19:39.000Z",
+      "title": "ohcnetwork/care_fe#8694",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694#pullrequestreview-2345329088",
+      "text": "Fix: Qualification field for nurse user type"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8694",
+      "time": "2024-10-03T10:00:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694#issuecomment-2391007713",
+      "text": "Done"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8694",
+      "time": "2024-10-03T09:31:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694#issuecomment-2390949640",
+      "text": "Yes "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8694",
+      "time": "2024-10-03T09:09:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694#issuecomment-2390907038",
+      "text": "@khavinshankar  Sure "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8694",
+      "time": "2024-10-03T07:24:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8694",
+      "text": "Fix: Qualification field for nurse user type"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8632",
+      "time": "2024-10-01T14:51:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8632#issuecomment-2386222471",
+      "text": "@bodhish @rithviknishad   Should we display `4 Beds created successfully` (with the count) or keep the previous format, `Beds created successfully` ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8632",
+      "time": "2024-10-01T10:40:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8632#issuecomment-2385437777",
+      "text": "Yes by EOD"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8682",
+      "time": "2024-10-01T07:22:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8682#issuecomment-2384989663",
+      "text": "I am deleting this PR and going to draft another one with suggestions "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8302",
+      "time": "2024-10-01T06:48:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8302#issuecomment-2384935664",
+      "text": "Backend issue created for the same [here](https://github.com/ohcnetwork/care/issues/2513)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care#2513",
+      "time": "2024-10-01T06:43:58.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2513",
+      "text": "Update doctor_qualification field to qualification field in backend "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8682",
+      "time": "2024-10-01T06:33:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8682",
+      "text": "temp pr"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8302",
+      "time": "2024-09-30T09:41:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8302#issuecomment-2382633882",
+      "text": "I have limited experience with Django and Python, but I’m willing to create the backend PR. Any guidance from the maintainers would be appreciated!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8302",
+      "time": "2024-09-30T09:21:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8302#issuecomment-2382590485",
+      "text": "Understood! I'll update the frontend as per the issue. For the backend, I'll create a new issue to track the renaming of the field to `qualification` and handle the update accordingly. Let me know if there's anything else I should consider."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8302",
+      "time": "2024-09-30T05:48:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8302#issuecomment-2382166024",
+      "text": "@rithviknishad, I’m not certain if I’m allowed to comment on this, but since we’re already sending `doctor_qualification: undefined` for other user types, it might be better to update it to  `qualification` field instead of creating a new key like `nurse_qualification`. We can set the relevant values for both doctors and nurses while keeping it undefined for other user types. This approach would minimize backend changes.\r\n<img width=\"844\" alt=\"Screenshot 2024-09-30 at 11 08 13 AM\" src=\"https://github.com/user-attachments/assets/3b79ef4d-f188-43c8-bd1c-cdacf15e9653\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8302",
+      "time": "2024-09-29T12:57:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8302#issuecomment-2381347565",
+      "text": "Hey @aparnacoronasafe @gigincg, could you please assign this issue to me if it's still available?\r\n\r\nI've almost finished the task. The payload now successfully sends the `nurse_qualification` key to the backend, and the qualification field is displaying properly in the user edit view for nurses. Until the backend updates the users list, the nurse qualification is showing as 'unknown,' similar to how it works for doctor qualifications.\r\n\r\nScreenshots for reference:\r\n<img width='403' alt='Screenshot 2024-09-29 at 6:17 PM' src='https://github.com/user-attachments/assets/206ea1ae-6861-4ec1-8c08-118443c87131'>\r\n<img width='363' alt='Screenshot 2024-09-29 at 6:18 PM' src='https://github.com/user-attachments/assets/c34607de-4dcf-4277-a8fc-71a3dd0f5875'>\r\n<img width=\"1102\" alt=\"Screenshot 2024-09-29 at 6 23 39 PM\" src=\"https://github.com/user-attachments/assets/67631e41-0efd-45b9-a02c-bb625589291e\">\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8651",
+      "time": "2024-09-27T11:56:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8651",
+      "text": "Merge Develop to Staging v24.40.0 | Patch",
+      "collaborated_with": [
+        "rithviknishad",
+        "shivankacker",
+        "nihal467",
+        "AdityaJ2305",
+        "o",
+        "7",
+        "syedfardeenjeelani",
+        "i",
+        "A"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8629",
+      "time": "2024-09-27T10:51:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8629",
+      "text": "Fix: Clearing Facilities Field Causes White Screen #8610",
+      "turnaround_time": 160129
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8629",
+      "time": "2024-09-27T10:51:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8629",
+      "text": "Fix: Clearing Facilities Field Causes White Screen #8610",
+      "collaborated_with": [
+        "AdityaJ2305",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8629",
+      "time": "2024-09-26T11:51:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8629#issuecomment-2376723432",
+      "text": "@rithviknishad Apologies my bad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8629",
+      "time": "2024-09-26T09:42:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8629#issuecomment-2376459445",
+      "text": "> @AdityaJ2305 could you ensure prettier is working locally? Noticed code not formatted in a previous PR from you too.\r\n\r\nThank you for the feedback! I'll ensure Prettier is set up and working locally for future PRs."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8627",
+      "time": "2024-09-26T06:18:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8627#issuecomment-2376030986",
+      "text": "Hi @rithviknishad, I just saw your comment. I wanted to bring up that this has happened to me twice now—where someone else submitted a PR for an issue I was already assigned to, without being assigned themselves or checking with the maintainer first.\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8632",
+      "time": "2024-09-26T06:15:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8632",
+      "text": "fix: add bed notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8629",
+      "time": "2024-09-25T17:22:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8629#issuecomment-2374715510",
+      "text": "> @AdityaJ2305 It seems like you've made some partial changes. When you're clearing the input text, it should not remove the selected values from the dropdown. Instead, it should only clear the input field. This is the desired behavior from the user's perspective. Could you please adjust this accordingly?\r\n\r\n\r\n> @chakribontha, in the screenshot, three facilities are selected: `testing, Thiruvananthapuram`  `Testing Other, Thiruvananthapuram` and `Testing Other12313, Thiruvananthapuram` with “3 selected” shown as text. Clicking the clear icon should only remove the “3 selected” text, not the selected facilities below. If I understand correctly, the clear icon is meant to allow users to reset and choose facilities again. By only clearing the text, this purpose isn’t fully met.\r\n<img width=\"1440\" alt=\"Screenshot 2024-09-25 at 10 39 39 PM\" src=\"https://github.com/user-attachments/assets/8f1f5ed4-74f3-4cf9-8801-280edf0ef5ee\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8627",
+      "time": "2024-09-25T14:51:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8627#issuecomment-2374326076",
+      "text": "Hey @nihal467, could you please assign me to this issue? Thanks!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8629",
+      "time": "2024-09-25T14:22:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8629",
+      "text": "Fix: Clearing Facilities Field Causes White Screen #8610"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8610",
+      "time": "2024-09-25T09:41:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8610#issuecomment-2373583789",
+      "text": "Hey , @nihal467 @chakribontha , Could you assign this issue to me so that I can push the pr ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8610",
+      "time": "2024-09-24T21:17:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8610#issuecomment-2372402058",
+      "text": "@chakribontha I’ve resolved the issue. Could you please assign me so I can push the PR and discuss it? Thank you!"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8516",
+      "time": "2024-09-19T17:49:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8516#issuecomment-2361824782",
+      "text": "Hi @sainak @rithviknishad ,\r\nI was working on this issue and had a few questions, but noticed @vishwansh01  submitted a PR without being assigned. Could you clarify how to proceed in such cases?\r\nThanks!\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8555",
+      "time": "2024-09-18T06:10:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8555#issuecomment-2357587255",
+      "text": "Hey @aparnacoronasafe  I have gone through all the issues mentioned above I can solve them so Could you assign it to me ? \r\nI have few doubts regarding `Vitals- when user tries to enter values by typing, it doesn't get recorded unless the user also selects the option from the dropdown. This is very frustrating. The user must be able to add values by simply typing in the fields as well.` so I need to put a validation check when users types in and tries to proceed further ? "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8552",
+      "time": "2024-09-17T18:11:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8552",
+      "text": "Production Release v24.38.0",
+      "collaborated_with": [
+        "Sulochan-khadka",
+        "JOSHIK27",
+        "rithviknishad",
+        "o",
+        "i",
+        "shivankacker",
+        "AdityaJ2305",
+        "nihal467",
+        "Zeshanxviii",
+        "bodhish",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8516",
+      "time": "2024-09-14T05:03:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8516#issuecomment-2350837599",
+      "text": "@sainak  Should I make the PR with proxy_hide_header ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8516",
+      "time": "2024-09-12T06:47:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8516#issuecomment-2345405830",
+      "text": "@sainak I see the backend sets Cache-Control: max-age=31536000, immutable. Should I use proxy_hide_header to change this, or is it intentional?\r\n<img width=\"380\" alt=\"Screenshot 2024-09-12 at 12 16 37 PM\" src=\"https://github.com/user-attachments/assets/864e65dd-f352-4661-811c-d1807b1b982e\">\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8518",
+      "time": "2024-09-11T12:45:47.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8518",
+      "text": "Merge Develop to Staging v24.38.0",
+      "collaborated_with": [
+        "Sulochan-khadka",
+        "JOSHIK27",
+        "rithviknishad",
+        "o",
+        "i",
+        "shivankacker",
+        "AdityaJ2305",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8516",
+      "time": "2024-09-11T11:55:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8516#issuecomment-2343462731",
+      "text": "Work In Progress"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8516",
+      "time": "2024-09-11T06:01:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8516#issuecomment-2342691556",
+      "text": "Hi @sainak  I would like to work on this feature. Could you assign it to me ?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-10T11:49:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417",
+      "text": "Added: Warning for unsupported browsers",
+      "turnaround_time": 1444389
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-10T11:49:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417",
+      "text": "Added: Warning for unsupported browsers",
+      "collaborated_with": [
+        "AdityaJ2305",
+        "o",
+        "i",
+        "itsRaCl",
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-08T18:21:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2336778304",
+      "text": "@rithviknishad \r\n`\"dev\": \"npm run supported-browsers && vite\",`\r\nwe can add this so that on npm run dev it must generate supportedBrowsers.ts file "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-08T18:08:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2336774602",
+      "text": "`\"build\": \"npm run generate-build-meta && npm run supported-browsers && npm run build:react\"`\r\nIs this command causing the error ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-08T13:56:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2336696078",
+      "text": "@rithviknishad  Done. Please review the changes "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-08T06:48:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2336569975",
+      "text": "> @AdityaJ2305 can you clear the merge conflict and comment on the PR, if it's ready for review or not\r\n\r\n\r\n\r\n> Can we gitignore the output file (`supportedBrowsers.ts`) and call the script during dev and build instead?\r\n\r\nLike following way:\r\n`\"build\": \"npm run generate-build-meta && npm run supported-browsers && npm run build:react\"`\r\npreviously\r\n`\"build\": \"npm run generate-build-meta && npm run build:react\"`\r\nIs this modification permissible?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-07T17:46:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2336236857",
+      "text": "@nihal467  Resolved the conflicts "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-09-06T15:52:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2334356433",
+      "text": "Yes, I try to solve the conflict ASAP"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-08-30T16:16:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2321827699",
+      "text": "@rithviknishad  Is there any changes to be made ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8403",
+      "time": "2024-08-30T16:13:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8403#issuecomment-2321818069",
+      "text": "> > <img alt=\"Screenshot 2024-08-24 at 10 02 31 PM\" width=\"1440\" src=\"https://private-user-images.githubusercontent.com/148325158/361156107-db0ad841-85df-4ff2-927d-bca1f68fc9d1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwMzQ1MzUsIm5iZiI6MTcyNTAzNDIzNSwicGF0aCI6Ii8xNDgzMjUxNTgvMzYxMTU2MTA3LWRiMGFkODQxLTg1ZGYtNGZmMi05MjdkLWJjYTFmNjhmYzlkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgzMFQxNjEwMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDI0Y2IzMTc0ZTNkZDk0YTA4MjI2N2RkMDViZmEwYzEzZDM1YWY2NjU5ZjExNTUzNzdjYzUxZDY5OWYzOWE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Ue_sSLXb2xv4tsaGH2FY7k3MARnWl47Y0Zuw_bk1ewc\">\r\n> > Is the CSS for the `BrowserWarning` component okay, or should I adjust it?\r\n> > and Can I put this browserWarning comp in the ErrorPages folder in the component ?\r\n> \r\n> In which browser did you face this issue can u plz say me ..\r\n\r\nYou can change the default browser for testing in the inspect so it will behave like that only . I had changed to opera mini which is unsupported as per browserlist in package.json "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8436",
+      "time": "2024-08-29T05:25:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8436#issuecomment-2316741202",
+      "text": "Hey @khavinshankar as I have gone through BedSelect component in BedSelect.tsx. I noticed it is return empty array for the data we are fetching from backend and I am logging the raw data fetched not any filtered condition applied  so probably it is a backend issue only . Here are screenshots :\r\n\r\n<img width=\"896\" alt=\"Screenshot 2024-08-29 at 10 50 08 AM\" src=\"https://github.com/user-attachments/assets/56c7371e-a9dd-4858-8bf5-af8e707db799\">\r\n\r\n<img width=\"1440\" alt=\"Screenshot 2024-08-29 at 10 50 26 AM\" src=\"https://github.com/user-attachments/assets/c832c3bf-6e26-47e5-b6ce-6d2654c232db\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-08-26T05:54:36.000Z",
+      "title": "ohcnetwork/care_fe#8417",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#pullrequestreview-2259807615",
+      "text": "Added: Warning for unsupported browsers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care#2409",
+      "time": "2024-08-28T07:57:27.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2409",
+      "text": "Password Reset Allows Any Username"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8425",
+      "time": "2024-08-26T15:49:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8425#issuecomment-2310527932",
+      "text": "Hey @aparnacoronasafe while reproducing the facility update page I am getting this toast \r\nYou don't have permission to perform this action. Contact the admin\r\nand can't see the add facility button I think due to same reason"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-08-26T15:33:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2310497306",
+      "text": "Should I make the final commit ?  @rithviknishad  "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8399",
+      "time": "2024-08-26T06:21:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8399#issuecomment-2309416678",
+      "text": "@nihal467  Can you assign this issue to me ? and a doubt can you provide idea to reproduce this page "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-08-25T17:51:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2308940018",
+      "text": "<img width=\"1440\" alt=\"Screenshot 2024-08-25 at 11 16 15 PM\" src=\"https://github.com/user-attachments/assets/9a8499ed-570d-494c-9252-4b01640b36b7\">\r\n@gigincg  Let me know if it looks good or If there's anything to change.  After confirmation  I will make pull request for the same "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-08-25T17:40:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417#issuecomment-2308936665",
+      "text": "@gigincg  Sure \r\n\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8417",
+      "time": "2024-08-24T18:36:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8417",
+      "text": "Issues/8403/warning for unsupported browsers"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8403",
+      "time": "2024-08-24T16:42:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8403#issuecomment-2308452024",
+      "text": "<img width=\"1440\" alt=\"Screenshot 2024-08-24 at 10 02 31 PM\" src=\"https://github.com/user-attachments/assets/db0ad841-85df-4ff2-927d-bca1f68fc9d1\">\r\nIs the CSS for the `BrowserWarning` component okay, or should I adjust it?  "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8403",
+      "time": "2024-08-23T15:53:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8403#issuecomment-2307365138",
+      "text": "Hey @rithviknishad, can you assign this issue to me?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8632",
+      "time": "2024-10-02T19:41:12Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8632",
+      "text": "fix: add bed notification"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9065",
+      "time": "2024-11-08T16:05:55Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9065",
+      "text": "Fix: Investigation record error in mobile mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9065",
+      "time": "2024-11-12T00:13:10Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9065",
+      "text": "Fix: Investigation record error in mobile mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9133",
+      "time": "2024-11-15T18:32:57Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9133",
+      "text": "Fix: Year Of Birth Field Validation Condition in Patient transfer form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9182",
+      "time": "2024-11-25T08:31:08Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9182",
+      "text": "Fix: Spo2 twice rendering and wrong thresholds "
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9493",
+      "title": "Fix: Add review time to patient card.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9466",
+      "title": "Fix: Layout update of Asset Page ",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9422",
+      "title": "Fix: Volunteer access to link facility",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9415",
+      "title": "Fix: Discharge patient showing live",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/555",
+      "title": "Fix:  fetch events for bots",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/ohcnetwork/landing/pull/38",
+      "title": "Fix: Contact link does not work properly in the footer",
+      "stale_for": 2,
+      "labels": [
+        "changes requested"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/leaderboard/issues/563",
+      "pr_link": "https://github.com/ohcnetwork/leaderboard/pull/564"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9181",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9182"
+    }
+  ]
+}

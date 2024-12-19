@@ -1,0 +1,772 @@
+{
+  "last_updated": "2024-12-18T10:17:42.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8963",
+      "time": "2024-12-18T10:17:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8963#issuecomment-2550928556",
+      "text": "Thank you @nihal467 for helping me out."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8963",
+      "time": "2024-12-18T10:13:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8963",
+      "text": "Cypress tests replace cy.wait with cy.intercept or dynamic waits",
+      "turnaround_time": 4303974
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9201",
+      "time": "2024-12-17T08:17:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9201",
+      "text": "Disallowing out of date range",
+      "turnaround_time": 1888524
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-17T08:16:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235",
+      "text": "Occupancy bed tooltip fully visible in mobile view",
+      "turnaround_time": 1608467
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-17T08:16:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235",
+      "text": "Occupancy bed tooltip fully visible in mobile view",
+      "collaborated_with": [
+        "Rishith25",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8963",
+      "time": "2024-12-16T14:29:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8963#issuecomment-2545779459",
+      "text": "@nihal467 Can you please help me to get it solved.\r\n\r\nhttps://github.com/ohcnetwork/care_fe/actions/runs/12354446070/job/34475813772?pr=8963\r\n\r\nI did not change anything in the `FacilityCreation.cy.ts`.\r\nThe test cases are always failing even after making required changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9441",
+      "time": "2024-12-16T12:35:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9441#issuecomment-2545515104",
+      "text": "Hi @bodhi Currently we have only covid vaccine details.  So, for now i just displayed covid vaccine details in pateint details immunisation tab. \r\n\r\nThis is how its look like now\r\n![image](https://github.com/user-attachments/assets/8e653a30-e0ab-4a50-8d88-8acf5abe6612)\r\n\r\nWill we get immunisation record form as you mentioned earlier that we should have structure form to capture Immunisation records in encounter form.\r\n\r\nis this fine now or should i hold this PR till we get encounter form ready."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-16T09:00:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2544986494",
+      "text": "> > @Rishith25 clear the merge conflict\r\n> > PR looks good for me, @rithviknishad @khavinshankar review it\r\n> \r\n> I have changed the tooltip component so could you please confirm is it fine or not.\r\n\r\n@nihal467 @rithviknishad Can you please review it and all the test cases are passing."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-16T07:59:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2544851629",
+      "text": "> @Rishith25 clear the merge conflict\r\n> \r\n> PR looks good for me, @rithviknishad @khavinshankar review it\r\n\r\nI have changed the tooltip component so could you please confirm is it fine or not."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9441",
+      "time": "2024-12-15T14:28:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9441",
+      "text": "Enhancement of Immunisation Records Tab in patient details page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-12T17:44:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2539607332",
+      "text": "Hi @rithviknishad  \r\nAs per your suggestion I tried to include onClick in the TooltipTrigger  of tooltip.tsx and it showed some unexpected behavior and further optimized it by Creating a tooltip component `TooltipComponent` in tooltip.tsx file and this tooltip component can be used directly in the facility card or any other components. So if this is okay I will also update the other components which are using this such as Slidebar.tsx\r\n  \r\n`FacilityCard.tsx`\r\n```.js\r\n<TooltipProvider>\r\n  <TooltipComponent content={t(\"live_patients_total_beds\")}>\r\n    <div\r\n      className={`relative flex items-center gap-1 text-sm ${\r\n        (facility.patient_count || 0) / (facility.bed_count || 0) > 0.85\r\n          ? \"justify-center rounded-md border border-red-600 bg-red-500 p-1 font-bold text-white\"\r\n          : \"text-secondary-700\"\r\n      }`}\r\n    >\r\n      <CareIcon icon=\"l-bed\" />\r\n      <dt>\r\n        {t(\"occupancy\")}: {facility.patient_count} / {facility.bed_count}\r\n      </dt>\r\n    </div>\r\n  </TooltipComponent>\r\n</TooltipProvider>;\r\n\r\n```\r\n\r\n`tooltip.tsx`\r\n```.js\r\nimport * as TooltipPrimitive from \"@radix-ui/react-tooltip\";\r\nimport * as React from \"react\";\r\n\r\nimport { cn } from \"@/lib/utils\";\r\n\r\nconst TooltipProvider = TooltipPrimitive.Provider;\r\n\r\nconst Tooltip = TooltipPrimitive.Root;\r\n\r\nconst TooltipTrigger = TooltipPrimitive.Trigger;\r\n\r\nconst TooltipContent = TooltipPrimitive.Content;\r\n\r\nconst TooltipComponent = React.forwardRef<\r\n  React.ElementRef<typeof TooltipContent>,\r\n  React.ComponentPropsWithoutRef<typeof TooltipPrimitive.Content>\r\n>(({ children, content, sideOffset = 4, className }, ref) => {\r\n  const [open, setOpen] = React.useState(false);\r\n\r\n  return (\r\n    <TooltipProvider>\r\n      <Tooltip open={open} onOpenChange={setOpen} delayDuration={0}>\r\n        <TooltipTrigger asChild onClick={() => setOpen(!open)}>\r\n          {children}\r\n        </TooltipTrigger>\r\n        <TooltipContent\r\n          ref={ref}\r\n          sideOffset={sideOffset}\r\n          className={cn(\r\n            \"z-50 overflow-hidden rounded-md bg-gray-900 px-3 py-1.5 text-xs text-gray-50 animate-in fade-in-0 zoom-in-95 data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=closed]:zoom-out-95 data-[side=bottom]:slide-in-from-top-2 data-[side=left]:slide-in-from-right-2 data-[side=right]:slide-in-from-left-2 data-[side=top]:slide-in-from-bottom-2 dark:bg-gray-50 dark:text-gray-900\",\r\n            className,\r\n          )}\r\n        >\r\n          {content}\r\n        </TooltipContent>\r\n      </Tooltip>\r\n    </TooltipProvider>\r\n  );\r\n});\r\n\r\nexport { TooltipComponent, TooltipTrigger, TooltipContent, TooltipProvider };\r\n```\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9252",
+      "time": "2024-12-10T16:48:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9252#issuecomment-2532266498",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/394366077-da49aa40-b2ec-4230-988d-e09ca0096587.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM4NDkyODYsIm5iZiI6MTczMzg0ODk4NiwicGF0aCI6Ii81NzA1NTk5OC8zOTQzNjYwNzctZGE0OWFhNDAtYjJlYy00MjMwLTk4OGQtZTA5Y2EwMDk2NTg3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEwVDE2NDMwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVjMDdkNTI3ZWQ3ZTJhZGMwZTVmOWVmZjFiY2EzNjBlYzhlZDY0OTJmNDgxYTU3Yzg3Zjg1MjlmMTA5OTE0YzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XqfRtNs2zy04_RqeRExxi66sHti4GecNE9Iw8orNjdQ)\r\n> \r\n> the phone number is not being fetched to the frontend even with backend\r\n\r\nI raised a PR in backend so it should be merged to get the patient contact number. \r\nIn frontend we have to use phone_number instead of alt_phone_number So frist the backend need to be merged in order to get the phone_number of the volunteer."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9357",
+      "time": "2024-12-10T16:21:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9357#issuecomment-2532199586",
+      "text": "Currently we have only covid 19 vaccine to display so is it enough. So i should only need to display covid 19 vaccine right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9357",
+      "time": "2024-12-10T16:20:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9357#issuecomment-2532198611",
+      "text": "I want to work on this Please assign it to me?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-10T15:07:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2531947612",
+      "text": "@Jacobjeevan Done the changes of absolute imports of tooltip "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9329",
+      "time": "2024-12-08T14:11:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9329#issuecomment-2526012429",
+      "text": "Hi, @bodhish and @vinutv , could you please confirm whether to use a count for allergies or \"has allergies\"? Should the details be displayed in a tooltip on hover, as suggested by @rithviknishad ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8963",
+      "time": "2024-12-08T07:37:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8963#issuecomment-2525465825",
+      "text": "Hey @nihal467 \nI replaced all instances of cy.wait() with cy.intercept() and dynamic waits.\n\nHowever, the following issues arise when certain cy.wait() statements are removed:\n\nIn FacilityHomepage.cy.ts, removing cy.wait(2000) at line 177 causes the test case to fail because the logged-in nurse cannot see the notify message on the noticeboard. Additionally, intercepts are already included, so there is no possibility of using additional intercept here.\n\nIn PatientRegistration.tsx, removing cy.wait(3000) at line 158 results in a test case failure, indicating that after selecting the gender as \"Female,\" the \"Is antenatal?\" checkbox is not displayed. No intercept is triggered when the gender selection is clicked.\n\nIn patientFileUpload.ts, removing cy.wait(2000) at line 30 within the verifyUploadFilePresence function causes the \"User-level Based Permission for File Modification\" test case to fail, while other test cases pass. I attempted to include intercepts, but the issue persists at the same point.\n\nCould you please look into this?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9329",
+      "time": "2024-12-07T06:49:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9329",
+      "text": "Fix: Allergies Count in Patient details page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9328",
+      "time": "2024-12-07T06:42:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9328#issuecomment-2524972212",
+      "text": "I want to work on this. Please assign it to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9328",
+      "time": "2024-12-07T06:41:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9328",
+      "text": "Fix allergies count in Patient details page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-06T17:03:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2523752514",
+      "text": "Hey @rithviknishad, the tooltip is now working fine on both mobile and desktop. I have added a click event in `FacilityCard` for mobile view and removed `onMouseEnter` and `onMouseLeave` as they are not needed. Even without them, the tooltip works perfectly on mobile using the `onClick` event. Could you please review it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9201",
+      "time": "2024-12-06T16:27:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9201#issuecomment-2523678743",
+      "text": "Hey @Jacobjeevan , I have made changes to the min and max limits. The min and max limits for both year and month are now working fine. I have tested all scenarios, and no unusual behavior has been observed. It is ready for review."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-04T14:30:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2517605606",
+      "text": "> @Rishith25 do a self review of the changes\r\n\r\n@rithviknishad  In my recent commit I have removed the unused `_open`. \r\nAs Tooltip clicks are not supported in mobile view I have done the changes according to this https://github.com/shadcn-ui/ui/issues/86#issuecomment-2241817826 which you have suggested and used the `onMouseEnter` and `onMouseLeave` in `tooltip.tsx` file and handled click Event in `FacilityCard` for mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-12-03T06:54:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2513701488",
+      "text": "@rithviknishad  Now it is working fine in mobile view could you please look into it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9201",
+      "time": "2024-12-02T13:15:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9201#issuecomment-2511515735",
+      "text": "@Jacobjeevan Can you review the changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9269",
+      "time": "2024-12-02T11:29:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9269#issuecomment-2511281312",
+      "text": "Can I work on this\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9226",
+      "time": "2024-12-01T06:51:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9226",
+      "text": "Fix: Reflect Updated Service Notes Immediately in Asset Details without page reload",
+      "turnaround_time": 312936
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9226",
+      "time": "2024-12-01T06:51:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9226",
+      "text": "Fix: Reflect Updated Service Notes Immediately in Asset Details without page reload",
+      "collaborated_with": [
+        "Rishith25",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9226",
+      "time": "2024-12-01T06:40:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9226#issuecomment-2509599423",
+      "text": "@rithviknishad Done the changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9252",
+      "time": "2024-11-29T17:42:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9252#issuecomment-2508201171",
+      "text": "@coderabbitai Full review"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9252",
+      "time": "2024-11-29T17:27:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9252",
+      "text": "Fix navigation bar highlighting to select only the active section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#2624",
+      "time": "2024-11-29T16:24:47.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2624",
+      "text": "Added Emergency Number UserBaseMinimumSerializer"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2623",
+      "time": "2024-11-29T16:10:16.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2623#issuecomment-2508092977",
+      "text": "@Jacobjeevan @nihal467 Can you please assign it to me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care#2623",
+      "time": "2024-11-29T16:09:55.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2623",
+      "text": "Emergency Contact Number is missing in UserBaseMinimum Serializer"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9244",
+      "time": "2024-11-29T16:04:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9244#issuecomment-2508085631",
+      "text": "@Jacobjeevan @nihal467 The Emergency Contact number should be fetched from backend and currently it is missing hence NO contact number is displayed \nI will raise the issue in the backend."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-11-29T13:25:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2507816989",
+      "text": "> I don't see any issues in this. What's the issue?\r\n\r\nIn mobile view when we are clicking on the occupancy, the tooltip is appearing and disappearing quickly.\r\nit is happening only in mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-11-29T12:56:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2507769231",
+      "text": "> Could you push the changes so that we can take a look at it?\r\n\r\nCould you please look into the changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-11-29T12:37:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235#issuecomment-2507737297",
+      "text": "> Let's switch to newer approach of showing tooltip using shadcn's tooltip component: https://github.com/ohcnetwork/care_fe/blob/develop/src/components/ui/tooltip.tsx\r\n\r\nThis shadcn tooltip component working well in desktop, but it is not working on mobile view how should I proceed?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9201",
+      "time": "2024-11-29T11:02:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9201#issuecomment-2507579469",
+      "text": "@Jacobjeevan  I have done the changes and  also suggested changes from coderabbitai"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9244",
+      "time": "2024-11-29T04:07:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9244#issuecomment-2507055733",
+      "text": "I want to work on this. Assign this to me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9235",
+      "time": "2024-11-28T17:28:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9235",
+      "text": "Occupancy bed tooltip fully visible in mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9230",
+      "time": "2024-11-28T12:02:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9230#issuecomment-2505957840",
+      "text": "@nihal467 I would like to work on this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9226",
+      "time": "2024-11-27T15:56:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9226",
+      "text": "Fix: Reflect Updated Service Notes Immediately in Asset Details without page reload"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9225",
+      "time": "2024-11-27T15:41:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9225#issuecomment-2504195876",
+      "text": "I want to work on this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9225",
+      "time": "2024-11-27T15:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9225",
+      "text": "Edited notes are not updating in service details of Asset Details Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8963",
+      "time": "2024-11-25T13:05:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8963#issuecomment-2497974270",
+      "text": "I am working on it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9201",
+      "time": "2024-11-25T11:42:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9201",
+      "text": "Disallowing out of date range"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9064",
+      "time": "2024-11-25T11:33:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9064#issuecomment-2497761979",
+      "text": "I want to close this PR because some conflicts have been araised.\r\nI will immediately open a new PR. related to this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9020",
+      "time": "2024-11-23T16:18:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9020#issuecomment-2495528447",
+      "text": "@bodhish @nihal467 I have updated the coding logic and the expected skeleton loading is working. Can you please review..."
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9125",
+      "time": "2024-11-19T06:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9125",
+      "text": "Login page input fields UI update",
+      "turnaround_time": 348699
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9125",
+      "time": "2024-11-19T06:56:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9125",
+      "text": "Login page input fields UI update",
+      "collaborated_with": [
+        "Rishith25",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9125",
+      "time": "2024-11-15T06:05:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9125",
+      "text": "Login page input fields UI update"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9112",
+      "time": "2024-11-14T07:32:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9112#issuecomment-2475613758",
+      "text": "@shivankacker I want to work on this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9030",
+      "time": "2024-11-06T15:28:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9030#issuecomment-2460069605",
+      "text": "@rithviknishad i would like to work on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9001",
+      "time": "2024-11-05T13:26:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9001#issuecomment-2457182295",
+      "text": "@rithviknishad should I proceed with this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9001",
+      "time": "2024-11-05T12:28:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9001#issuecomment-2457041598",
+      "text": "@rithviknishad I would like to work on this can you assign it to me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9001",
+      "time": "2024-11-05T12:27:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9001",
+      "text": "Improve Age Validation in User Creation Form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8981",
+      "time": "2024-11-01T17:33:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8981#issuecomment-2452292666",
+      "text": "@AdityaJ2305 Hey there this is related to another issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8981",
+      "time": "2024-11-01T15:56:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8981#issuecomment-2452117889",
+      "text": "@rithviknishad I would like to work on this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8981",
+      "time": "2024-11-01T15:56:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8981",
+      "text": "Bug Report: Copy to Clipboard Function Showing Age as NaN on Shifting Details Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8963",
+      "time": "2024-10-29T14:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8963",
+      "text": "Cypress tests replace cy.wait with cy.intercept or dynamic waits"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8921",
+      "time": "2024-10-29T12:51:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8921#issuecomment-2444126103",
+      "text": "@rithviknishad Changes are done"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8950",
+      "time": "2024-10-28T17:30:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8950",
+      "text": "Production Release 24.44.0",
+      "collaborated_with": [
+        "abhip161",
+        "tellmeY18",
+        "rithviknishad",
+        "Nithin9585",
+        "nihal467",
+        "syedfardeenjeelani",
+        "nithish1018",
+        "chakribontha",
+        "sainak",
+        "Rishith25",
+        "Mahendar0701",
+        "Jacobjeevan",
+        "JavidSumra",
+        "gigincg",
+        "o",
+        "i",
+        "A",
+        "Keerthilochankumar",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8921",
+      "time": "2024-10-28T15:47:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8921#issuecomment-2441961238",
+      "text": "@nihal467 Done the changes of clear button alignment"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8823",
+      "time": "2024-10-27T14:09:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8823#issuecomment-2440038840",
+      "text": "@rithviknishad Can you please assign 1 story point for this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8855",
+      "time": "2024-10-27T14:07:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8855#issuecomment-2440038146",
+      "text": "@rithviknishad Can you please assign 2 story points for this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8822",
+      "time": "2024-10-27T13:59:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8822#issuecomment-2440035091",
+      "text": "How many story points will I get for this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8925",
+      "time": "2024-10-25T12:34:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8925#issuecomment-2437662559",
+      "text": "Is this the required solution for the above issue\n\nExample:\nBefore:\n```.js\nverifyUploadFilePresence(fileName: string) {\n    cy.wait(2000);\n    cy.get(\"#file-div\").scrollIntoView();\n    cy.verifyContentPresence(\"#file-div\", [fileName]);\n  }\n```\nAfter:\n```.js\nverifyUploadFilePresence(fileName: string) {\n    // Replace cy.wait(2000) with intercepting the file upload API call\n    cy.intercept('POST', '/api/upload-file').as('fileUpload'); \n    cy.wait('@fileUpload'); // Wait for the file upload request to finish\n    \n    cy.get(\"#file-div\").scrollIntoView(); \n    cy.verifyContentPresence(\"#file-div\", [fileName]);\n}\n```\nIf this is correct I would like to work on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8921",
+      "time": "2024-10-25T05:37:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8921#issuecomment-2436878943",
+      "text": "How many story points do I get for this issue?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-25T05:27:51.000Z",
+      "title": "ohcnetwork/care_fe#8921",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8921#pullrequestreview-2394202230",
+      "text": "Adding of clear and cancel button in create preset form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8921",
+      "time": "2024-10-24T17:19:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8921",
+      "text": "Adding of clear and cancel button in create preset form"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8902",
+      "time": "2024-10-24T15:57:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8902#issuecomment-2435675597",
+      "text": "@nihal467  I logged in as district admin. I think the dev camera is deleted hence i can not find it. Can you share the camera configuration details.\n\n![Image](https://github.com/user-attachments/assets/78220637-1de0-4d4a-a930-4a787628644e)\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8902",
+      "time": "2024-10-24T14:38:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8902#issuecomment-2435484995",
+      "text": "I logged in as a district admin and attempted to add a preset, but I'm encountering an issue where it shows \"unable to get position.\" Could you please guide me on how to add a preset and open the popup for the camera asset and how to reproduce the behavior you’re demonstrating.\n\n![Image](https://github.com/user-attachments/assets/f5b8d8ac-35da-4d0e-bf7b-ccfd4406dad3)\n\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8909",
+      "time": "2024-10-24T07:44:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8909",
+      "text": "Staging Release - October Week 4 Release (v24.44.0)",
+      "collaborated_with": [
+        "abhip161",
+        "tellmeY18",
+        "rithviknishad",
+        "Nithin9585",
+        "nihal467",
+        "syedfardeenjeelani",
+        "nithish1018",
+        "chakribontha",
+        "sainak",
+        "Rishith25",
+        "Mahendar0701",
+        "Jacobjeevan",
+        "JavidSumra",
+        "gigincg",
+        "o",
+        "i",
+        "A",
+        "Keerthilochankumar",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8902",
+      "time": "2024-10-23T14:27:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8902#issuecomment-2432407699",
+      "text": "@nihal467 Can I work on this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8878",
+      "time": "2024-10-22T13:16:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8878#issuecomment-2429260582",
+      "text": "@sainak Can I work on this?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8855",
+      "time": "2024-10-22T08:40:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8855",
+      "text": "Remove asset detail popup in asset configure's camera feed",
+      "turnaround_time": 59333
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-22T02:37:14.000Z",
+      "title": "ohcnetwork/care_fe#8855",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8855#pullrequestreview-2383636989",
+      "text": "Removal of camera name and pop up #8844"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8854",
+      "time": "2024-10-21T16:55:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8854",
+      "text": "Production Release v24.43.0",
+      "collaborated_with": [
+        "nihal467",
+        "shivankacker",
+        "noufalrahim",
+        "rithviknishad",
+        "HitishRaoP",
+        "o",
+        "7",
+        "gigincg",
+        "h",
+        "A",
+        "vinutv",
+        "AdityaJ2305",
+        "Jacobjeevan",
+        "shauryag2002",
+        "Rishith25",
+        "JavidSumra"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8855",
+      "time": "2024-10-21T16:11:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8855",
+      "text": "Removal of camera name and pop up #8844"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8844",
+      "time": "2024-10-21T10:13:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8844#issuecomment-2426237553",
+      "text": "@nihal467  Can I work on this?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8835",
+      "time": "2024-10-20T15:19:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8835",
+      "text": "Staging Release - October Week 3 Release Patch (v24.43.1)",
+      "collaborated_with": [
+        "shivankacker",
+        "rithviknishad",
+        "Rishith25",
+        "JavidSumra",
+        "Jacobjeevan",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8823",
+      "time": "2024-10-18T10:30:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8823",
+      "text": "Corrected redirection of cancel button",
+      "turnaround_time": 3906
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8823",
+      "time": "2024-10-18T09:25:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8823",
+      "text": "Corrected redirection of cancel button"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8822",
+      "time": "2024-10-18T07:00:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8822#issuecomment-2421590520",
+      "text": "@rithviknishad @nihal467 I want to work on this. "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8822",
+      "time": "2024-10-18T06:59:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8822",
+      "text": "Incorrect Routing to Facilities on Cancel Action in Update Patient Details Form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8810",
+      "time": "2024-10-17T05:39:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8810",
+      "text": "Improvement Needed for Advanced Filter and Sort By Features in Patients Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8798",
+      "time": "2024-10-16T04:04:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8798#issuecomment-2415683959",
+      "text": "Assign this issue to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8798",
+      "time": "2024-10-16T04:04:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8798",
+      "text": "Margin required between tabs in sidebar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8921",
+      "time": "2024-11-05T00:44:36Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8921",
+      "text": "Adding of clear and cancel button in create preset form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9020",
+      "time": "2024-11-06T11:36:37Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9020",
+      "text": "Added skeleton loader during advanced filters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9064",
+      "time": "2024-11-08T15:55:14Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9064",
+      "text": "Disallow picking out of range month or year in date input dropdown"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9441",
+      "title": "Enhancement of Immunisation Records Tab in patient details page",
+      "stale_for": 0,
+      "labels": [
+        "work-in-progress"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9252",
+      "title": "Fix navigation bar highlighting to select only the active section",
+      "stale_for": 1,
+      "labels": [
+        "needs review",
+        "tested",
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care/pull/2624",
+      "title": "Added Contact Number in UserBaseMinimumSerializer",
+      "stale_for": 2,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9225",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9226"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8822",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8823"
+    }
+  ]
+}

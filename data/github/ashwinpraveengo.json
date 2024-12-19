@@ -1,0 +1,83 @@
+{
+  "last_updated": "2024-12-16T05:36:01.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9410",
+      "time": "2024-12-16T05:36:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9410",
+      "text": "Fixes timestamp alignment and adds 'Last Modified' section in patient management #9397",
+      "turnaround_time": 210852
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9417",
+      "time": "2024-12-14T10:31:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9417#issuecomment-2543046837",
+      "text": "@Jacobjeevan @Rishith25 I would like to work on this issue. Could you please assign this issue to me?...."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9417",
+      "time": "2024-12-14T10:30:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9417",
+      "text": "Enhancement Request: Improve Visibility of the 'Completed' Tag in Shifting and Resource Section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#76",
+      "time": "2024-12-14T10:00:03.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/76",
+      "text": "Update ashwinpraveengo.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9414",
+      "time": "2024-12-14T09:42:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9414#issuecomment-2543026864",
+      "text": "@bodhish Can I work on this Issue?.."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9410",
+      "time": "2024-12-13T19:01:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9410",
+      "text": "Fixes timestamp alignment and adds 'Last Modified' section in patient management #9397"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9397",
+      "time": "2024-12-12T16:23:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9397#issuecomment-2539423074",
+      "text": "@rithviknishad  I would like to work on this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9397",
+      "time": "2024-12-12T16:22:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9397",
+      "text": "Alignment Issue in Timestamps for \"Created\" and \"Last Modified\" Sections in Patient Dashboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2623",
+      "time": "2024-12-12T13:21:06.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2623#issuecomment-2538901821",
+      "text": "@Rishith25 Can u please assign this issue to me?"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/76",
+      "title": "Update ashwinpraveengo.md",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9397",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9410"
+    }
+  ]
+}

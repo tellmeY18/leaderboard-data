@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-12-18T06:26:08.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9437",
+      "time": "2024-12-18T06:26:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9437",
+      "text": "Fix: UI changes in shifting and resources pages",
+      "turnaround_time": 253172
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9437",
+      "time": "2024-12-15T09:02:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9437#issuecomment-2543582283",
+      "text": "@bodhish I have now made changes as per your request"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9437",
+      "time": "2024-12-15T08:06:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9437",
+      "text": "Fix: UI changes in shifting and resources pages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9433",
+      "time": "2024-12-14T20:02:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9433",
+      "text": "Fix: Prevent negative number input in the form fields of \"Add Triage\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

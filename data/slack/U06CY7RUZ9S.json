@@ -1496,5 +1496,2827 @@
                 }
             ]
         }
+    ],
+    "2024-11-12 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1731441855.152489",
+            "client_msg_id": "8cdaa9f1-247d-490e-9b93-e3090dd087de",
+            "text": "12 November 2024\n\n\u2022 Setup Non-Core member Question workflow <https://github.com/ohcnetwork/care_fe/pull/8889|#8889>\n\u2022 Tested out deploying <https://github.com/ohcnetwork/landing|OHC Landing>  to test cloudflare account. \n\u2022 Resolved Arike downtime and prepared an estimate for upgrading ec2 to next tier.\n\u2022 finished working on a working draft of terraform script to deploy care on digitalocean app platform\nNext\n\u2022 clean up the terraform setup \n\u2022 update the docs.\n\u2022 finish deploying the OHC Landing page",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XHvKk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 November 2024\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup Non-Core member Question workflow "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/8889",
+                                            "text": "#8889",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested out deploying "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/landing",
+                                            "text": "OHC Landing"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  to test cloudflare account. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved Arike downtime and prepared an estimate for upgrading ec2 to next tier."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finished working on a working draft of terraform script to deploy care on digitalocean app platform"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "clean up the terraform setup "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "update the docs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finish deploying the OHC Landing page"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-13 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1731519737.369929",
+            "client_msg_id": "f13dc6c0-224a-43db-b7f9-37af96864d6d",
+            "text": "13 Nov 2024\n\u2022 did cleanup on the DO-Terraform script and pushed to gh-repo\n\u2022 enabled scribe and abdm plugs in staging fe. \n\u2022 Deployed OHC Landing to test domain ",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731519737.369929",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1731522488.029659",
+            "reply_users": [
+                "UC99MFPU1",
+                "U06CY7RUZ9S"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eh1tp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Nov 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "did cleanup on the DO-Terraform script and pushed to gh-repo"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "enabled scribe and abdm plugs in staging fe. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deployed OHC Landing to test domain "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-14 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1731598313.931559",
+            "client_msg_id": "8066bea0-2202-4bc6-998f-d545a3c864ed",
+            "text": "14th November\n\u2022 Moved ohc.network to cloudflare pages. \n\u2022 made more clean up and got review from <@UC9JELJEP> on DO-Terraform setup \n\u2022 Made a bash script to generate jwks needed for new deployments. \n\u2022 Drafted cloud costing report for new state\nUp Next\n\u2022 Apply suggested changes to DO-Terraform Setup\n\u2022 Update Docs for DO-Terraform setup.",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731598313.931559",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1731663840.653319",
+            "reply_users": [
+                "UV5PPBE2D",
+                "U06CY7RUZ9S"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "81lKu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "14th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Moved ohc.network to cloudflare pages. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made more clean up and got review from "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "UC9JELJEP"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " on DO-Terraform setup "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a bash script to generate jwks needed for new deployments. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted cloud costing report for new state"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Apply suggested changes to DO-Terraform Setup"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update Docs for DO-Terraform setup."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-15 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1731705683.357509",
+            "client_msg_id": "70198797-4506-42a8-9fe6-dac1b3b93a9d",
+            "text": "Nov 15 EOD\n\u2022 Updated Docs for DigitalOcean <https://github.com/ohcnetwork/docs/pull/80|#80> .\n\u2022 Drafted Cloud Cost Sheet.\n\u2022 Had call with Datadog rep. \n\u2022 Worked on DO-Terraform folder structuring.\nNext\n\u2022 Complete cloud cost sheet\n\u2022 finish structuring terraform.\n\u2022 get  <https://github.com/ohcnetwork/docs/pull/80|#80> reviewed and merged.",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1731698678,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/docs/pull/80",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#80 added screenshots and diagrams",
+                    "title": "#80 added screenshots and diagrams",
+                    "title_link": "https://github.com/ohcnetwork/docs/pull/80",
+                    "footer": "<https://github.com/ohcnetwork/docs|ohcnetwork/docs>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "uoP1J",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Nov 15 EOD\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated Docs for DigitalOcean "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/docs/pull/80",
+                                            "text": "#80",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted Cloud Cost Sheet."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had call with Datadog rep. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on DO-Terraform folder structuring."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete cloud cost sheet"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finish structuring terraform."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "get  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/docs/pull/80",
+                                            "text": "#80",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " reviewed and merged."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-18 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1731953390.829329",
+            "client_msg_id": "db73e03f-c2c2-4809-bfda-66a20dae7cd1",
+            "text": "18th November\n\u2022 Updated <https://github.com/ohcnetwork/docs/pull/80/|#80> by adding structure to images and adding JWKS generator component. \n\u2022 performed v24.47.0 Release. \nUp Next\n\u2022 Clean up and publish DO-Terraform Script. \n\u2022 work on Improving non-core-qn workflow. ",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1731698678,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/docs/pull/80/",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#80 added screenshots and diagrams",
+                    "title": "#80 added screenshots and diagrams",
+                    "title_link": "https://github.com/ohcnetwork/docs/pull/80",
+                    "footer": "<https://github.com/ohcnetwork/docs|ohcnetwork/docs>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LJHGx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/docs/pull/80/",
+                                            "text": "#80",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " by adding structure to images and adding JWKS generator component. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "performed v24.47.0 Release. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nUp Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Clean up and publish DO-Terraform Script. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "work on Improving non-core-qn workflow. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-19 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732046468.839629",
+            "client_msg_id": "4e0e9769-c0e8-4156-bfac-defef86cd680",
+            "text": "19th November\n\u2022 restructured DO terraform scripts to modules.\n\u2022 Updated cloud Costing Sheet. \n\u2022 Resized ohifviewer VM to smaller one to reduce cost. \n\u2022 Played around with <https://instatus.com/|instatus> for uptime monitoring. \nnext\n\u2022 Test and verify working of modules in terraform \n\u2022 complete cloud costing sheet and perform measures to reduce cloud cost. ",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "image_url": "https://instatus.com/og.png?1",
+                    "image_width": 2400,
+                    "image_height": 1360,
+                    "image_bytes": 289000,
+                    "from_url": "https://instatus.com/",
+                    "service_icon": "https://instatus.com/favicon.ico",
+                    "id": 1,
+                    "original_url": "https://instatus.com/",
+                    "fallback": "Instatus - Get a quick &amp; beautiful status page!",
+                    "text": "Get a beautiful status page that's free forever on Instatus.",
+                    "title": "Instatus - Get a quick &amp; beautiful status page!",
+                    "title_link": "https://instatus.com/",
+                    "service_name": "instatus.com"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2j/Ww",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "restructured DO terraform scripts to modules."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated cloud Costing Sheet. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resized ohifviewer VM to smaller one to reduce cost. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Played around with "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://instatus.com/",
+                                            "text": "instatus"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for uptime monitoring. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Test and verify working of modules in terraform "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "complete cloud costing sheet and perform measures to reduce cloud cost. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-20 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732134314.049429",
+            "client_msg_id": "c5011ef3-f33c-4b4d-ac40-cefcb54ef4e6",
+            "text": "20th November\n\u2022 Debugged care_scribe issue with arike deployment.\n\u2022 created usage / cloud cost sheet for new state.\nNext\n\u2022 Verify care_scribe is working as expected\n",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732134314.049429",
+            "reply_count": 14,
+            "reply_users_count": 3,
+            "latest_reply": "1732213898.361689",
+            "reply_users": [
+                "UC99MFPU1",
+                "U06CY7RUZ9S",
+                "UV5PPBE2D"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cNLWd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "20th November\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged care_scribe issue with arike deployment."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "created usage / cloud cost sheet for new state."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Verify care_scribe is working as expected"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-21 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732214078.572919",
+            "client_msg_id": "ff19e0bc-b147-4ece-8f10-fe1fa178c6a9",
+            "text": "21st November 2024\n\u2022 fixed version mismatch error for care_scribe in arike\n\u2022 finished drafting the cloud cost sheet AWS | GCP | DigitalOcean \n\u2022 switched terraform setup from modules to folder based structure \n\u2022 implemented storage spaces based remote state for terraform\nUp Next:\n\u2022 test and push final changes to the digitalOcean terraform script",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732214078.572919",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1732281059.949949",
+            "reply_users": [
+                "UC99MFPU1",
+                "U06CY7RUZ9S"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vLr0a",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "21st November 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed version mismatch error for care_scribe in arike"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finished drafting the cloud cost sheet AWS | GCP | DigitalOcean "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "switched terraform setup from modules to folder based structure "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "implemented storage spaces based remote state for terraform"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Up Next:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "test and push final changes to the digitalOcean terraform script"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-22 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732301557.868289",
+            "edited": {
+                "user": "U06CY7RUZ9S",
+                "ts": "1732301781.000000"
+            },
+            "client_msg_id": "e58d1bfc-502d-47e8-a859-9439641449e0",
+            "text": "22nd November 2024\n\u2022 Customized cloud Requirement docs for new state.\n\u2022 had a call with State rep for cloud procurement. \n\u2022 disabled unused users in Arike based on request from Dr. Nithin \n\u2022 Migrated cloud cost report for palliative to notion.\n\u2022 improved Cloud Infra Diagram for Care generic Infra and Care on DigitalOcean App Platform.\nNext\n\n\u2022 Finalize the network architecture for care in ecs and update the cloud cost report \n\u2022 push the corrections for do docs PR. \n\u2022 Draft JD for new role. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "I4l8p",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22nd November 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Customized cloud Requirement docs for new state."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "had a call with State rep for cloud procurement. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "disabled unused users in Arike based on request from Dr. Nithin "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Migrated cloud cost report for palliative to notion."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "improved Cloud Infra Diagram for Care generic Infra and Care on DigitalOcean App Platform."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finalize the network architecture for care in ecs and update the cloud cost report "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "push the corrections for do docs PR. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Draft JD for new role. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-25 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732561686.805459",
+            "client_msg_id": "632b0d49-72b9-44a2-a9e5-c6412372c5ae",
+            "text": "25 November 2024\n\u2022 Pushed minor fixes for digitalocean docs. \n\u2022 Got Palliative Care cloud cost reviewed. \n\u2022 Performed weekly release for production. \n\u2022 updated non-core GitHub notification to reduce the message content to the commentUrl. \nnext.\n\u2022 test and draft a PR for non-core GitHub notification Improvement. \n\u2022 Update production scale cost for care palliative based on dev. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gd6SR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 November 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed minor fixes for digitalocean docs. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Got Palliative Care cloud cost reviewed. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Performed weekly release for production. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "updated non-core GitHub notification to reduce the message content to the commentUrl. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "next.\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "test and draft a PR for non-core GitHub notification Improvement. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update production scale cost for care palliative based on dev. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732648912.398729",
+            "client_msg_id": "ca13faf3-e7b6-4f47-a300-a0696fb9a162",
+            "text": "26 November 2024\n\u2022 Finished drafting Palliative care cost.\n\u2022 Tried to test out improved non-core-qn workflow. Workflow edits are now disabled for non admin users. \n\u2022 refactored the workflow to use slack webhook directly instead of workflow, observed no popup/opengraph info are being shown. \n\u2022 Deployed Hotfix to solve address field bug. \n\u2022 Tried out modules from scratch again with terraform to see if I can reduce redundancy in existing script. \nNext\n\u2022 decide between slack app webhook / workflow webhook for non-core questions\n\u2022 clean up and push terraform script. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hCaS+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "26 November 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finished drafting Palliative care cost."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to test out improved non-core-qn workflow. Workflow edits are now disabled for non admin users. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "refactored the workflow to use slack webhook directly instead of workflow, observed no popup/opengraph info are being shown. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deployed Hotfix to solve address field bug. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried out modules from scratch again with terraform to see if I can reduce redundancy in existing script. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "decide between slack app webhook / workflow webhook for non-core questions"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "clean up and push terraform script. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732738354.988009",
+            "client_msg_id": "f8c5a5e8-d7ed-4970-aa9a-2a8eb33af449",
+            "text": "November 27 2024\n\u2022 Edited the Slack Workflow to solve <https://github.com/ohcnetwork/care_fe/issues/9113|#9113> and tested the GitHub Action.\n\u2022 Drafted <https://github.com/ohcnetwork/care_fe/pull/9220|#9220> for improving non core user qn workflow. \n\u2022 Imported LOINC to snowstorm instance. \n\u2022 had a call with hub admin to fix shiggaon spoke. \n\u2022 Had intro call with <@U0576PEACG0> \nNext\n\u2022 Start Drafting the Middleware Reliability doc. \n\u2022 clean up state management for do-terraform",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1731580395,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/issues/9113",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9113 Improve the non-core-qn workflow",
+                    "title": "#9113 Improve the non-core-qn workflow",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/issues/9113",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1732699708,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9220 Updated Non-Core Question Workflow",
+                    "title": "#9220 Updated Non-Core Question Workflow",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7SmJi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "November 27 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Edited the Slack Workflow to solve "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/issues/9113",
+                                            "text": "#9113",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and tested the GitHub Action."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                                            "text": "#9220",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " for improving non core user qn workflow. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Imported LOINC to snowstorm instance. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "had a call with hub admin to fix shiggaon spoke. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Had intro call with "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U0576PEACG0"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Start Drafting the Middleware Reliability doc. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "clean up state management for do-terraform"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-28 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1732820684.347619",
+            "client_msg_id": "cb559744-500e-4a68-8827-d0348f7aecee",
+            "text": "29 November 2024\n\u2022 Pushed the restructured terraform script with folder structure that can deploy components individually. \n\u2022 Drafted <https://github.com/ohcnetwork/care_fe/pull/9237|#9237> to fix build failure in DigitalOcean app platform. \nNext\n\u2022 New state SDC call with sdc rep\n\u2022 review and cleanup Terraform script. ",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1732820471,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9237",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9237 Downgrading Node version from 20.11.0 to 22.5.1 for DigitalOcean",
+                    "text": "*Proposed Changes*\n\nThe DigitalOcean buildpack supports the following Node.js runtime versions for Ubuntu 22.04:  \n\u2022 4.x - 19.x  \n\u2022 20.0.0 - 20.9.0  \n\u2022 21.0.0 - 21.7.3  \n\u2022 22.0.0 - 22.5.1\n\nNode.js v20.11.0 builds fail during deployment. Downgrading to v22.5.1 resolves the issue.\n\n<https://github.com/orgs/ohcnetwork/teams/care-fe-code-reviewers|@ohcnetwork/care-fe-code-reviewers>\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *New Features*  \n   \u2022 Expanded compatibility by lowering the minimum required Node.js version, allowing users with older versions (>=22.5.1) to run the project successfully.",
+                    "title": "#9237 Downgrading Node version from 20.11.0 to 22.5.1 for DigitalOcean",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9237",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "fields": [
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bJHUJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 November 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Pushed the restructured terraform script with folder structure that can deploy components individually. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9237",
+                                            "text": "#9237",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to fix build failure in DigitalOcean app platform. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "New state SDC call with sdc rep"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "review and cleanup Terraform script. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-02 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1733164816.460499",
+            "edited": {
+                "user": "U06CY7RUZ9S",
+                "ts": "1733164930.000000"
+            },
+            "client_msg_id": "6912a14b-3b3a-452f-8287-9b9dd309e5d9",
+            "text": "2nd December 2024\n\u2022 Worked on grafana dashboards for community deployments. \n\u2022 Performed production release.\n\u2022 worked on fixing dh-loong / dmmdh-wokha middleware issues.\nNext\n\u2022 fix the Staging/production CI/CD pipeline to show build / deploy status. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "L3UOJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "2nd December 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on grafana dashboards for community deployments. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Performed production release."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked on fixing dh-loong / dmmdh-wokha middleware issues."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix the Staging/production CI/CD pipeline to show build / deploy status. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-05 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1733423581.454359",
+            "client_msg_id": "f11c0863-e93b-40ba-87e8-11763429a7bf",
+            "text": "December 3 2024\n\u2022 resolved coderabbit comments on <https://github.com/ohcnetwork/care_fe/pull/9220|#9220> \n\u2022 Drafted new GCP workflow to send build status notification to slack.\n\u2022 tested out Coolify. \n\u2022 Performed delayed weekly Production release\nDecember 4 2024\n\u2022 Merged <https://github.com/ohcnetwork/care_fe/pull/9220|#9220>  and tested the updated Questions from github workflow. \n\u2022 Updated <https://github.com/ohcnetwork/care_fe/pull/9237|#9237> to use ^22.11.0 \n\u2022 fixed middlewares longleng and wokha\nDecember 5\n\u2022 deployed Medispeak to Coolify, figuring out how to proxy it. \n\u2022 Created Slack notification channel for GCP-Staging Build/deploy pipeline and configured the cloudbuild to send updates. \nNext\n\u2022 Fix digitalocean build failure that's happening because of wrong buildpack\n\u2022 Proxy to make medispeak available \n\u2022 Attend Gnome Asia Summit 2024 BLR.\n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1732699708,
+                    "color": "6f42c1",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9220 Updated Non-Core Question Workflow",
+                    "title": "#9220 Updated Non-Core Question Workflow",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1732820471,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_fe/pull/9237",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9237 Downgrading Node version from 22.11.0 to 22.5.1 for DigitalOcean",
+                    "title": "#9237 Downgrading Node version from 22.11.0 to 22.5.1 for DigitalOcean",
+                    "title_link": "https://github.com/ohcnetwork/care_fe/pull/9237",
+                    "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HvUf1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 3 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "resolved coderabbit comments on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                                            "text": "#9220",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted new GCP workflow to send build status notification to slack."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tested out Coolify. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Performed delayed weekly Production release"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 4 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Merged "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9220",
+                                            "text": "#9220",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  and tested the updated Questions from github workflow. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updated "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_fe/pull/9237",
+                                            "text": "#9237",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to use ^22.11.0 "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fixed middlewares longleng and wokha"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 5\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "deployed Medispeak to Coolify, figuring out how to proxy it. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created Slack notification channel for GCP-Staging Build/deploy pipeline and configured the cloudbuild to send updates. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nNext\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix digitalocean build failure that's happening because of wrong buildpack"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Proxy to make medispeak available "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attend Gnome Asia Summit 2024 BLR."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-09 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1733767395.171949",
+            "client_msg_id": "a1f586f5-03bf-4c54-89c4-1d72eae85a77",
+            "text": "9 December 2024\n\u2022 Went to the Office. \n\u2022 Played around with coolify and deployed snowstorm \n\u2022 made updates to palliative cloud cost doc. \n\u2022 Performed weekly Production release. \nNext\n\u2022 Document coolify deployments. \n\u2022 Improve slack notification for staging build. \n\u2022 fix digitalocean deployment with proper node version. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9aILE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "9 December 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Went to the Office. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Played around with coolify and deployed snowstorm "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "made updates to palliative cloud cost doc. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Performed weekly Production release. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Document coolify deployments. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improve slack notification for staging build. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "fix digitalocean deployment with proper node version. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1733724128.660509",
+            "client_msg_id": "f920434c-70a3-46cb-95b1-0bd2f047a098",
+            "text": "Nov 06 2024\n\u2022 Attended Gnome Asia Summit 2024. \n\u2022 Fixed Longleng and Wokha Middlewares\nNext\n\u2022 Deploy Snowstorm on Coolify\n\u2022 Update palliative cloud docs. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vQMmF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Nov 06 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Attended Gnome Asia Summit 2024. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fixed Longleng and Wokha Middlewares"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Deploy Snowstorm on Coolify"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update palliative cloud docs. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "date",
+                    "users": [
+                        "U0576PEACG0"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-12-10 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1733853342.109899",
+            "edited": {
+                "user": "U06CY7RUZ9S",
+                "ts": "1733853436.000000"
+            },
+            "client_msg_id": "9ccd465a-22a3-4618-b5f4-cbe8253d23ee",
+            "text": "10 December 2024\n\u2022 Loaded ICD 10 to coolify snowstorm instance. \n\u2022 Worked on setting up wildcard domains for coolify\n\u2022 Debugged Medispeak. \nNext\n\u2022 Fix medispeak on coolify. \n\u2022 Update terminology server docs for loading extensions. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WfXG6",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "10 December 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Loaded ICD 10 to coolify snowstorm instance. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on setting up wildcard domains for coolify"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged Medispeak. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix medispeak on coolify. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update terminology server docs for loading extensions. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-12 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1733983247.859939",
+            "client_msg_id": "a06d4ede-6fda-4b71-af36-cc88f82fb5a2",
+            "text": "11 December \n\u2022 Troubleshooted ssmm middleware for plexus deployment.\n\u2022 Debugged medispeak backend image \nNext \n\u2022 Take db backups for prod \n\u2022 Update prod db versions to latest. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pExTC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11 December \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Troubleshooted ssmm middleware for plexus deployment."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Debugged medispeak backend image "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next \n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Take db backups for prod "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update prod db versions to latest. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-16 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1734383206.754319",
+            "client_msg_id": "d8583591-3ddc-4497-a92c-aa04d2c42fc5",
+            "text": "Dec 13\n\u2022 Drafted Network requirements for spoke hospitals. \n\u2022 Tested out SNS for sending SMS \nDec 15\n\u2022 Tried to enable HCX to DO deployment. \n\u2022 found pydantic version issues with HCX notified <@U01JB8L8P7Y> \nDec 16\n\u2022 Opened Limit increase request for SNS \n\u2022 tried out more ways to debug medispeak in coolify. \n\u2022 performed weekly production release, rescheduled to tomorrow due to NPM server issues. \nNext\n\u2022 Hope NPM issues get resolved and perform weekly prod release\n\u2022 Get SNS ready to go and setup SMS Gateway for DO Deployment\n\u2022 Get <https://github.com/ohcnetwork/care_hcx/pull/8|#8> and <https://github.com/ohcnetwork/care/pull/2652|#2652> merged to enable HCX on DO Deployment. \n",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1734272406,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care_hcx/pull/8",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#8 Bumped fhir.resources to 7.1.0 to support pydantic v2",
+                    "title": "#8 Bumped fhir.resources to 7.1.0 to support pydantic v2",
+                    "title_link": "https://github.com/ohcnetwork/care_hcx/pull/8",
+                    "footer": "<https://github.com/ohcnetwork/care_hcx|ohcnetwork/care_hcx>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1734272429,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/ohcnetwork/care/pull/2652",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#2652 Bumped fhir.resources to 7.1.0 to support pydantic v2",
+                    "title": "#2652 Bumped fhir.resources to 7.1.0 to support pydantic v2",
+                    "title_link": "https://github.com/ohcnetwork/care/pull/2652",
+                    "footer": "<https://github.com/ohcnetwork/care|ohcnetwork/care>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WF8J1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 13\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Drafted Network requirements for spoke hospitals. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tested out SNS for sending SMS "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 15\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tried to enable HCX to DO deployment. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "found pydantic version issues with HCX notified "
+                                        },
+                                        {
+                                            "type": "user",
+                                            "user_id": "U01JB8L8P7Y"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Dec 16\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Opened Limit increase request for SNS "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tried out more ways to debug medispeak in coolify. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "performed weekly production release, rescheduled to tomorrow due to NPM server issues. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Hope NPM issues get resolved and perform weekly prod release"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get SNS ready to go and setup SMS Gateway for DO Deployment"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Get "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care_hcx/pull/8",
+                                            "text": "#8",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/ohcnetwork/care/pull/2652",
+                                            "text": "#2652",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " merged to enable HCX on DO Deployment. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-17 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1734462716.345449",
+            "client_msg_id": "04693c19-9f57-41de-9745-fc1e1e3d0497",
+            "text": "December 17 2024\n\u2022 Kept checking <https://github.com/npm/cli/issues/7893|#7893> and <https://status.npmjs.org/incidents/bxvmmvlqzfds|Incident Report npmjs> and performed delayed weekly release succesfully \n\u2022 Setup SNS SMS Gateway for DO Deployment and verified working from sandbox.\n\u2022 Followed up on resource quota increase. \nNext\n\u2022 Improve AWS pipeline and gcp staging pipelines. ",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1730751903,
+                    "color": "8250df",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/npm/cli/issues/7893",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7893 [BUG] npm fails install of any packages - TAR_BAD_ARCHIVE",
+                    "text": "*Is there an existing issue for this?*\n\n\u2022 I have searched the existing issues\n\n*This issue exists in the latest npm version*\n\n\u2022 I am using the latest npm\n\n*Current Behavior*\n\n`npm` fails to install any packages, downloading any dependency related to `eslint` causes `TAR_BAD_ARCHIVE` error.\n\nHere's what I tried:\n\n\u2022 clean npm caches - doesn't help!\n\u2022 `npm audit verify` , `npm audit fix`, `npm audit fix --force`\n\u2022 delete & reinstall npm (various attempts with various protocols for deletion and installation)\n\u2022 tried to disable `eslint`, but react app creation scripts contain it by default\n\u2022 tried to upgrade `eslint` version, but I get the same `TAR_BAD_ARCHIVE` when `eslint` is being installed\n\nHere are the failed downloads from the logs after running `npm install`, `npm init @eslint/config@latest` or any other package install that has dependencies on `eslint`:\n\n```\n7097 http fetch GET 304 <https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz> 864ms (cache skip)\n7098 warn tar TAR_BAD_ARCHIVE: Unrecognized archive format\n7099 silly tar Error: TAR_BAD_ARCHIVE: Unrecognized archive format\n7099 silly tar     at Unpack.warn (/usr/local/lib/node_modules/npm/node_modules/tar/lib/warn-mixin.js:21:40)\n7099 silly tar     at Unpack.warn (/usr/local/lib/node_modules/npm/node_modules/tar/lib/unpack.js:236:18)\n7099 silly tar     at Unpack.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:83:14)\n7099 silly tar     at Unpack.emit (node:events:530:35)\n7099 silly tar     at [emit] (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:313:12)\n7099 silly tar     at [maybeEnd] (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:468:17)\n7099 silly tar     at [consumeChunk] (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:476:21)\n7099 silly tar     at Unpack.write (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:427:25)\n7099 silly tar     at Unpack.end (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:548:14)\n7099 silly tar     at Pipe.end (/usr/local/lib/node_modules/npm/node_modules/minipass/dist/commonjs/index.js:116:23) {\n7099 silly tar   recoverable: false,\n7099 silly tar   cwd: '/Users/gevorg.sargsyan/Projects/dev/js/fireship-memento/node_modules/fast-deep-equal',\n7099 silly tar   code: 'TAR_BAD_ARCHIVE',\n7099 silly tar   tarCode: 'TAR_BAD_ARCHIVE'\n7099 silly tar }\n\n```\n\n```\n7146 silly packumentCache corgi:<https://registry.npmjs.org/@svgr%2fwebpack> cache-miss\n7147 http fetch GET 200 <https://registry.npmjs.org/@svgr%2fwebpack> 68ms (cache hit)\n7148 silly packumentCache corgi:<https://registry.npmjs.org/@svgr%2fwebpack> set size:85201 disposed:false\n7149 warn deprecated workbox-core@6.6.1: this package has been deprecated\n7150 warn deprecated workbox-core@6.6.1: this package has been deprecated\n7151 warn deprecated workbox-core@6.6.1: this package has been deprecated\n7152 warn deprecated eslint@8.57.1: This version is no longer supported. Please see <https://eslint.org/version-support> for other options.\n7153 verbose stack Error: TAR_BAD_ARCHIVE: Unrecognized archive format\n7153 verbose stack     at Unpack.warn (/usr/local/lib/node_modules/npm/node_modules/tar/lib/warn-mixin.js:21:40)\n7153 verbose stack     at Unpack.warn (/usr/local/lib/node_modules/npm/node_modules/tar/lib/unpack.js:236:18)\n7153 verbose stack     at Unpack.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:83:14)\n7153 verbose stack     at Unpack.emit (node:events:530:35)\n7153 verbose stack     at [emit] (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:313:12)\n7153 verbose stack     at [maybeEnd] (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:468:17)\n7153 verbose stack     at [consumeChunk] (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:476:21)\n7153 verbose stack     at Unpack.write (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:427:25)\n7153 verbose stack     at Unpack.end (/usr/local/lib/node_modules/npm/node_modules/tar/lib/parse.js:548:14)\n7153 verbose stack     at Pipe.end (/usr/local/lib/node_modules/npm/node_modules/minipass/dist/commonjs/index.js:116:23)\n7154 error code TAR_BAD_ARCHIVE\n7155 error TAR_BAD_ARCHIVE: Unrecognized archive format\n7156 silly unfinished npm timer reify 1730736384828\n7157 silly unfinished npm timer reify:unpack 1730736388377\n7158 silly unfinished npm timer reifyNode:node_modules/fast-deep-equal 1730736388382\n\n```\n\n*Expected Behavior*\n\nThe packages should be installed, and .tgz archives normally downloaded.\n\n*Steps To Reproduce*\n\n_No response_\n\n*Environment*\n\n\u2022 npm: 10.9.0\n\u2022 Node.js: v22.11.0\n\u2022 OS Name: MacOS Sonoma 14.5",
+                    "title": "#7893 [BUG] npm fails install of any packages - TAR_BAD_ARCHIVE",
+                    "title_link": "https://github.com/npm/cli/issues/7893",
+                    "footer": "<https://github.com/npm/cli|npm/cli>",
+                    "fields": [
+                        {
+                            "value": "Bug, Needs Triage",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "48",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8x3Zv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "December 17 2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Kept checking "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/npm/cli/issues/7893",
+                                            "text": "#7893",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://status.npmjs.org/incidents/bxvmmvlqzfds",
+                                            "text": "Incident Report npmjs"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and performed delayed weekly release succesfully "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Setup SNS SMS Gateway for DO Deployment and verified working from sandbox."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Followed up on resource quota increase. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Improve AWS pipeline and gcp staging pipelines. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

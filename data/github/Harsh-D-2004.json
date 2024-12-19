@@ -1,0 +1,56 @@
+{
+  "last_updated": "2024-12-07T11:27:48.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2482",
+      "time": "2024-12-07T11:27:48.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2482#issuecomment-2525078565",
+      "text": "@sainak @vigneshhari \n\nI have written an external script which will convert the strings in help_text , verbose_name , validation errors and strings in dictionary formats to lazy transaltions\n\nShould i raise a PR to review the script before running on codebase?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2482",
+      "time": "2024-12-05T12:32:27.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2482#issuecomment-2520196161",
+      "text": "Where are the hardcoded strings in codebase to convert them to lazy?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#725",
+      "time": "2024-12-05T10:17:08.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/725#issuecomment-2519862736",
+      "text": "@gigincg \nIs this resolved or can i be assigned this?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#1338",
+      "time": "2024-12-05T10:04:28.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/1338#issuecomment-2519828324",
+      "text": "@sainak Can u assign me this??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2482",
+      "time": "2024-12-04T12:24:07.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2482#issuecomment-2517204719",
+      "text": "@sainak \nCan u assign me this??"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2383",
+      "time": "2024-12-04T12:22:13.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2383#issuecomment-2517200411",
+      "text": "Ok "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care#2383",
+      "time": "2024-12-04T11:21:42.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2383#issuecomment-2517034978",
+      "text": "Hey can i pick this issue up?\n@sainak \n"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

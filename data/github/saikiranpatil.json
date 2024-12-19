@@ -1,0 +1,140 @@
+{
+  "last_updated": "2024-12-18T10:33:43.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-18T10:33:43.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358#issuecomment-2550961394",
+      "text": "@rithviknishad i am not used to useQuery, might be having some mistakes, please review.\r\n\r\nif we are moving from FormText components to shadcn forms, why not create issues regarding the same"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9379",
+      "time": "2024-12-17T03:47:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9379#issuecomment-2547445494",
+      "text": "@nihal467 @rithviknishad please review this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9379",
+      "time": "2024-12-13T13:20:57.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9379#issuecomment-2541451880",
+      "text": "@ohcnetwork/care-fe-code-reviewers \r\n\r\nI had made commit with time taking hour as 12 for 12 am or pm, it failed 1 test, but when i reverted it back to 00 it passed all the test cases.\r\n\r\nI tried to run cypress tests locally, but, in all tests, page was loading till timeout\r\n\r\nPlease guide me on how to proceed further"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9401",
+      "time": "2024-12-13T06:49:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9401#issuecomment-2540671240",
+      "text": "@nihal467 can I work on this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-12T07:32:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358#issuecomment-2538020294",
+      "text": "> Let's also switch to using shadcn's input fields from the `ui` directory!\r\n\r\n@rithviknishad  were the recent changes made as expected?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-12T07:25:14.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358#issuecomment-2538008714",
+      "text": "i also tried to change the color to gray (color used in few elements) as below, let me know if looks better\r\n![image](https://github.com/user-attachments/assets/73b03aab-08fd-4a37-9bb0-7d23f0a51e37)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-12T07:24:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358#issuecomment-2538008382",
+      "text": "> Let's also switch to using shadcn's input fields from the `ui` directory!\r\n\r\n@rithviknishad was the recent commit as expected?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-12T07:13:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358#issuecomment-2537990408",
+      "text": "> I don't think the color scheme fits with rest of the UI 🤔 Plus, we should probably add the note as a badge on Location management page. I'll ping the design team in Slack for feedback.\r\n\r\nagreed,\r\ni changed text to badge in location management as below \r\n![image](https://github.com/user-attachments/assets/1cc91bae-61bd-4b82-95d3-65c4e3d5f3e7)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-12T04:22:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358#issuecomment-2537782897",
+      "text": "@ohcnetwork/care-fe-code-reviewers @nihal467 please review this PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8994",
+      "time": "2024-12-11T12:47:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8994#issuecomment-2535899929",
+      "text": "@nihal467 i have created a PR, please review it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9379",
+      "time": "2024-12-11T12:43:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9379",
+      "text": "enhanced Date Time component"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-12-11T08:46:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2535183676",
+      "text": "@nihal467 i have created a PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-12-10T19:02:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2532634828",
+      "text": "> * [ ]  Implement a similar pre-filling behavior in the placeholder and fine text for the location management edit page.\n\nwhen the location middleware is empty, what is the use  of prefetching in edit location page. doesn't that lead to confusion. I kept it empty for now, should i make any changes in that?\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9358",
+      "time": "2024-12-10T18:56:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9358",
+      "text": "UX Enhancement for Middleware Override Workflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-12-07T12:06:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2525088409",
+      "text": "shall i create a PR?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-12-07T11:36:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2525080599",
+      "text": "sorry @nihal467, i was unable to complete this these days. But now i have made changes so that the page looks like this\n\n![Image](https://github.com/user-attachments/assets/05b2f280-da46-46f8-927f-ee7bc815752f)\nas you mentioned we have various cases to show messages, so I have added a new attribute `message` to `FormFeild` component to display messages.\n\nI found this color and font weight of the message suitable, please let me know if we need any changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-09-10T14:04:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2340918085",
+      "text": "i am having trouble in understanding, can anyone explain how to reproduce the above, and what changes are to be added."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-09-10T12:21:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2340554198",
+      "text": "> @saikiranpatil are you still interested in working on this issue\r\n\r\nYes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8335",
+      "time": "2024-09-01T16:46:22.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8335#issuecomment-2323421594",
+      "text": "I am interested to solve this issue, but i am having trouble in understanding, can anyone explain how to reproduce the above, and what changes are to be added. @gigincg @nihal467 "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

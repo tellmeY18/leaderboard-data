@@ -1,0 +1,507 @@
+{
+  "last_updated": "2024-12-17T19:31:09.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9413",
+      "time": "2024-12-17T19:31:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9413#issuecomment-2549431757",
+      "text": "@rithviknishad "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9479",
+      "time": "2024-12-17T19:24:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9479",
+      "text": "FIXED: The APPROVAL LETTER is not wrapped with the <PrintPreview> component"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9324",
+      "time": "2024-12-17T17:43:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9324#issuecomment-2549150187",
+      "text": "@rithviknishad  If @Rajasimhareddybolla is not working on this issue, I would like to take it up"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9467",
+      "time": "2024-12-17T15:41:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9467#issuecomment-2548797217",
+      "text": "@Jacobjeevan please check the updation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9467",
+      "time": "2024-12-16T19:42:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9467",
+      "text": "FIXED: The assets configuration page lacks mobile responsiveness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9465",
+      "time": "2024-12-16T16:40:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9465#issuecomment-2546115999",
+      "text": "@Jacobjeevan  i would like to work on this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9465",
+      "time": "2024-12-16T16:37:51.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9465",
+      "text": "The assets configuration page lacks mobile responsiveness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#562",
+      "time": "2024-12-16T15:27:45.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/562#issuecomment-2545930573",
+      "text": "@rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9413",
+      "time": "2024-12-16T15:27:13.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9413#issuecomment-2545928938",
+      "text": "@Jacobjeevan can you please check the updation "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard#562",
+      "time": "2024-12-14T18:35:54.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/562",
+      "text": "FIXED: Leaderboard list responsivness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#561",
+      "time": "2024-12-14T10:25:20.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/561#issuecomment-2543044909",
+      "text": "@rithviknishad  i would like to work on this "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/leaderboard#561",
+      "time": "2024-12-14T10:23:50.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/561",
+      "text": "The leaderboard list lacks mobile responsiveness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9413",
+      "time": "2024-12-14T07:00:38.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9413#issuecomment-2542914643",
+      "text": "@nihal467 can you review"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9413",
+      "time": "2024-12-14T06:21:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9413",
+      "text": "FIXED: Implement Dropdown for Hidden Breadcrumb Paths Across the Platform"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9369",
+      "time": "2024-12-11T08:57:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9369#issuecomment-2535228987",
+      "text": "@nihal467 I would like continue "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-12-09T09:13:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138",
+      "text": "Updated Test Details page form UI",
+      "turnaround_time": 2029729
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-12-07T09:04:31.000Z",
+      "title": "ohcnetwork/care_fe#9327",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9327#pullrequestreview-2486464139",
+      "text": "FIX : Formatting of Approval Letter "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9327",
+      "time": "2024-12-07T11:36:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9327#issuecomment-2525080581",
+      "text": "Don't want to remove it, try like this. \r\n![Screenshot_20241207_165632_Chrome](https://github.com/user-attachments/assets/63a9dbbe-98de-412a-898a-6a3975f47401)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9327",
+      "time": "2024-12-07T09:34:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9327#issuecomment-2525050573",
+      "text": "@Rajasimhareddybolla  yes "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-12-07T08:55:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138#issuecomment-2525037958",
+      "text": "@rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9324",
+      "time": "2024-12-06T19:27:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9324#issuecomment-2524007699",
+      "text": "@Jacobjeevan  i would like to work on this "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9324",
+      "time": "2024-12-06T19:25:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9324",
+      "text": "The APPROVAL LETTER is not wrapped with the <PrintPreview> component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-12-03T15:30:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954",
+      "text": "Referral letter preview desktop",
+      "turnaround_time": 3111011
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-12-03T14:31:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2514728625",
+      "text": "@rithviknishad what change should I make ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-12-03T01:18:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138#issuecomment-2513331065",
+      "text": "\r\n![Screenshot 2024-12-03 064026](https://github.com/user-attachments/assets/85297294-8802-4664-baba-1e4d9cb1a230)\r\nThe production code's status result is already like this\r\n\r\n\r\n![Screenshot 2024-12-03 064532](https://github.com/user-attachments/assets/5a27cac8-cb14-4523-95ed-ab0e47883ec1)\r\nTranslation compared and corrected\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-12-02T14:20:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2511671169",
+      "text": "@Jacobjeevan"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-12-01T19:32:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138#issuecomment-2510219884",
+      "text": "@Jacobjeevan  Button updated\r\n![Screenshot 2024-12-02 005623](https://github.com/user-attachments/assets/f7eeef44-7a08-4e9b-b9cf-b3ef549566df)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-12-01T13:39:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138#issuecomment-2509774681",
+      "text": "> Let's replace the ButtonV2 on page with button from ui 👍\r\n\r\n@Jacobjeevan  replace buttonV2 and add shadcn Button from ui is that ok"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-11-30T17:53:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138#issuecomment-2509096711",
+      "text": "> @modamaan Test 4 is failing.\r\n\r\n @Jacobjeevan  Test 4 is failing solved"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-30T09:50:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2508905471",
+      "text": "updated\r\n![Screenshot 2024-11-30 144736](https://github.com/user-attachments/assets/e0a6f97c-2ba0-4e29-910c-736629f9b288)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-28T06:55:54.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2505384935",
+      "text": "@rithviknishad @nihal467 "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-27T10:43:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2503537093",
+      "text": "The problem is that we need both the print button and the close button in a single div to manage responsiveness. However, the print button is inside the PrintPreview component, while the close button is outside the component."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-27T10:38:31.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2503525817",
+      "text": "Create a new ReferralLetterPreview component that wraps PrintPreview, shall i do it like this"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-24T06:59:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2495843851",
+      "text": "@nihal467 can you check,  sorry for being late I have an exam"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-24T06:56:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2495843277",
+      "text": "updated\r\nUploading newloom.mp4…\r\n\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-11-23T17:40:00.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138#issuecomment-2495554157",
+      "text": "@nihal467 can you check"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9074",
+      "time": "2024-11-12T06:09:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9074#issuecomment-2469685971",
+      "text": "@rithviknishad \r\nhttps://github.com/user-attachments/assets/73170331-1519-450a-8c86-cc682e0a7b21\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9074",
+      "time": "2024-11-11T15:09:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9074#issuecomment-2468403261",
+      "text": "![Screenshot 2024-11-11 203615](https://github.com/user-attachments/assets/893d422e-2fb5-421b-83a6-052c02bf54fc)\r\nDo you want to update this component?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/leaderboard-data#70",
+      "time": "2024-11-11T14:53:54.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/70",
+      "text": "Update modamaan.md",
+      "turnaround_time": 557666
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9074",
+      "time": "2024-11-10T01:40:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9074",
+      "text": "Consultation update page form UI updated"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-09T03:21:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2466015142",
+      "text": "Desktop View is done,  responsiveness facing issues, now go with Desktop View "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-11-06T18:01:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2460440302",
+      "text": "@nihal467  now only focus on desktop view, phone size i have facing issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#70",
+      "time": "2024-11-05T03:59:29.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/70",
+      "text": "Update modamaan.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8970",
+      "time": "2024-10-31T19:38:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8970#issuecomment-2450680401",
+      "text": "@Jacobjeevan \r\nBefore\r\n![Screenshot 2024-11-01 001922](https://github.com/user-attachments/assets/31f2e5df-0eb6-4864-832b-d5fba08aae30)\r\n\r\nAfter\r\n![Screenshot 2024-11-01 010750](https://github.com/user-attachments/assets/edfc2318-e92d-40c0-b8a0-0db027d34120)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8975",
+      "time": "2024-10-31T18:51:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8975#issuecomment-2450603333",
+      "text": "@Jacobjeevan i would like to correct this, can you assign to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8975",
+      "time": "2024-10-31T18:50:27.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8975",
+      "text": "Dive section overflow on phone screen"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-10-29T13:57:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2444350572",
+      "text": "![Screenshot 2024-10-29 192122](https://github.com/user-attachments/assets/57bd9f60-a2f0-4cf5-a942-507885f9a15c)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-10-29T01:28:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954#issuecomment-2442978934",
+      "text": "@bodhish   should i update anything?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8954",
+      "time": "2024-10-28T15:19:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8954",
+      "text": "Referral letter preview desktop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8953",
+      "time": "2024-10-28T14:59:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8953",
+      "text": "Desktop referral letter updated"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-28T14:12:38.000Z",
+      "title": "ohcnetwork/care_fe#8933",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8933#pullrequestreview-2399223444",
+      "text": "responsive: shiftingDetails page and Breadcrumbs added phone and desktop"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8933",
+      "time": "2024-10-28T14:06:50.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8933#issuecomment-2441691760",
+      "text": " @bodhish  ![Screenshot 2024-10-28 193508](https://github.com/user-attachments/assets/b3aa1a0e-26f4-4789-9662-217a7448f568)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8936",
+      "time": "2024-10-27T10:29:46.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8936",
+      "text": "FiXED: Referral Letter preview UI and responsiveness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8933",
+      "time": "2024-10-27T00:30:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8933#issuecomment-2439781083",
+      "text": "## Proposed Changes\r\n add responsive shadcn breadcrumbs\r\n\r\n- Fixes #8831 \r\n\r\nCurrent version\r\n![Screenshot 2024-10-27 055208](https://github.com/user-attachments/assets/04d123f1-5b20-4037-a36a-2d97f47b040c)\r\n\r\nLast item broken\r\n\r\n![Screenshot 2024-10-27 055401](https://github.com/user-attachments/assets/24d42762-966d-4995-89ff-241ff850f464)\r\n\r\nNo dropdown here\r\n\r\nUpdated version\r\n\r\n![Screenshot 2024-10-27 055745](https://github.com/user-attachments/assets/bd7fd764-3b87-4d0e-8b09-86007d10c358)\r\nLast item broken issue solved\r\n\r\n![Screenshot 2024-10-27 055906](https://github.com/user-attachments/assets/a68e54a6-ee9b-465d-91f0-686a3c9daaa1)\r\nShadcn Dropdown added\r\n\r\n@ohcnetwork/care-fe-code-reviewers\r\n\r\n## Merge Checklist\r\n\r\n- [ ] Add specs that demonstrate bug / test a new feature.\r\n- [ ] Update [product documentation](https://docs.ohc.network).\r\n- [ ] Ensure that UI text is kept in I18n files.\r\n- [ ] Prep screenshot or demo video for changelog entry, and attach it to issue.\r\n- [ ] Request for Peer Reviews\r\n- [ ] Completion of QA"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8933",
+      "time": "2024-10-27T00:13:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8933#issuecomment-2439776014",
+      "text": " @shivankacker https://github.com/ohcnetwork/care_fe/pull/8833#issuecomment-2425499268"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-25T08:05:36.000Z",
+      "title": "ohcnetwork/care_fe#8860",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8860#pullrequestreview-2394518534",
+      "text": "Fixed shifting details page responsiveness and add shadcn Breadcrump"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8860",
+      "time": "2024-10-23T16:29:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8860#issuecomment-2432800380",
+      "text": "@rithviknishad can you check the updates "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8860",
+      "time": "2024-10-22T04:28:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8860#issuecomment-2428210470",
+      "text": "![Screenshot 2024-10-22 095006](https://github.com/user-attachments/assets/f8689646-107c-4c19-8e79-7c7909eb65bd)\r\n![Screenshot 2024-10-22 095502](https://github.com/user-attachments/assets/672b087f-920d-4ee1-aade-ac8fa0c1db68)\r\n\r\nthere is no ` <BreadcrumbSeparator />` shadcn at the end,  If you'd like let me know"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8860",
+      "time": "2024-10-22T02:31:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8860#issuecomment-2428084413",
+      "text": " shadcn added https://ui.shadcn.com/docs/components/breadcrumb\r\n\r\nhttps://github.com/user-attachments/assets/0ae0e78c-5673-4265-a7d5-69ce8e02eb87\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8833",
+      "time": "2024-10-22T02:24:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8833#issuecomment-2428078482",
+      "text": "I'm facing issues while trying to push to the repository again\r\n![Screenshot 2024-10-22 075203](https://github.com/user-attachments/assets/6593ea53-6376-454f-a5f6-8704628eee5e)\r\n@bodhish https://github.com/ohcnetwork/care_fe/pull/8860"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8860",
+      "time": "2024-10-22T02:15:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8860",
+      "text": "Fixed shifting details page responsiveness and add shadcn Breadcrump"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8831",
+      "time": "2024-10-20T12:30:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8831#issuecomment-2424904170",
+      "text": "@Ashesh3 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8833",
+      "time": "2024-10-19T19:48:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8833",
+      "text": "Fixed shifting details page responsiveness"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8831",
+      "time": "2024-10-19T19:21:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8831#issuecomment-2424154917",
+      "text": "i have solved the issue    https://github.com/user-attachments/assets/8a5db85b-1537-44d6-a7ce-fe27f8912d76\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8831",
+      "time": "2024-10-19T18:43:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8831",
+      "text": "phone size responsive issue shifting details page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard-data#67",
+      "time": "2024-10-22T16:08:13Z",
+      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/67",
+      "text": "Update and rename AnveshNalimela.md to Mohamed_Amaan.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8933",
+      "time": "2024-10-26T17:27:28Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8933",
+      "text": "responsive: shiftingDetails page and Breadcrumbs added phone and desktop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8970",
+      "time": "2024-10-30T14:07:55Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8970",
+      "text": "fixed: sample details page button position"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8970",
+      "time": "2024-11-05T00:43:26Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8970",
+      "text": "fixed: sample details page button position"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8971",
+      "time": "2024-10-30T15:16:54Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8971",
+      "text": " fixed responsive: shiftingDetails page and Breadcrumbs added phone and desktop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9138",
+      "time": "2024-11-15T21:24:18Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9138",
+      "text": "Updated Test Details page form UI"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,888 @@
+{
+    "2024-10-29 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730225265.478479",
+            "client_msg_id": "fef25f28-0ce9-4a5c-8112-9acb8347159c",
+            "text": "29 Oct 2024\nDone\n\u2022worked on PR#8882\nNext\n\u2022 look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hVYJP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "29 Oct 2024\nDone\n\u2022worked on PR#8882\nNext\n\u2022 look for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730180586.054489",
+            "client_msg_id": "47e61a9d-b327-4335-aa0b-31bb5ad0814f",
+            "text": "28  Oct 2024\nDone\n\u2022 worked on PR#8930\nNext\n\u2022looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7t3dZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28  Oct 2024\nDone\n\u2022 worked on PR#8930\nNext\n\u2022looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-28 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730057224.800889",
+            "client_msg_id": "e7f5853b-d944-4151-8501-0ddf2644ca4d",
+            "text": "27 Oct 2024:\nDONE\n\u2022raised PR #8930\n\u2022working on changes required in previous PRS\nNEXT\n\u2022complete the existing PR Issues\n\u2022look for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "R8aE4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27 Oct 2024:\nDONE\n\u2022raised PR #8930\n\u2022working on changes required in previous PRS\nNEXT\n\u2022complete the existing PR Issues\n\u2022look for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-26 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729921273.343009",
+            "edited": {
+                "user": "U07RPJ2KZD4",
+                "ts": "1729921383.000000"
+            },
+            "client_msg_id": "5e21b3b4-ccdb-4f43-9971-0825be884863",
+            "text": "25 Oct 2024:\nDone:\n-worked on issue #8929\n-raised a PR#8930\nNext:\n-fixing issue in previous PR\n-looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "0U7ii",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Oct 2024:\nDone:\n-worked on issue #8929\n-raised a PR#8930\nNext:\n-fixing issue in previous PR\n-looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-25 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729851096.793929",
+            "edited": {
+                "user": "U07RPJ2KZD4",
+                "ts": "1729851154.000000"
+            },
+            "client_msg_id": "e6ba6c67-4c73-4609-bbfa-1e01f31c0449",
+            "text": "24 October 2024\nDone\nNo work done \nNext\nLooking for issues \nResolve earlier PR Issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3ApTQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "24 October 2024\nDone\nNo work done \nNext\nLooking for issues \nResolve earlier PR Issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-23 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729692833.487919",
+            "client_msg_id": "00f66580-9933-4285-b05b-986034ab2557",
+            "text": "23 Oct 2033\nDone\n-raised on issue #8890\nNext\nLooking for issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YNpkF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "23 Oct 2033\nDone\n-raised on issue #8890\nNext\nLooking for issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729657513.475159",
+            "client_msg_id": "71dfeb5f-2423-4315-80a3-1641eb502945",
+            "text": "22 October\nDone\n Raised issue #2258\nRaised Pr #8882\nNext\n Looking for issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CPDoQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "22 October\nDone\n Raised issue #2258\nRaised Pr #8882\nNext\n Looking for issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-19 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729357484.362609",
+            "edited": {
+                "user": "U07RPJ2KZD4",
+                "ts": "1729357592.000000"
+            },
+            "client_msg_id": "9f2a83d8-3063-4d04-9e5d-ee48c9b06a3f",
+            "text": "19 October. Working on issue #8826",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+Iu+M",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "19 October. Working on issue #8826"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-18 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729270200.023359",
+            "edited": {
+                "user": "U07RPJ2KZD4",
+                "ts": "1729270232.000000"
+            },
+            "client_msg_id": "2c1ecce7-3c08-4298-b8cd-092c77723365",
+            "text": "18  October \nDone:\n\u2022working on issue #8826\n\nNext:\n\u2022 look for other issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "czdCi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18  October \nDone:\n\u2022working on issue #8826\n\nNext:\n\u2022 look for other issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1729246574.769059",
+            "client_msg_id": "7d8fdfff-d1fc-4881-9e2c-f361626ac544",
+            "text": "17 October \nDONE:\nCompleted the care 101 course and setup care fe and searching for bugs\nNext:\nWill look into any unassigned issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "O9R2B",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 October \nDONE:\nCompleted the care 101 course and setup care fe and searching for bugs\nNext:\nWill look into any unassigned issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-10-17 00:00:00": [
+        {
+            "subtype": "channel_join",
+            "user": "U07RPJ2KZD4",
+            "text": "<@U07RPJ2KZD4> has joined the channel",
+            "inviter": "U02D0NA6RHR",
+            "type": "message",
+            "ts": "1729139666.400379"
+        }
+    ],
+    "2024-10-30 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730305499.206769",
+            "client_msg_id": "617ff44b-e28f-4144-8c6d-0c2a6c1e219b",
+            "text": "30 Oct 2024  No major work updates.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9jDsl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Oct 2024  No major work updates."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-02 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730532373.111349",
+            "client_msg_id": "eb5b3f56-b81c-4007-b3fd-a27e95f15ed2",
+            "text": "1 Nov 2024\nDone \n\u2022 Made the requested changes in PR #8930\n\u2022PR#8882\nNext\n\u2022looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5LnwB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "1 Nov 2024\nDone \n\u2022 Made the requested changes in PR #8930\n\u2022PR#8882\nNext\n\u2022looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-04 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730742133.226299",
+            "client_msg_id": "681149c3-63e7-49d7-83b6-ce5d5b3e0d50",
+            "text": "4 Nov 2024\nDone\n\u2022worked on the issue #8993\n\u2022worked on previous PR issues\nNext\n\u2022work on issue #536 in leaderboard",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cFlOr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "4 Nov 2024\nDone\n\u2022worked on the issue #8993\n\u2022worked on previous PR issues\nNext\n\u2022work on issue #536 in leaderboard"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-06 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1730861957.479539",
+            "client_msg_id": "ec124de6-491d-4063-9eb2-a86d1ab9b007",
+            "text": "5 NOV 202\nDone\n\u2022making the follow up in PR #8882\n\u2022working on issue #8993\nNext\n\u2022raise the pr to fix issue #8993",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vg+GB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "5 NOV 202\nDone\n\u2022making the follow up in PR #8882\n\u2022working on issue #8993\nNext\n\u2022raise the pr to fix issue #8993"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-07 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1731005373.796099",
+            "client_msg_id": "4d19038e-fbc5-49f6-80ad-52e9e25871e1",
+            "text": "07 Nov 2024\nDone:\n\u2022follow up in PR#8882 \n\u2022fixing issue #8993\nNext\n\u2022raise PR to fix issue #8993",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "e3GFQ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "07 Nov 2024\nDone:\n\u2022follow up in PR#8882 \n\u2022fixing issue #8993\nNext\n\u2022raise PR to fix issue #8993"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-08 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1731083954.112179",
+            "client_msg_id": "f694e4cf-f74a-48eb-9920-125b28d0f547",
+            "text": "08 Nov 2024\nDone\n\u2022rasied an issue #2587 on care\n\u2022worked on issue #8993\nNext\n\u2022raise the pr for botth issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3Tuml",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "08 Nov 2024\nDone\n\u2022rasied an issue #2587 on care\n\u2022worked on issue #8993\nNext\n\u2022raise the pr for botth issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-11 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1731314130.058029",
+            "client_msg_id": "d87e8e38-eb80-4731-a145-42f9027043fc",
+            "text": "09 Nov 2024\n\u2022No updates",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gELbT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "09 Nov 2024\n\u2022No updates"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-11-12 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1731437950.943229",
+            "client_msg_id": "e641762f-395a-4c32-b0ea-1f48c9e573f8",
+            "text": "12 Nov 2024\nDone\n\u2022raised a PR#9096\n\u2022made follow ups in previous PRS\nNext\n\u2022raise pr to fix issue #2587",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2JTOy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 Nov 2024\nDone\n\u2022raised a PR#9096\n\u2022made follow ups in previous PRS\nNext\n\u2022raise pr to fix issue #2587"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1731398969.284619",
+            "client_msg_id": "a58896f0-4b13-4697-afc0-2079ab9e74b8",
+            "text": "11 Nov 2024\nDone\n\u2022raised an issue #9090\n\u2022made follow ups on #8882 and merged \nNext\n\u2022raise pr for issue #9090 and #2587",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "LJU47",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "11 Nov 2024\nDone\n\u2022raised an issue #9090\n\u2022made follow ups on #8882 and merged \nNext\n\u2022raise pr for issue #9090 and #2587"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-18 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1731948978.193779",
+            "edited": {
+                "user": "U07RPJ2KZD4",
+                "ts": "1731950662.000000"
+            },
+            "client_msg_id": "f052641f-e22c-4d47-ade0-44502922c04e",
+            "text": "18 Nov 2024\nDone\n\u2022Raised the PR #9142 fixes #8993\nAdding Export functionality in discharged patients \n\u2022Raised the PR #2601 fixes #2587\nAdding CSV support to listdischargedpatient api \n\u2022Made the followups in Existing PR #8930\nRewriting usercreation.cy.ts according to POM approach \nNext\n\u2022merge the existing PRs and looking for new issues",
+            "team": "TC99SV7B6",
+            "thread_ts": "1731948978.193779",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1731950517.074689",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SB00B",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "18 Nov 2024\nDone\n\u2022Raised the PR #9142 fixes #8993\nAdding Export functionality in discharged patients \n\u2022Raised the PR #2601 fixes #2587\nAdding CSV support to listdischargedpatient api \n\u2022Made the followups in Existing PR #8930\nRewriting usercreation.cy.ts according to POM approach \nNext\n\u2022merge the existing PRs and looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-26 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1732647509.360559",
+            "client_msg_id": "2c33cad7-0a69-4bfd-9963-10981145a65f",
+            "text": "25 Nov 2024\nNo work done due to exams\nHad a internship review meeting with Aravind \n26 Nov 2024\n\u2022made the requested changes in PR #8930\nRewriting Usercreation.cy.ts according to POM approach \n\u2022looking for new issues",
+            "team": "TC99SV7B6",
+            "thread_ts": "1732647509.360559",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1732726263.968049",
+            "reply_users": [
+                "UC99MFPU1"
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "q/MjU",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "25 Nov 2024\nNo work done due to exams\nHad a internship review meeting with Aravind \n26 Nov 2024\n\u2022made the requested changes in PR #8930\nRewriting Usercreation.cy.ts according to POM approach \n\u2022looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-27 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1732726423.564139",
+            "client_msg_id": "1d896798-5901-40b0-80ca-c121c92cfb55",
+            "text": "27 Nov 2024\n\u2022 made the requested changes in PR #9142 and #8930\nRelated to adding CSV support for discharged patients and rewriting cypress user creation.cy.ts\nNext\n\u2022looking for new issues ( slow progress due to exams)",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zIzt4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "27 Nov 2024\n\u2022 made the requested changes in PR #9142 and #8930\nRelated to adding CSV support for discharged patients and rewriting cypress user creation.cy.ts\nNext\n\u2022looking for new issues ( slow progress due to exams)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "UC99MFPU1"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-11-29 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1732896285.066489",
+            "client_msg_id": "dd34e152-e572-4b1c-9dba-6122db6f2b92",
+            "text": "28 Nov 2024\nDone \n\u2022made the requested changes in PR #9142 and #8930\nNext \nLooking for new issues \n29 Nov 2024\nNo work updates due to ongoing exams",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lCkNR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "28 Nov 2024\nDone \n\u2022made the requested changes in PR #9142 and #8930\nNext \nLooking for new issues \n29 Nov 2024\nNo work updates due to ongoing exams"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-04 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1733297153.891259",
+            "client_msg_id": "2937672d-510b-4ddb-8067-40d2fea70adc",
+            "text": "30 Nov 2023\n\u2022made the updates in PR #8930 and got merges \n2 Nov 2023 \n\u2022Updated on the pr #9142\n\u2022Slow progress due to ongoing sem examinations\nSorry for late update of EODS",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2XTrN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "30 Nov 2023\n\u2022made the updates in PR #8930 and got merges \n2 Nov 2023 \n\u2022Updated on the pr #9142\n\u2022Slow progress due to ongoing sem examinations\nSorry for late update of EODS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-12 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1734027246.508039",
+            "client_msg_id": "161de476-d149-434b-a26b-98f616bbd12c",
+            "text": "12 Dec 2024\nDone\n\u2022Made the requested changes in #9142\nAdding CSV support to discharged patients \n\u2022Drafted a new issue #9381 and  working on issue\nEnhancement in Notice board page\n\u2022Made PR #9343 which fixes issue #9339\nMinor alignment in shifting and resources page\nNext\n\u2022Raise PR for issue #9381",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MEo8S",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "12 Dec 2024\nDone\n\u2022Made the requested changes in #9142\nAdding CSV support to discharged patients \n\u2022Drafted a new issue #9381 and  working on issue\nEnhancement in Notice board page\n\u2022Made PR #9343 which fixes issue #9339\nMinor alignment in shifting and resources page\nNext\n\u2022Raise PR for issue #9381"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-13 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1734108751.079169",
+            "client_msg_id": "6a485d55-21d2-4aad-9fde-aeeedf579c45",
+            "text": "13 Nov 2024\nDone\n\u2022Made the requested changes in PR #9343\nAdded Avatar in notice board card\n\u2022Worked on issue #9381 and Drafted the PR \nFixed different search bar length ins resource and shifting page \nNext\n\u2022looking for new issues",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lXxSi",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Nov 2024\nDone\n\u2022Made the requested changes in PR #9343\nAdded Avatar in notice board card\n\u2022Worked on issue #9381 and Drafted the PR \nFixed different search bar length ins resource and shifting page \nNext\n\u2022looking for new issues"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-14 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1734197170.249769",
+            "client_msg_id": "14a505be-ea58-4783-9fd0-8c9677a7acf4",
+            "text": "13 Nov 2024\n\u2022No work updates",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "1EKmI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "13 Nov 2024\n\u2022No work updates"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-16 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1734363589.874129",
+            "client_msg_id": "f3a470f8-2279-40b3-89a4-398149a77888",
+            "text": "16 Dec 2024\nDone\n\u2022created an issue #565 on leaderboard \n\u2022Raised the PR #566\nMissing Active effect in leaderboard tab\n\u2022Made the requested changes 9343\nCard design in Notice board \n\u2022started working on issue 9456\nAdd MFA screens in login flow\nNext\n\u2022Raise the PR for #9456",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hmjVv",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "16 Dec 2024\nDone\n\u2022created an issue #565 on leaderboard \n\u2022Raised the PR #566\nMissing Active effect in leaderboard tab\n\u2022Made the requested changes 9343\nCard design in Notice board \n\u2022started working on issue 9456\nAdd MFA screens in login flow\nNext\n\u2022Raise the PR for #9456"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "2024-12-18 00:00:00": [
+        {
+            "user": "U07RPJ2KZD4",
+            "type": "message",
+            "ts": "1734543554.183089",
+            "client_msg_id": "6baec168-db0a-4679-a1db-69cce77b942f",
+            "text": "17 Dec 2024\n\u2022worked on the PR #9142\n18 Dec 2024\n\u2022Removed unwanted changes and solved merge conflicts in PR #9142\n\u2022Gone through the MFA\n\u2022started working on issue #9456",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "fDb6w",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "17 Dec 2024\n\u2022worked on the PR #9142\n18 Dec 2024\n\u2022Removed unwanted changes and solved merge conflicts in PR #9142\n\u2022Gone through the MFA\n\u2022started working on issue #9456"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

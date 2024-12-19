@@ -1,0 +1,221 @@
+{
+  "last_updated": "2024-10-27T12:20:29.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#7350",
+      "time": "2024-10-27T12:20:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/7350#issuecomment-2439993379",
+      "text": "@aparnacoronasafe  @rithviknishad can you assign this issue to me ?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-21T16:26:43.000Z",
+      "title": "ohcnetwork/care_fe#8686",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8686#pullrequestreview-2382625056",
+      "text": "Fixing NotificationsList on Service Worker"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8686",
+      "time": "2024-10-21T13:51:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8686#issuecomment-2426747007",
+      "text": "@bodhish yes I am working"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8734",
+      "time": "2024-10-07T17:30:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8734",
+      "text": "Production release v24.41.0; October week 1",
+      "collaborated_with": [
+        "Jacobjeevan",
+        "rithviknishad",
+        "shauryag2002",
+        "vishwansh01",
+        "sainak",
+        "JOSHIK27",
+        "o",
+        "i",
+        "shivankacker",
+        "AdityaJ2305",
+        "7",
+        "HitishRaoP",
+        "Jash2606",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8695",
+      "time": "2024-10-04T10:14:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8695",
+      "text": "Merge Develop To Staging v24.41.0",
+      "collaborated_with": [
+        "Jacobjeevan",
+        "rithviknishad",
+        "shauryag2002",
+        "vishwansh01",
+        "sainak",
+        "JOSHIK27",
+        "o",
+        "i",
+        "shivankacker",
+        "AdityaJ2305",
+        "7",
+        "HitishRaoP",
+        "Jash2606"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8653",
+      "time": "2024-10-03T14:41:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8653",
+      "text": "Production Release v24.40.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "Nithin9585",
+        "o",
+        "i",
+        "A",
+        "sainak",
+        "khavinshankar",
+        "nihal467",
+        "h",
+        "Jacobjeevan",
+        "7",
+        "shivankacker",
+        "UdaySagar-Git",
+        "vishwansh01",
+        "AdityaJ2305",
+        "syedfardeenjeelani"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8006",
+      "time": "2024-10-01T14:30:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8006#issuecomment-2386133334",
+      "text": "Hey ! @bodhish \r\nI just created a pull request related to the issue . "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8686",
+      "time": "2024-10-01T14:29:06.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8686",
+      "text": "Fixing NotificationsList on Service Worker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8647",
+      "time": "2024-10-01T09:14:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8647",
+      "text": "Remove \"read more\" for prescription notes in detailed view",
+      "turnaround_time": 395735
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8647",
+      "time": "2024-10-01T09:14:30.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8647",
+      "text": "Remove \"read more\" for prescription notes in detailed view",
+      "collaborated_with": [
+        "vishwansh01",
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8647",
+      "time": "2024-09-27T07:10:01.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8647#issuecomment-2378557013",
+      "text": "> Refer: [#8643 (comment)](https://github.com/ohcnetwork/care_fe/issues/8643#issuecomment-2377440395)\r\n@rithviknishad \r\n I just made changes to the PR as requested."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8643",
+      "time": "2024-09-26T17:23:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8643#issuecomment-2377524475",
+      "text": "@nihal467 I would like to take this issue\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8617",
+      "time": "2024-09-25T09:08:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8617",
+      "text": "Merge Develop to Staging v24.40.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "Nithin9585",
+        "o",
+        "i",
+        "A",
+        "sainak",
+        "khavinshankar",
+        "nihal467",
+        "h",
+        "Jacobjeevan",
+        "7",
+        "shivankacker",
+        "UdaySagar-Git",
+        "vishwansh01"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8575",
+      "time": "2024-09-25T04:21:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8575",
+      "text": "Adding cache control headers",
+      "turnaround_time": 473231
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8575",
+      "time": "2024-09-25T04:21:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8575",
+      "text": "Adding cache control headers",
+      "collaborated_with": [
+        "vishwansh01",
+        "nihal467",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8516",
+      "time": "2024-09-19T17:10:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8516#issuecomment-2361721829",
+      "text": "Hi @sainak !\r\nI just created a pull request solving this issue : [#8575 ](https://github.com/ohcnetwork/care_fe/pull/8575)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8575",
+      "time": "2024-09-19T16:54:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8575",
+      "text": "Adding cache control headers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8647",
+      "time": "2024-09-26T19:18:54Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8647",
+      "text": "Remove \"read more\" for prescription notes in detailed view"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8686",
+      "title": "Fixing NotificationsList on Service Worker",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "changes required",
+        "Deploy-Failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

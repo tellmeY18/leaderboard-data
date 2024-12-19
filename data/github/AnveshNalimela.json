@@ -1,0 +1,478 @@
+{
+  "last_updated": "2024-12-16T17:05:31.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/leaderboard#566",
+      "time": "2024-12-16T17:05:31.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/566",
+      "text": "Missing Active Effect on Leaderboard Tab",
+      "turnaround_time": 8473
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9456",
+      "time": "2024-12-16T16:09:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9456#issuecomment-2546040960",
+      "text": "@rithviknishad @yash-learner  Either Branch from develop or  https://github.com/ohcnetwork/care_fe/tree/form-field-v1 ..? "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/leaderboard#566",
+      "time": "2024-12-16T14:44:19.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/pull/566",
+      "text": "Missing Active Effect on Leaderboard Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9456",
+      "time": "2024-12-16T12:55:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9456#issuecomment-2545561195",
+      "text": "@yash-learner I would like to work on these issue and could you assign it to me \n "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#565",
+      "time": "2024-12-16T08:59:33.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/565#issuecomment-2544983506",
+      "text": "@rithviknishad  i would like to work on these issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/leaderboard#565",
+      "time": "2024-12-16T08:54:08.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/565",
+      "text": "Missing Hover Effect on Leaderboard Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9381",
+      "time": "2024-12-11T13:52:28.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9381#issuecomment-2536049265",
+      "text": "@rithviknishad I would like to work on these issue\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9381",
+      "time": "2024-12-11T13:47:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9381#issuecomment-2536038626",
+      "text": "@sanjayh-2022 Im will be working on issue once it get assigned"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9381",
+      "time": "2024-12-11T13:01:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9381",
+      "text": "Minor Changes in Shifitng and Resource Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9343",
+      "time": "2024-12-10T05:41:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9343#issuecomment-2530467124",
+      "text": "@rithviknishad  i just seen the in that PR 5 files got changed which are irrelavent  and lot of commits \r\n![{9CD137DF-9C35-4023-B972-0FED2ADA0007}](https://github.com/user-attachments/assets/5d73d5be-ac57-47c7-8a9d-31032ff5f7a7)\r\n\r\nso i closed that and reverted all changes and made the new PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9343",
+      "time": "2024-12-10T04:20:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9343#issuecomment-2530276201",
+      "text": "@Jacobjeevan  i closed the original PR  becuase many unwanted changes got commited into that . Try to open these and get  reviewd"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9142",
+      "time": "2024-12-09T18:00:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9142#issuecomment-2528933692",
+      "text": "@nihal467  Due to ongoing exams there is inactivity in PR . I made all the requested changes and few are left to be made. I will make them and push by 12-12-2024"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9343",
+      "time": "2024-12-09T17:57:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9343",
+      "text": "Update the Card Design in Notice Board "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9342",
+      "time": "2024-12-09T17:41:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9342",
+      "text": "Update the Card Design in Notice Board"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9339",
+      "time": "2024-12-09T14:25:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9339",
+      "text": "Update Notice Card UI in the notice_board Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-30T00:27:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930",
+      "text": "Rewriting UsersCreation.cy.ts according to POM approach",
+      "turnaround_time": 3045340
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-26T19:08:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2501722204",
+      "text": "@nihal467 Made the requested changes check out once"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9142",
+      "time": "2024-11-26T14:28:16.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9142#issuecomment-2500948352",
+      "text": "I will push the requested changes by tmrw\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care#2601",
+      "time": "2024-11-25T14:52:07.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2601",
+      "text": "Added CSV support To API listFacilityDischargedPatients",
+      "turnaround_time": 776363
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care#2601",
+      "time": "2024-11-25T14:52:07.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2601",
+      "text": "Added CSV support To API listFacilityDischargedPatients",
+      "collaborated_with": [
+        "AnveshNalimela",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-25T13:22:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2498011741",
+      "text": "@nihal i will push the requested changes tommorrow \r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9096",
+      "time": "2024-11-18T13:36:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9096",
+      "text": "Design of List View layout  in Resource Page",
+      "turnaround_time": 499351
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9142",
+      "time": "2024-11-16T16:33:39.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9142",
+      "text": "Added the CSV Export button In Discharged Patients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care#2601",
+      "time": "2024-11-16T15:12:44.000Z",
+      "link": "https://github.com/ohcnetwork/care/pull/2601",
+      "text": "Added CSV support To API "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9096",
+      "time": "2024-11-16T08:54:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9096#issuecomment-2480483884",
+      "text": "@rithviknishad All the test are succesfull Could You trigger the merge"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9096",
+      "time": "2024-11-16T08:53:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9096#issuecomment-2480483705",
+      "text": "@nihal467  Could you test and merge these PR..?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9096",
+      "time": "2024-11-15T06:10:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9096#issuecomment-2478031920",
+      "text": "I Dont Know Why they are failing. HCX claim specs are failing ."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9096",
+      "time": "2024-11-13T12:52:19.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9096#issuecomment-2473535034",
+      "text": "@rithviknishad  Could you check on these PR a"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9096",
+      "time": "2024-11-12T18:53:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9096",
+      "text": "Issue/#9090/listview resources"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8993",
+      "time": "2024-11-12T02:35:25.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8993#issuecomment-2469470843",
+      "text": " Im currently working on these. these issue to be attached with backend so it is taking time"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9090",
+      "time": "2024-11-12T02:18:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9090#issuecomment-2469455134",
+      "text": "@rithviknishad  I would like to work on these issue . assign it to me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9090",
+      "time": "2024-11-12T02:17:35.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9090",
+      "text": "Update the List view Layout in Resources"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-11-11T13:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882",
+      "text": "Update for List View in Shifting from Gird LayOut to List Layout",
+      "turnaround_time": 1717732
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-11-11T13:40:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882",
+      "text": "Update for List View in Shifting from Gird LayOut to List Layout",
+      "collaborated_with": [
+        "AnveshNalimela",
+        "nihal467",
+        "o",
+        "3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-11-11T12:52:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882#issuecomment-2468110457",
+      "text": "@rithviknishad could you review it and merge it .\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-10T04:43:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2466582853",
+      "text": "@nihal467  there is test case in userManage.cy.ts \"linking and unlinking facility for multiple users, and confirm reflection in user cards and doctor connect\" It get failed when i was trying in my local found that whenever we test for first time it get passed . But when we try for second time it fails bcoz the previous test already links faciltity to procvided user so we cant link it again. if we manually delete the linked facilties and run again . They are passed . "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-10T04:42:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2466582777",
+      "text": "@nihal467  Made the all changes could you test and merge . "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-11-07T14:46:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882#issuecomment-2462421809",
+      "text": "@nihal The deploy failed due to cache issue of apps folder.the build got failed due to import statements. Could on the issue @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-07T14:46:18.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2462420170",
+      "text": "@nihal The deploy failed due to cache issue of apps folder.the build got failed due to import statements. Could on the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/leaderboard#536",
+      "time": "2024-11-04T14:24:50.000Z",
+      "link": "https://github.com/ohcnetwork/leaderboard/issues/536#issuecomment-2454853920",
+      "text": "@rithviknishad i would like on these issue But need some gudiance regarding the issue\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8993",
+      "time": "2024-11-04T13:36:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8993#issuecomment-2454737788",
+      "text": "@nihal467 i would like to work on this issue . assign it to me.\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-29T05:50:07.000Z",
+      "title": "ohcnetwork/care_fe#8882",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882#pullrequestreview-2400788407",
+      "text": "Redesign UI for List View in Shifting"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8983",
+      "time": "2024-11-02T10:43:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8983#issuecomment-2452950250",
+      "text": "I would like work on these ."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8983",
+      "time": "2024-11-02T10:42:45.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8983",
+      "text": "Enhance Grid Layout in \"View Users Associated with Facilities\" Section"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-11-01T12:21:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2451786950",
+      "text": "@nihal467  Looking forward for response ..\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-10-27T05:06:39.000Z",
+      "title": "ohcnetwork/care_fe#8930",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#pullrequestreview-2397402357",
+      "text": "removed ClickElementById function from UsersCreation.cy.ts"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-10-28T14:10:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2441703574",
+      "text": "@nihal467  Made the changes. Have a look\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-10-28T08:36:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2440874279",
+      "text": "I will be on it "
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-10-27T19:32:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2440147720",
+      "text": "\r\n@nihal467  made the changes accordingly by refering patientDoctorConnect.cy.ts .just have look at latest commit \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-10-27T19:05:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930#issuecomment-2440139211",
+      "text": "@nihal467 \r\nhave a look at this \r\n```\r\nclickProfileName() {\r\n    cy.get(\"#user-profile-name\").click();\r\n  }\r\n```\r\nDeclare such indiviual functions in pageobejct of user creation.ts\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-10-27T18:35:08.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882#issuecomment-2440130298",
+      "text": "![{5BB5DB58-D088-4200-BF7E-200A5B01FFB2}](https://github.com/user-attachments/assets/e43ea66b-23b8-4873-87a8-4e9317c3b724)\r\nHave a look.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8929",
+      "time": "2024-10-25T13:37:48.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8929#issuecomment-2437807161",
+      "text": "@nihal467 I would like work on this issue \nWould you assign it to me..?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-10-25T12:54:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882#issuecomment-2437704152",
+      "text": "Any Changes required if yes. Suggest\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care#2558",
+      "time": "2024-10-22T11:04:17.000Z",
+      "link": "https://github.com/ohcnetwork/care/issues/2558",
+      "text": "\"Username not avaliable\" Error while creating user with already deleted Usernames"
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#8874",
+      "time": "2024-10-22T10:15:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/8874",
+      "text": "\"Username not avaliable\" Error while creating user with already deleted Usernames"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8832",
+      "time": "2024-10-21T12:39:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8832#issuecomment-2426557229",
+      "text": "No idea sir. I havent made any changes in package-lock.json\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8832",
+      "time": "2024-10-21T12:31:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8832#issuecomment-2426539226",
+      "text": "There is merge conflcit due to package-lock.json But havent modified the that file"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#8832",
+      "time": "2024-10-21T09:00:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8832#issuecomment-2426051224",
+      "text": "The issue #8826\nMinor enhancements of UI in shifting and resources page\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8832",
+      "time": "2024-10-19T18:44:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8832",
+      "text": "Alignment adjusted and UI minor updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8882",
+      "time": "2024-10-22T16:32:06Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8882",
+      "text": "Redesign UI for List View in Shifting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#8930",
+      "time": "2024-10-25T18:32:01Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/8930",
+      "text": "Rewriting UsersCreation.cy.ts according to POM approach"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9343",
+      "title": "Update the Card Design in Notice Board ",
+      "stale_for": 1,
+      "labels": [
+        "changes required",
+        "redesign",
+        "discussion required"
+      ]
+    },
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9142",
+      "title": "Added the CSV Export button In Discharged Patients",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9090",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9096"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8826",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8882"
+    }
+  ]
+}

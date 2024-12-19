@@ -1,0 +1,337 @@
+{
+  "last_updated": "2024-12-18T11:05:59.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9471",
+      "time": "2024-12-18T11:05:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9471#issuecomment-2551029834",
+      "text": "> Hey [@nihal467](https://github.com/nihal467), I’d like to pick up some issues from here. I’ve successfully branched out this branch locally.\n\nhey @AdityaJ2305 , where did you find the code for this new branch?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9471",
+      "time": "2024-12-18T06:49:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9471#issuecomment-2550492862",
+      "text": "I would like to work on some of the issues mentioned here. @nihal467 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9449",
+      "time": "2024-12-18T06:28:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9449",
+      "text": "Create 'copyToClipboard' utility function",
+      "turnaround_time": 172622
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9449",
+      "time": "2024-12-18T06:28:10.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9449",
+      "text": "Create 'copyToClipboard' utility function",
+      "collaborated_with": [
+        "rajku-dev",
+        "o",
+        "3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9317",
+      "time": "2024-12-18T02:24:23.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9317#issuecomment-2550159906",
+      "text": "> > resolve conflicts\r\n\r\n\r\n used `TooltipComponent`  and eliminated the need for `Tooltip`, `TooltipTrigger` and `TooltipContent` for all tooltips\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9317",
+      "time": "2024-12-18T02:22:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9317#issuecomment-2550157944",
+      "text": "\r\n\r\n\r\n\r\n> resolve conflicts\r\n\r\nused `TooltipComponent` for all tooltips , eliminated the need for `Tooltip`, `TooltipTrigger` and `TooltipContent`"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9449",
+      "time": "2024-12-17T23:40:34.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9449#issuecomment-2549905936",
+      "text": "can i use this utility function at other places where this functionality may be required? @rithviknishad \r\nin this PR itself?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9449",
+      "time": "2024-12-16T06:31:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9449",
+      "text": "Add Phone Number Copy Notification"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9448",
+      "time": "2024-12-16T06:22:52.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9448",
+      "text": "Add Phone number copy notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9444",
+      "time": "2024-12-16T02:45:12.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9444#issuecomment-2544425250",
+      "text": "> Hi, I have started working on this issue. I will raise the PR Today. Thanks\n\nLet me do it @srijantrpth\nPlease look over other open issues or find new issues on you own, get them approved and work on them"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9445",
+      "time": "2024-12-16T02:35:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9445#issuecomment-2544414776",
+      "text": "If not being addressed in other issues, I would like to work on this @Jacobjeevan @rithviknishad "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9445",
+      "time": "2024-12-16T02:34:03.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9445",
+      "text": "Bug in Log Lab Results Multi-Selector"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9444",
+      "time": "2024-12-15T18:10:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9444#issuecomment-2543984541",
+      "text": "I would like to work on this if applicable @rithviknishad @Jacobjeevan @nihal467 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9444",
+      "time": "2024-12-15T18:09:05.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9444",
+      "text": "Add Copy Confirmation for Doctor's Phone Number"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9443",
+      "time": "2024-12-15T17:58:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9443#issuecomment-2543980177",
+      "text": "I want to fix this issue. @Jacobjeevan @rithviknishad @nihal467 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9443",
+      "time": "2024-12-15T17:57:58.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9443",
+      "text": "Date picker icon overlapping"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9412",
+      "time": "2024-12-14T06:16:09.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9412#issuecomment-2542861774",
+      "text": "I want to work on this issue @bodhish @rithviknishad @Jacobjeevan "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9412",
+      "time": "2024-12-14T06:15:42.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9412",
+      "text": "Discrepancy in Occupancy data on Facility Card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "ohcnetwork/care_fe#9330",
+      "time": "2024-12-11T17:44:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9330",
+      "text": "Changes on Assigning/Reassigning/Unassigning Volunteer to Patient",
+      "turnaround_time": 375895
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "ohcnetwork/care_fe#9330",
+      "time": "2024-12-11T17:44:37.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9330",
+      "text": "Changes on Assigning/Reassigning/Unassigning Volunteer to Patient",
+      "collaborated_with": [
+        "rajku-dev",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9334",
+      "time": "2024-12-09T09:17:32.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9334#issuecomment-2527357150",
+      "text": "I would like to fix this @rithviknishad @Jacobjeevan @nihal467 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9334",
+      "time": "2024-12-09T09:16:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9334",
+      "text": "Infinite Scrolling on Resource Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9330",
+      "time": "2024-12-08T00:36:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9330#issuecomment-2525359841",
+      "text": "@Jacobjeevan please review the changes."
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9330",
+      "time": "2024-12-07T09:19:41.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9330",
+      "text": "Changes on Assigning/Reassigning/Unassigning Volunteer to Patient"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9317",
+      "time": "2024-12-07T04:50:11.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9317#issuecomment-2524875858",
+      "text": "@Jacobjeevan UI after changes\r\n<img src=\"https://github.com/user-attachments/assets/426faf01-b87b-49f2-a871-9880e94624d7\" width=357/>\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9317",
+      "time": "2024-12-07T04:44:49.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9317#issuecomment-2524873305",
+      "text": "@Jacobjeevan This is the UI after changes\r\n<img src=\"https://github.com/user-attachments/assets/70af0502-3512-41a5-96f7-ecf82339b292\" width=\"300\"/>\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9317",
+      "time": "2024-12-06T12:42:02.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9317",
+      "text": "Add tooltip on buttons on Facilty Cards for small viewports"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9316",
+      "time": "2024-12-06T10:39:15.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9316#issuecomment-2522785592",
+      "text": "I want to work on this issue(s). @Jacobjeevan @rithviknishad @nihal467 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9316",
+      "time": "2024-12-06T10:38:26.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9316",
+      "text": "Incorrect notification message on updating/assigning volunteer to a patient"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9315",
+      "time": "2024-12-06T09:52:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9315#issuecomment-2522694453",
+      "text": "can i work on this issue? @Jacobjeevan @rithviknishad "
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9315",
+      "time": "2024-12-06T09:52:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9315",
+      "text": "No Button Guidance on Facility Cards Below 768px Breakpoint"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9261",
+      "time": "2024-12-01T16:31:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9261#issuecomment-2509955902",
+      "text": "> This occurs on the test platform only due to broken data that was accumulated over time (i.e. asset list refers to a specific facility, however that facility no longer exists).\n> \n> So, it's not an issue that needs to be resolved. Closing as not planned.\n\n@Jacobjeevan its alright👍"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9261",
+      "time": "2024-12-01T05:40:29.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9261#issuecomment-2509583697",
+      "text": "I want to work on this issue."
+    },
+    {
+      "type": "issue_opened",
+      "title": "ohcnetwork/care_fe#9261",
+      "time": "2024-12-01T05:39:56.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9261",
+      "text": "Double Notification Error on filtering the Assets by Facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9230",
+      "time": "2024-12-01T01:44:07.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9230#issuecomment-2509517454",
+      "text": "@nihal467 Can I work on this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9192",
+      "time": "2024-11-29T03:14:33.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9192#issuecomment-2507017588",
+      "text": "> Depends on #8956. Merge only after that PR is merged.\r\n\r\n@Jacobjeevan sir, can you please review the final changes?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9189",
+      "time": "2024-11-25T16:47:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9189#issuecomment-2498531620",
+      "text": "@Jacobjeevan  I have updated #9192 with new commits.\nPlease review and let me know if further work has to be done."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9189",
+      "time": "2024-11-24T15:38:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9189#issuecomment-2496067801",
+      "text": "> There's a PR open ([#8956](https://github.com/ohcnetwork/care_fe/pull/8956)) that modified Form component to have a dirty state, so that would take care of the original issue, once we switch this page to use form component.\n\nI'm sorry, didn't knew about that since i am new to open source.\ntalking about issue, i have solved the problem but by not using Form component, but to follow the best practices, I would implement wrapping the assetCreate form with Form Component."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9144",
+      "time": "2024-11-24T12:57:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9144#issuecomment-2495986279",
+      "text": "> (1) Should be able to select multiple investigations (2) Pass the data to backend only if investigation is still selected\n\nwhen user selects one investigation group like 'Biochemistry Test', it shows all tests under 'Biochemistry Test', next if user selects 'FBS' which comes under 'Biochemistry Test', what should be the expected behavior, only one 'FBS' should be shown or all the tests of 'Biochemistry Test' should be shown, since user has selected 'Biochemistry Test' before.\n@Jacobjeevan "
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9192",
+      "time": "2024-11-24T06:03:21.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9192",
+      "text": "💊Fix unnecessary API Calls on updating an existing asset (#9189)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9191",
+      "time": "2024-11-24T05:51:40.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9191",
+      "text": "💊 Fix unnecessary API calls on updating an existing asset (#9198)"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9189",
+      "time": "2024-11-24T05:44:36.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/issues/9189#issuecomment-2495826173",
+      "text": "Hi @Jacobjeevan , I would like to work on this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/life#109",
+      "time": "2024-11-12T11:02:11.000Z",
+      "link": "https://github.com/ohcnetwork/life/issues/109#issuecomment-2470230707",
+      "text": "can i take up Odia (od).\n"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9317",
+      "title": "Use shadcn Tooltip Components across FacilityCard",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9444",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9449"
+    },
+    {
+      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9316",
+      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9330"
+    }
+  ]
+}

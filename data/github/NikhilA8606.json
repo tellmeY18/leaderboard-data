@@ -1,0 +1,63 @@
+{
+  "last_updated": "2024-12-16T09:47:24.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-16T09:47:24.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2545091489",
+      "text": "> [#9267 (review)](https://github.com/ohcnetwork/care_fe/pull/9267#pullrequestreview-2498089248)\r\n> \r\n> let's not implement the hook. use the one provided by tanstack query instead.\r\n\r\nOkay"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-16T08:05:17.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2544861611",
+      "text": "Any other changes required?"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-16T08:04:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2544860620",
+      "text": "useInfiniteQuery implemented"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-12T08:05:44.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2538078467",
+      "text": "> #9360 Has added support for using TanStack Query. Can we switch to using it's `useInfiniteQuery` instead after merging your branch with latest `develop` branch?\r\n> \r\n> Refer [docs](https://tanstack.com/query/latest/docs/framework/react/reference/useInfiniteQuery#useinfinitequery).\r\n\r\nYes"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-10T23:17:53.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2533197405",
+      "text": "> Let's switch to using `useInfiniteQuery` hook as implemented in #9190 similar to how `useDebounce` was copied over. Do make sure changes its copied exactly as is to avoid merge conflicts.\r\n\r\nThank you for the suggestion. You're absolutely right that KanbanBoardType<T> is redundant since it's exactly the same as KanbanBoardProps<T>. I'll remove KanbanBoardType<T> and directly reuse KanbanBoardProps<T> to keep the code clean and consistent."
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-04T12:59:59.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2517282884",
+      "text": "> The link attached takes right to the useDebounce hook implementation\r\n\r\nYeah i got it"
+    },
+    {
+      "type": "comment_created",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-03T20:44:04.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267#issuecomment-2515514254",
+      "text": "> Also [useDebounce](https://github.com/ohcnetwork/care_fe/pull/9116/files#diff-cda4ca785473197ac020d50f1efbbecd157cb01dc09e86d93bac11be09bf54fa) hook is being implemented by @SwanandBhuskute which can be reused here instead of implementing it.\r\n\r\nHey, i walked through the pull requests of @SwanandBhuskute but he didn't solve this issue and not using this hook in there"
+    },
+    {
+      "type": "pr_opened",
+      "title": "ohcnetwork/care_fe#9267",
+      "time": "2024-12-02T07:22:55.000Z",
+      "link": "https://github.com/ohcnetwork/care_fe/pull/9267",
+      "text": "Resolve infinite scroll issue in Resource page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
